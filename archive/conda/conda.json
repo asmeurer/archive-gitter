@@ -90618,5 +90618,671 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/ahkumar_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=60&d=identicon",
+   "displayName": "Amit",
+   "id": "5b4e4686d73408ce4fa13f6f",
+   "url": "/ahkumar_gitlab",
+   "username": "ahkumar_gitlab"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ahkumar_gitlab\" class=\"mention\">@ahkumar_gitlab</span><br>Quick question: I have update few packages and have broken my jupyter notebook, now I wan to revert my changes; but when I do so i get this error: Any idea how can i get around it:<br>CondaRevisionError: Cannot revert to 25, since r::r-pbdzmq-0.2_6-r3.4.1_0 is not in repodata.",
+  "id": "5b5b6bc43cc395660728cfd7",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ahkumar_gitlab",
+    "userId": "5b4e4686d73408ce4fa13f6f",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2018-07-27T19:00:20.716Z",
+  "text": "@ahkumar_gitlab\nQuick question: I have update few packages and have broken my jupyter notebook, now I wan to revert my changes; but when I do so i get this error: Any idea how can i get around it:\nCondaRevisionError: Cannot revert to 25, since r::r-pbdzmq-0.2_6-r3.4.1_0 is not in repodata.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/ahkumar_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=60&d=identicon",
+   "displayName": "Amit",
+   "id": "5b4e4686d73408ce4fa13f6f",
+   "url": "/ahkumar_gitlab",
+   "username": "ahkumar_gitlab"
+  },
+  "html": "will it be okay if I remove this conflicting package first and then try to revert back to an older revision?",
+  "id": "5b5b6cf0f52b276ced4914ec",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:05:20.306Z",
+  "text": "will it be okay if I remove this conflicting package first and then try to revert back to an older revision?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/ahkumar_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=60&d=identicon",
+   "displayName": "Amit",
+   "id": "5b4e4686d73408ce4fa13f6f",
+   "url": "/ahkumar_gitlab",
+   "username": "ahkumar_gitlab"
+  },
+  "html": "if It was a test setup i could have tried server things, given this installation of python is continuously used by users I am hesitant to try random ideas",
+  "id": "5b5b6e92cb4d5b036c9ef4be",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:12:18.032Z",
+  "text": "if It was a test setup i could have tried server things, given this installation of python is continuously used by users I am hesitant to try random ideas",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/ahkumar_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=60&d=identicon",
+   "displayName": "Amit",
+   "id": "5b4e4686d73408ce4fa13f6f",
+   "url": "/ahkumar_gitlab",
+   "username": "ahkumar_gitlab"
+  },
+  "html": "sveral*",
+  "id": "5b5b6e99448122584439dc8d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:12:25.011Z",
+  "text": "sveral*",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/ahkumar_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/9648af46b0b31e83f2f5ee1f116b5f20?s=60&d=identicon",
+   "displayName": "Amit",
+   "id": "5b4e4686d73408ce4fa13f6f",
+   "url": "/ahkumar_gitlab",
+   "username": "ahkumar_gitlab"
+  },
+  "html": "several*",
+  "id": "5b5b6e9ecb4d5b036c9ef4cf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:12:30.507Z",
+  "text": "several*",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "Does anyone know what might be causing this issue: <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"4918\" href=\"https://github.com/jupyterlab/jupyterlab/issues/4918\" data-provider=\"github\" data-issue-repo=\"jupyterlab/jupyterlab\" class=\"issue\">jupyterlab/jupyterlab#4918</a>",
+  "id": "5b5b708712f1be71375e285b",
+  "issues": [
+   {
+    "number": "4918",
+    "repo": "jupyterlab/jupyterlab"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2018-07-27T19:20:39.312Z",
+  "text": "Does anyone know what might be causing this issue: https://github.com/jupyterlab/jupyterlab/issues/4918",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2018-07-27T19:21:56.515Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "When I install <code>jupyterlab</code> using conda-forge it uses <code>python</code> however when installing using from the default channel it used <code>pythonw</code>, and this causes issues with DYLD_FALLBACK_LIBRARY_PATH",
+  "id": "5b5b70c6854add6cee010aa0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2018-07-27T19:21:42.239Z",
+  "text": "When I install `jupyterlab` using conda-forge it uses `python` however when installing using from the default channel it used `pythonw`, and this causes issues with DYLD_FALLBACK_LIBRARY_PATH",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jjhelmus",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=60",
+   "displayName": "Jonathan J. Helmus",
+   "gv": "4",
+   "id": "5485d1aedb8155e6700dd06f",
+   "url": "/jjhelmus",
+   "username": "jjhelmus",
+   "v": 38
+  },
+  "html": "I believe the difference stems from the use of <code>osx_is_app: True</code> in the recipe.",
+  "id": "5b5b72083e264c7138464745",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:27:04.876Z",
+  "text": "I believe the difference stems from the use of `osx_is_app: True` in the recipe.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "That would make sense. ",
+  "id": "5b5b724a20d248394f5dfb65",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2018-07-27T19:28:10.524Z",
+  "text": "That would make sense. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2018-07-27T19:28:33.183Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "Do you know why people recommend <code>pythonw</code> over <code>python</code> for apps?",
+  "id": "5b5b725c3e264c71384647e2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2018-07-27T19:28:28.112Z",
+  "text": "Do you know why people recommend `pythonw` over `python` for apps?",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jjhelmus",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=60",
+   "displayName": "Jonathan J. Helmus",
+   "gv": "4",
+   "id": "5485d1aedb8155e6700dd06f",
+   "url": "/jjhelmus",
+   "username": "jjhelmus",
+   "v": 38
+  },
+  "html": "pythonw is recommended when the script uses a GUI",
+  "id": "5b5b7330defc9823f51dcf87",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:32:00.573Z",
+  "text": "pythonw is recommended when the script uses a GUI",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ihnorton",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/327706?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/327706?v=4&s=60",
+   "displayName": "Isaiah Norton",
+   "gv": "4",
+   "id": "5349af1c5e986b0712f03159",
+   "url": "/ihnorton",
+   "username": "ihnorton",
+   "v": 9
+  },
+  "html": "it avoids popping up a separate console on windows",
+  "id": "5b5b7378854add6cee0112e9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:33:12.110Z",
+  "text": "it avoids popping up a separate console on windows",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "Reading more about this from here: <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"199\" href=\"https://github.com/ContinuumIO/anaconda-issues/issues/199\" data-provider=\"github\" data-issue-repo=\"ContinuumIO/anaconda-issues\" class=\"issue\">ContinuumIO/anaconda-issues#199</a>",
+  "id": "5b5b767ef52b276ced492c61",
+  "issues": [
+   {
+    "number": "199",
+    "repo": "ContinuumIO/anaconda-issues"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:46:06.765Z",
+  "text": "Reading more about this from here: https://github.com/ContinuumIO/anaconda-issues/issues/199",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "It seems that <code>pythonw</code> is only really required for applications that need access to the window on OSX",
+  "id": "5b5b769c854add6cee011b01",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:46:36.237Z",
+  "text": "It seems that `pythonw` is only really required for applications that need access to the window on OSX",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "since jupyter lab is just a web application, it may not need to be built with that flag",
+  "id": "5b5b76b6448122584439f542",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T19:47:02.641Z",
+  "text": "since jupyter lab is just a web application, it may not need to be built with that flag",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jjhelmus",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=60",
+   "displayName": "Jonathan J. Helmus",
+   "gv": "4",
+   "id": "5485d1aedb8155e6700dd06f",
+   "url": "/jjhelmus",
+   "username": "jjhelmus",
+   "v": 38
+  },
+  "html": "I agree, let me ask some other Anaconda team members ",
+  "id": "5b5b7718854add6cee011c1a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-07-27T19:48:40.075Z",
+  "text": "I agree, let me ask some other Anaconda team members ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jjhelmus",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=60",
+   "displayName": "Jonathan J. Helmus",
+   "gv": "4",
+   "id": "5485d1aedb8155e6700dd06f",
+   "url": "/jjhelmus",
+   "username": "jjhelmus",
+   "v": 38
+  },
+  "html": "jupyterlab prior to 0.27.0 did not have the entry if you want to try out an older version",
+  "id": "5b5b784dcb4d5b036c9f0ec5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-07-27T19:53:49.244Z",
+  "text": "jupyterlab prior to 0.27.0 did not have the entry if you want to try out an older version",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ihnorton",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/327706?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/327706?v=4&s=60",
+   "displayName": "Isaiah Norton",
+   "gv": "4",
+   "id": "5349af1c5e986b0712f03159",
+   "url": "/ihnorton",
+   "username": "ihnorton",
+   "v": 9
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"kdheepak\" class=\"mention\">@kdheepak</span> note that the underlying issue is that pythonw is a bash script, and macOS since 10.12 removes DYLD_ variables from the environment when launching binaries in protected system directories (e.g.: /bin/bash). This is annoying and broke all sorts of things, but just an FYI because you may run in to the issue again when using software launched via bash on mac.",
+  "id": "5b5b7c90331546584573dfcd",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "kdheepak",
+    "userId": "55db89210fc9f982beae77b3",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T20:12:00.490Z",
+  "text": "@kdheepak note that the underlying issue is that pythonw is a bash script, and macOS since 10.12 removes DYLD_ variables from the environment when launching binaries in protected system directories (e.g.: /bin/bash). This is annoying and broke all sorts of things, but just an FYI because you may run in to the issue again when using software launched via bash on mac.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ihnorton",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/327706?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/327706?v=4&s=60",
+   "displayName": "Isaiah Norton",
+   "gv": "4",
+   "id": "5349af1c5e986b0712f03159",
+   "url": "/ihnorton",
+   "username": "ihnorton",
+   "v": 9
+  },
+  "html": "(or via bash <em>script</em> I should say)",
+  "id": "5b5b7cdbd4527523f6373a62",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-07-27T20:13:15.402Z",
+  "text": "(or via bash *script* I should say)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ihnorton\" class=\"mention\">@ihnorton</span> aah, that explains a lot! I have been launching it via bash, and ended up changing the shebang to use python instead of pythonw.",
+  "id": "5b5b8074854add6cee013818",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ihnorton",
+    "userId": "5349af1c5e986b0712f03159",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T20:28:36.780Z",
+  "text": "@ihnorton aah, that explains a lot! I have been launching it via bash, and ended up changing the shebang to use python instead of pythonw.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "Thanks for the quick replies and clearing this up <span data-link-type=\"mention\" data-screen-name=\"jjhelmus\" class=\"mention\">@jjhelmus</span> and <span data-link-type=\"mention\" data-screen-name=\"ihnorton\" class=\"mention\">@ihnorton</span>!",
+  "id": "5b5b80aacb4d5b036c9f2706",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jjhelmus",
+    "userId": "5485d1aedb8155e6700dd06f",
+    "userIds": []
+   },
+   {
+    "screenName": "ihnorton",
+    "userId": "5349af1c5e986b0712f03159",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-07-27T20:29:30.036Z",
+  "text": "Thanks for the quick replies and clearing this up @jjhelmus and @ihnorton!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"dougalsutherland\" class=\"mention\">@dougalsutherland</span> I was able to create a linux conda package on one of our linux machines. And was able to run it in Python2.7 successfully. I&#39;m not sure which gcc was used during compilation though. Is there any way to check what was used?",
+  "id": "5b5b84dedefc9823f51e059d",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "dougalsutherland",
+    "userId": "53bb356d107e137846ba5dc7",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-07-27T20:47:26.526Z",
+  "text": "@dougalsutherland I was able to create a linux conda package on one of our linux machines. And was able to run it in Python2.7 successfully. I'm not sure which gcc was used during compilation though. Is there any way to check what was used?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "The package was uploaded over here: <a href=\"https://anaconda.org/kdheepak/helics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://anaconda.org/kdheepak/helics</a>",
+  "id": "5b5b84fc3e264c7138467d34",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-07-27T20:47:56.088Z",
+  "text": "The package was uploaded over here: https://anaconda.org/kdheepak/helics",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://anaconda.org/kdheepak/helics"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "Why is this line not required in a conda-forge recipe? <pre><code><span class=\"xml\">    build:\n        - python </span><span class=\"expression\">{{ <span class=\"variable\">python</span> }}</span><span class=\"xml\"></span></code></pre>",
+  "id": "5b5b865a3cc395660729177d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-07-27T20:53:46.435Z",
+  "text": "Why is this line not required in a conda-forge recipe? \n\n```yaml\n    build:\n        - python {{ python }}\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2018-07-27T20:54:35.323Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/kdheepak",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1813121?v=4&s=60",
+   "displayName": "Dheepak Krishnamurthy",
+   "gv": "4",
+   "id": "55db89210fc9f982beae77b3",
+   "url": "/kdheepak",
+   "username": "kdheepak",
+   "v": 23
+  },
+  "html": "In a conda-forge recipe, I can get away by doing the following<pre><code>    <span class=\"rule\"><span class=\"attribute\">build</span>:<span class=\"value\">\n        - python</span></span></code></pre>",
+  "id": "5b5b8681cb4d5b036c9f3525",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2018-07-27T20:54:25.938Z",
+  "text": "In a conda-forge recipe, I can get away by doing the following\n\n```yaml\n    build:\n        - python\n```",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jjhelmus",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1050278?v=4&s=60",
+   "displayName": "Jonathan J. Helmus",
+   "gv": "4",
+   "id": "5485d1aedb8155e6700dd06f",
+   "url": "/jjhelmus",
+   "username": "jjhelmus",
+   "v": 38
+  },
+  "html": "That package was build with GCC 7.2 which comes from the compiler conda package.<pre><code>$ readelf -p .comment helics_app \n\n<span class=\"built_in\">String</span> dump <span class=\"keyword\">of</span> section <span class=\"string\">'.comment'</span>:\n  [     <span class=\"number\">0</span>]  GCC: (crosstool-NG fa8859cb) <span class=\"number\">7.2</span>.0\n$ strings -a helics_app | grep <span class=\"string\">\"GCC: (\"</span>\nGCC: (crosstool-NG fa8859cb) <span class=\"number\">7.2</span>.0</code></pre>",
+  "id": "5b5b8711c83d1230b12e8e20",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-07-27T20:56:49.869Z",
+  "text": "That package was build with GCC 7.2 which comes from the compiler conda package.\n```\n$ readelf -p .comment helics_app \n\nString dump of section '.comment':\n  [     0]  GCC: (crosstool-NG fa8859cb) 7.2.0\n$ strings -a helics_app | grep \"GCC: (\"\nGCC: (crosstool-NG fa8859cb) 7.2.0\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]
