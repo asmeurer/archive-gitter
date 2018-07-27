@@ -1,0 +1,216 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/certik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20568?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20568?v=4&s=60",
+   "displayName": "Ond\u0159ej \u010cert\u00edk",
+   "gv": "4",
+   "id": "529d5946ed5ab0b3bf04e5d0",
+   "url": "/certik",
+   "username": "certik",
+   "v": 17
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ArifAhmed1995\" class=\"mention\">@ArifAhmed1995</span> I created the room",
+  "id": "59232c72c4d73f445ad2098f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ArifAhmed1995",
+    "userId": "57e79a4d40f3a6eec0673756",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-05-22T18:22:42.038Z",
+  "text": "@ArifAhmed1995 I created the room",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/certik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20568?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20568?v=4&s=60",
+   "displayName": "Ond\u0159ej \u010cert\u00edk",
+   "gv": "4",
+   "id": "529d5946ed5ab0b3bf04e5d0",
+   "url": "/certik",
+   "username": "certik",
+   "v": 17
+  },
+  "html": "for the GSoC project and I added <span data-link-type=\"mention\" data-screen-name=\"asmeurer\" class=\"mention\">@asmeurer</span> in as well.",
+  "id": "59232c7f05e3326c67fa829a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "asmeurer",
+    "userId": "529c69c1ed5ab0b3bf04d173",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-05-22T18:22:55.936Z",
+  "text": "for the GSoC project and I added @asmeurer in as well.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-05-22T19:03:51.065Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/certik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20568?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20568?v=4&s=60",
+   "displayName": "Ond\u0159ej \u010cert\u00edk",
+   "gv": "4",
+   "id": "529d5946ed5ab0b3bf04e5d0",
+   "url": "/certik",
+   "username": "certik",
+   "v": 17
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"ArifAhmed1995\" class=\"mention\">@ArifAhmed1995</span>, prof. Sukumar and I met over skype today and we agreed on the following plan for the GSoC project:</p><ul>\n<li><p>Implement a basic prototype in 2D that accepts a 2D polygon and a bivariate polynomial to integrate, and it produces the correct integral, using the full algorithm. We will cut corners when needed for this prototype, e.g. if we need to assume something more about the functions to be integrated, we can do that. The goal is to have something that implements the whole algorithm to the end, but with limited functionality in order to get this done soon.</p></li>\n<li><p>Part of this is to implement some way to visualize the polynomials and polygons and other steps in the algorithm, as needed. I suggest we use matplotlib and the Jupyter notebook (<a href=\"http://jupyter.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">http://jupyter.org/</a>).</p></li>\n<li><p>Once we have something that works, we will discuss:</p><ul>\n<li>what features are missing in order to have a nice 2D implementation</li>\n<li>how to extend to 3D</li>\n<li>what the best API is for both 2D and 3D</li>\n<li>detailed plan for the rest of the summer</li>\n</ul>\n</li>\n</ul>\n<p>June 30 Phase 1 Evaluation deadline<br>June 30 - July 28:</p><ul>\n<li>use the new API</li>\n<li>finishing up the 2D implementation</li>\n<li>3D implementation</li>\n</ul>\n<p>July 28 Phase 2 Evaluation deadline<br>July 28 - August 29:</p><ul>\n<li>finish whatever is needed from the previous phase</li>\n<li>documentation / examples</li>\n</ul>\n<p>August 29 Final evaluations</p>",
+  "id": "5923360292217cca58a16fe4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ArifAhmed1995",
+    "userId": "57e79a4d40f3a6eec0673756",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-05-22T19:03:30.243Z",
+  "text": "@ArifAhmed1995, prof. Sukumar and I met over skype today and we agreed on the following plan for the GSoC project:\n\n* Implement a basic prototype in 2D that accepts a 2D polygon and a bivariate polynomial to integrate, and it produces the correct integral, using the full algorithm. We will cut corners when needed for this prototype, e.g. if we need to assume something more about the functions to be integrated, we can do that. The goal is to have something that implements the whole algorithm to the end, but with limited functionality in order to get this done soon.\n\n* Part of this is to implement some way to visualize the polynomials and polygons and other steps in the algorithm, as needed. I suggest we use matplotlib and the Jupyter notebook (http://jupyter.org/).\n\n* Once we have something that works, we will discuss:\n  - what features are missing in order to have a nice 2D implementation\n  - how to extend to 3D\n  - what the best API is for both 2D and 3D\n  - detailed plan for the rest of the summer\n\nJune 30 Phase 1 Evaluation deadline\nJune 30 - July 28:\n\n* use the new API\n* finishing up the 2D implementation\n* 3D implementation\n\nJuly 28 Phase 2 Evaluation deadline\nJuly 28 - August 29:\n\n* finish whatever is needed from the previous phase\n* documentation / examples\n\nAugust 29 Final evaluations",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://jupyter.org/"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/certik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20568?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20568?v=4&s=60",
+   "displayName": "Ond\u0159ej \u010cert\u00edk",
+   "gv": "4",
+   "id": "529d5946ed5ab0b3bf04e5d0",
+   "url": "/certik",
+   "username": "certik",
+   "v": 17
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ArifAhmed1995\" class=\"mention\">@ArifAhmed1995</span> don&#39;t forget to write a blog post today",
+  "id": "59317bb56549436c7d0cde8f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ArifAhmed1995",
+    "userId": "57e79a4d40f3a6eec0673756",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-06-02T14:52:37.605Z",
+  "text": "@ArifAhmed1995 don't forget to write a blog post today",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ArifAhmed1995",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/14125592?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/14125592?v=4&s=60",
+   "displayName": "Arif Ahmed",
+   "gv": "4",
+   "id": "57e79a4d40f3a6eec0673756",
+   "url": "/ArifAhmed1995",
+   "username": "ArifAhmed1995",
+   "v": 38
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"certik\" class=\"mention\">@certik</span> The prototype for the 2D use case is working now. I&#39;m just cleaning up a code a bit and writing some documentation. I&#39;ll surely update the PR and write the blog post by tonight.",
+  "id": "5931889302c480e67206ce53",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "certik",
+    "userId": "529d5946ed5ab0b3bf04e5d0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-06-02T15:47:31.636Z",
+  "text": "@certik The prototype for the 2D use case is working now. I'm just cleaning up a code a bit and writing some documentation. I'll surely update the PR and write the blog post by tonight.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/certik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20568?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20568?v=4&s=60",
+   "displayName": "Ond\u0159ej \u010cert\u00edk",
+   "gv": "4",
+   "id": "529d5946ed5ab0b3bf04e5d0",
+   "url": "/certik",
+   "username": "certik",
+   "v": 17
+  },
+  "html": "Perfect, good job <span data-link-type=\"mention\" data-screen-name=\"ArifAhmed1995\" class=\"mention\">@ArifAhmed1995</span> !",
+  "id": "5931af30167d046a7d617d31",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ArifAhmed1995",
+    "userId": "57e79a4d40f3a6eec0673756",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-06-02T18:32:16.878Z",
+  "text": "Perfect, good job @ArifAhmed1995 !",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ArifAhmed1995",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/14125592?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/14125592?v=4&s=60",
+   "displayName": "Arif Ahmed",
+   "gv": "4",
+   "id": "57e79a4d40f3a6eec0673756",
+   "url": "/ArifAhmed1995",
+   "username": "ArifAhmed1995",
+   "v": 38
+  },
+  "html": "This is the PR : <span data-link-type=\"issue\" data-issue=\"12673\" data-issue-repo=\"sympy/sympy\" class=\"issue\">sympy/sympy#12673</span><br>Currently the 2D prototype is implemented. Next step is to discuss the final 2D API and how to extend to 3D.",
+  "id": "59383ac131f589c64f849baa",
+  "issues": [
+   {
+    "number": "12673",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2017-06-07T17:41:21.991Z",
+  "text": "This is the PR : https://github.com/sympy/sympy/pull/12673\nCurrently the 2D prototype is implemented. Next step is to discuss the final 2D API and how to extend to 3D.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]

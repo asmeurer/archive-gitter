@@ -1,0 +1,109 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/akash9712",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=60",
+   "displayName": "Akash Vaish",
+   "gv": "4",
+   "id": "588704f7d73408ce4f459eb5",
+   "url": "/akash9712",
+   "username": "akash9712",
+   "v": 32
+  },
+  "html": "Hi. I have created this channel for discussion on the GSoC-2018 project for improvement to the stats module, as suggested by <span data-link-type=\"mention\" data-screen-name=\"Upabjojr\" class=\"mention\">@Upabjojr</span>. ",
+  "id": "5ae281bd2d0e228d7bb855c3",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Upabjojr",
+    "userId": "56e83c9e85d51f252ab8efe1",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-04-27T01:49:49.687Z",
+  "text": "Hi. I have created this channel for discussion on the GSoC-2018 project for improvement to the stats module, as suggested by @Upabjojr. \n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/akash9712",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=60",
+   "displayName": "Akash Vaish",
+   "gv": "4",
+   "id": "588704f7d73408ce4f459eb5",
+   "url": "/akash9712",
+   "username": "akash9712",
+   "v": 32
+  },
+  "html": "If a room should be created under the SymPy channel, can someone else please do it? I tried doing so, but it created a room under stats-gsoc18 itself, and I cant&#39;t find a way to delete it.",
+  "id": "5ae2872d2b9dfdbc3ad37b21",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-04-27T02:13:01.469Z",
+  "text": "If a room should be created under the SymPy channel, can someone else please do it? I tried doing so, but it created a room under stats-gsoc18 itself, and I cant't find a way to delete it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2018-04-27T05:19:33.889Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 29
+  },
+  "html": "I created <a href=\"https://gitter.im/sympy/stats-gsoc18\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gitter.im/sympy/stats-gsoc18</a>. We should use that instead. ",
+  "id": "5ae2b2df598d7d53ad1283af",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-04-27T05:19:27.738Z",
+  "text": "I created https://gitter.im/sympy/stats-gsoc18. We should use that instead. ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/sympy/stats-gsoc18"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/akash9712",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/20995294?v=4&s=60",
+   "displayName": "Akash Vaish",
+   "gv": "4",
+   "id": "588704f7d73408ce4f459eb5",
+   "url": "/akash9712",
+   "username": "akash9712",
+   "v": 32
+  },
+  "html": "Thank you.",
+  "id": "5ae2b7d915c9b031143ecd1a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-04-27T05:40:41.313Z",
+  "text": "Thank you.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]

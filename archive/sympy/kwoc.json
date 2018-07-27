@@ -1,0 +1,1033 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/prajwalgatti",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31077225?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31077225?v=4&s=60",
+   "displayName": "Prajwal Gatti",
+   "gv": "4",
+   "id": "59aef647d73408ce4f74714f",
+   "url": "/prajwalgatti",
+   "username": "prajwalgatti",
+   "v": 5
+  },
+  "html": "Hello ",
+  "id": "5a1f928687680e6230b1879a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2017-11-30T05:09:26.202Z",
+  "text": "Hello ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-11-30T05:22:04.090Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<p>Hi</p><p>Before you can start contributing, you need to learn Python and Git (if you haven&#39;t yet). Grab any online tutorial/video/book. Learning the basics should not take more than a couple of days.</p><p>Once that is done, please go through the <a href=\"https://github.com/sympy/sympy/wiki/Introduction-to-contributing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Introduction to Contributing</a> and our <a href=\"https://github.com/sympy/sympy/blob/master/CODE_OF_CONDUCT.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Code of Conduct</a>.</p><p>If you are done with both these steps, then congratulations- you may start contributing.</p>",
+  "id": "5a1f94e487680e6230b194ea",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2017-11-30T05:19:32.250Z",
+  "text": "Hi\n\nBefore you can start contributing, you need to learn Python and Git (if you haven't yet). Grab any online tutorial/video/book. Learning the basics should not take more than a couple of days.\n\nOnce that is done, please go through the [Introduction to Contributing](https://github.com/sympy/sympy/wiki/Introduction-to-contributing) and our [Code of Conduct](https://github.com/sympy/sympy/blob/master/CODE_OF_CONDUCT.md).\n\nIf you are done with both these steps, then congratulations- you may start contributing.\n",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/wiki/Introduction-to-contributing"
+   },
+   {
+    "url": "https://github.com/sympy/sympy/blob/master/CODE_OF_CONDUCT.md"
+   }
+  ],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/aniketgattani",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=60",
+   "displayName": "Aniket Gattani",
+   "gv": "4",
+   "id": "58b4ba45d73408ce4f4d504a",
+   "url": "/aniketgattani",
+   "username": "aniketgattani",
+   "v": 26
+  },
+  "html": "can u please suggest some relatively easy bugs and/or areas where I should focus in the beginning ?",
+  "id": "5a203d883c69dd4917099ca3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-11-30T17:19:04.801Z",
+  "text": "can u please suggest some relatively easy bugs and/or areas where I should focus in the beginning ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/unkemptArc99",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=60",
+   "displayName": "Abhishek",
+   "gv": "4",
+   "id": "5a201529d73408ce4f810dca",
+   "url": "/unkemptArc99",
+   "username": "unkemptArc99",
+   "v": 1
+  },
+  "html": "<blockquote>\ncan u please suggest some relatively easy bugs and/or areas where I should focus in the beginning ?<br>+1</blockquote>\n",
+  "id": "5a2043d9cc1d527f6bd53974",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-11-30T17:46:01.725Z",
+  "text": "> can u please suggest some relatively easy bugs and/or areas where I should focus in the beginning ?\n+1",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "Can everyone let me know what they are doing - learning Python/git or getting familiar with SymPy or ready to contribute?",
+  "id": "5a20ce9c3ae2aa6b3f707ebf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-12-01T03:38:04.108Z",
+  "text": "Can everyone let me know what they are doing - learning Python/git or getting familiar with SymPy or ready to contribute?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "For the purpose of KWOC, primarily <span data-link-type=\"mention\" data-screen-name=\"kshitij10496\" class=\"mention\">@kshitij10496</span> and I will be helping you. However, you may also contact anyone in SymPy for SymPy related queries.",
+  "id": "5a20cee287680e6230b82eda",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "kshitij10496",
+    "userId": "55ae11fc37f2ad22587ea04c",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-12-01T03:39:14.589Z",
+  "text": "For the purpose of KWOC, primarily @kshitij10496 and I will be helping you. However, you may also contact anyone in SymPy for SymPy related queries.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "Those of you want to start working - <a href=\"https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3Aringseries\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here are some issues</a> . The relevant documentation is here : <a href=\"https://github.com/sympy/sympy/blob/master/doc/src/modules/polys/ringseries.rst\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/sympy/sympy/blob/master/doc/src/modules/polys/ringseries.rst</a>",
+  "id": "5a20cfe0ffa3e37919dfeeda",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-12-01T03:43:28.471Z",
+  "text": "Those of you want to start working - [here are some issues](https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3Aringseries) . The relevant documentation is here : https://github.com/sympy/sympy/blob/master/doc/src/modules/polys/ringseries.rst",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3Aringseries"
+   },
+   {
+    "url": "https://github.com/sympy/sympy/blob/master/doc/src/modules/polys/ringseries.rst"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "You may need to read a bit about (mathematical) groups, rings and polynomials. The code makes extensive use of SymPy&#39;s polys module.",
+  "id": "5a20d085540c78242d6d2c25",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-12-01T03:46:13.597Z",
+  "text": "You may need to read a bit about (mathematical) groups, rings and polynomials. The code makes extensive use of SymPy's polys module.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-12-01T05:09:03.949Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/Krashcan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=60",
+   "displayName": "Kumar Ashish",
+   "gv": "4",
+   "id": "57d51d0a40f3a6eec064a429",
+   "url": "/Krashcan",
+   "username": "Krashcan",
+   "v": 8
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> I am ready to contribute</p><blockquote>\n<p>Can everyone let me know what they are doing - learning Python/git or getting familiar with SymPy or ready to contribute?</p></blockquote>\n",
+  "id": "5a20e3dd3c69dd49170ccc4a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2017-12-01T05:08:45.408Z",
+  "text": "@shivamvats I am ready to contribute\n> Can everyone let me know what they are doing - learning Python/git or getting familiar with SymPy or ready to contribute?",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/rushyam",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/23614977?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/23614977?v=4&s=60",
+   "displayName": "rushyam",
+   "gv": "4",
+   "id": "5a13bd4bd73408ce4f7f8b5f",
+   "url": "/rushyam",
+   "username": "rushyam",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  getting familiar with sympy",
+  "id": "5a20e8fdffa3e37919e05865",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2017-12-01T05:30:37.370Z",
+  "text": "@shivamvats  getting familiar with sympy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/Krashcan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=60",
+   "displayName": "Kumar Ashish",
+   "gv": "4",
+   "id": "57d51d0a40f3a6eec064a429",
+   "url": "/Krashcan",
+   "username": "Krashcan",
+   "v": 8
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> I wrote tests for using <code>atan</code> with <code>rs_series</code>, those tests worked fine but <code>test_tanh</code>, <code>test_cosh</code>, <code>test_sinh</code>, <code>test_atanh</code> and <code>test_cos</code> had assertion errors which has nothing to do with my fix. Is this a known issue?",
+  "id": "5a20f5fe3c69dd49170d1cce",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2017-12-01T06:26:06.777Z",
+  "text": "@shivamvats I wrote tests for using `atan` with `rs_series`, those tests worked fine but `test_tanh`, `test_cosh`, `test_sinh`, `test_atanh` and `test_cos` had assertion errors which has nothing to do with my fix. Is this a known issue?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/gurjot273",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/29325547?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/29325547?v=4&s=60",
+   "displayName": "gurjot273",
+   "gv": "4",
+   "id": "5a20f529d73408ce4f812ccc",
+   "url": "/gurjot273",
+   "username": "gurjot273",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  learning git",
+  "id": "5a20f86b232e79134df46714",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2017-12-01T06:36:27.379Z",
+  "text": "@shivamvats  learning git",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/aniketgattani",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=60",
+   "displayName": "Aniket Gattani",
+   "gv": "4",
+   "id": "58b4ba45d73408ce4f4d504a",
+   "url": "/aniketgattani",
+   "username": "aniketgattani",
+   "v": 26
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  ready to contribute",
+  "id": "5a20ff2287680e6230b8fc62",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2017-12-01T07:05:06.847Z",
+  "text": "@shivamvats  ready to contribute",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> I am ready to contribute.",
+  "id": "5a210152540c78242d6df711",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2017-12-01T07:14:26.401Z",
+  "text": "@shivamvats I am ready to contribute.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Krashcan\" class=\"mention\">@Krashcan</span> I am not aware of those tests failing. Can you post the errors?",
+  "id": "5a21120c87680e6230b95bce",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Krashcan",
+    "userId": "57d51d0a40f3a6eec064a429",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 13,
+  "sent": "2017-12-01T08:25:48.985Z",
+  "text": "@Krashcan I am not aware of those tests failing. Can you post the errors?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-12-01T08:29:02.408Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "The ring_series code is actually not tested much. So, if you run into problems while using it you are welcome to open issues.",
+  "id": "5a211248232e79134df4f089",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 13,
+  "sent": "2017-12-01T08:26:48.336Z",
+  "text": "The ring_series code is actually not tested much. So, if you run into problems while using it you are welcome to open issues.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/RohitJain3241",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=60",
+   "displayName": "RohitJain3241",
+   "gv": "4",
+   "id": "5878ffe3d73408ce4f435312",
+   "url": "/RohitJain3241",
+   "username": "RohitJain3241",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> getting familiar with sympy",
+  "id": "5a212f79232e79134df58caf",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 15,
+  "sent": "2017-12-01T10:31:21.958Z",
+  "text": "@shivamvats getting familiar with sympy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-12-01T10:36:38.372Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/Krashcan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18661082?v=4&s=60",
+   "displayName": "Kumar Ashish",
+   "gv": "4",
+   "id": "57d51d0a40f3a6eec064a429",
+   "url": "/Krashcan",
+   "username": "Krashcan",
+   "v": 8
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> I have opened an issue  <span data-link-type=\"issue\" data-issue=\"13659\" data-issue-repo=\"sympy/sympy\" class=\"issue\">sympy/sympy#13659</span>",
+  "id": "5a213001540c78242d6ee7a7",
+  "issues": [
+   {
+    "number": "13659",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 15,
+  "sent": "2017-12-01T10:33:37.092Z",
+  "text": "@shivamvats I have opened an issue  https://github.com/sympy/sympy/issues/13659",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Krashcan\" class=\"mention\">@Krashcan</span> Thanks. I will look into it.",
+  "id": "5a213845cc1d527f6bd9f5a4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Krashcan",
+    "userId": "57d51d0a40f3a6eec064a429",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 15,
+  "sent": "2017-12-01T11:08:53.765Z",
+  "text": "@Krashcan Thanks. I will look into it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Prem-kumar27",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14202523?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14202523?v=4&s=60",
+   "displayName": "Premkumar",
+   "gv": "4",
+   "id": "5a16f823d73408ce4f7ffd1d",
+   "url": "/Prem-kumar27",
+   "username": "Prem-kumar27",
+   "v": 17
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"aniketgattani\" class=\"mention\">@aniketgattani</span> getting familiar with sympy",
+  "id": "5a213abb71ad3f873651fa3a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "aniketgattani",
+    "userId": "58b4ba45d73408ce4f4d504a",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 15,
+  "sent": "2017-12-01T11:19:23.955Z",
+  "text": "@aniketgattani getting familiar with sympy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/angshumukherjee100",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/24447254?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/24447254?v=4&s=60",
+   "displayName": "Angshu Mukherjee",
+   "gv": "4",
+   "id": "5a214d1dd73408ce4f81398f",
+   "url": "/angshumukherjee100",
+   "username": "angshumukherjee100"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  Getting familiar with Sympy",
+  "id": "5a214df3540c78242d6f894d",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 16,
+  "sent": "2017-12-01T12:41:23.759Z",
+  "text": "@shivamvats  Getting familiar with Sympy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/unkemptArc99",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=60",
+   "displayName": "Abhishek",
+   "gv": "4",
+   "id": "5a201529d73408ce4f810dca",
+   "url": "/unkemptArc99",
+   "username": "unkemptArc99",
+   "v": 1
+  },
+  "html": "Getting familiar with sympy",
+  "id": "5a22ab0eba39a53f1a0f768e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-02T13:30:54.047Z",
+  "text": "Getting familiar with sympy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/aniketgattani",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=60",
+   "displayName": "Aniket Gattani",
+   "gv": "4",
+   "id": "58b4ba45d73408ce4f4d504a",
+   "url": "/aniketgattani",
+   "username": "aniketgattani",
+   "v": 26
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  I am trying to work on the issue <span data-link-type=\"issue\" data-issue=\"9843\" class=\"issue\">#9843</span>.  <span data-link-type=\"issue\" data-issue=\"9843\" data-issue-repo=\"sympy/sympy\" class=\"issue\">sympy/sympy#9843</span>.   I think the problem lies with the rs functions. They do not take into account the division of a function by a polynomial or another function. Can u please tell me how do I find this division in a given expression ? ",
+  "id": "5a23dd34540c78242d7a8164",
+  "issues": [
+   {
+    "number": "9843"
+   },
+   {
+    "number": "9843",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-03T11:17:08.920Z",
+  "text": "@shivamvats  I am trying to work on the issue #9843.  https://github.com/sympy/sympy/issues/9843.   I think the problem lies with the rs functions. They do not take into account the division of a function by a polynomial or another function. Can u please tell me how do I find this division in a given expression ? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/RohitJain3241",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=60",
+   "displayName": "RohitJain3241",
+   "gv": "4",
+   "id": "5878ffe3d73408ce4f435312",
+   "url": "/RohitJain3241",
+   "username": "RohitJain3241",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> Tests for ring series working fine now . <span data-link-type=\"issue\" data-issue=\"13662\" class=\"issue\">#13662</span>",
+  "id": "5a23f45affa3e37919ede597",
+  "issues": [
+   {
+    "number": "13662"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-03T12:55:54.897Z",
+  "text": "@shivamvats Tests for ring series working fine now . #13662",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"aniketgattani\" class=\"mention\">@aniketgattani</span> A polynomial divided by a polynomial may not be a polynomial any more.  So I am not sure if the polynomial module supports division. Did you have  a look?",
+  "id": "5a2437653ae2aa6b3f7f8d8d",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "aniketgattani",
+    "userId": "58b4ba45d73408ce4f4d504a",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-03T17:41:57.793Z",
+  "text": "@aniketgattani A polynomial divided by a polynomial may not be a polynomial any more.  So I am not sure if the polynomial module supports division. Did you have  a look?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"RohitJain3241\" class=\"mention\">@RohitJain3241</span> Thanks a lot!",
+  "id": "5a24378e3a80a84b5bb0cff6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "RohitJain3241",
+    "userId": "5878ffe3d73408ce4f435312",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-03T17:42:38.747Z",
+  "text": "@RohitJain3241 Thanks a lot!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/aniketgattani",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20797919?v=4&s=60",
+   "displayName": "Aniket Gattani",
+   "gv": "4",
+   "id": "58b4ba45d73408ce4f4d504a",
+   "url": "/aniketgattani",
+   "username": "aniketgattani",
+   "v": 26
+  },
+  "html": "so what do u suggest <span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span>  should i multiply the two series separately for both the numerator and denominators ?",
+  "id": "5a24380e71ad3f87365efe5b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-03T17:44:46.930Z",
+  "text": "so what do u suggest @shivamvats  should i multiply the two series separately for both the numerator and denominators ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "Is everyone working on something?<br>Here are some easy to fix issues if you haven&#39;t found them yet : <a href=\"https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+to+Fix%22\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+to+Fix%22</a>",
+  "id": "5a27bd2b232e79134d151ad9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 19,
+  "sent": "2017-12-06T09:49:31.048Z",
+  "text": "Is everyone working on something?\nHere are some easy to fix issues if you haven't found them yet : https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+to+Fix%22",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+to+Fix%22"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/unkemptArc99",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=60",
+   "displayName": "Abhishek",
+   "gv": "4",
+   "id": "5a201529d73408ce4f810dca",
+   "url": "/unkemptArc99",
+   "username": "unkemptArc99",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> Can I work on Issue <span data-link-type=\"issue\" data-issue=\"13690\" class=\"issue\">#13690</span>? No one has been assigned to it yet, and I think I can solve it :)",
+  "id": "5a2d0d60cc1d527f6b134b91",
+  "issues": [
+   {
+    "number": "13690"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 19,
+  "sent": "2017-12-10T10:33:04.209Z",
+  "text": "@shivamvats Can I work on Issue #13690? No one has been assigned to it yet, and I think I can solve it :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/RohitJain3241",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/20405436?v=4&s=60",
+   "displayName": "RohitJain3241",
+   "gv": "4",
+   "id": "5878ffe3d73408ce4f435312",
+   "url": "/RohitJain3241",
+   "username": "RohitJain3241",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"unkemptArc99\" class=\"mention\">@unkemptArc99</span>  Issue <span data-link-type=\"issue\" data-issue=\"13690\" class=\"issue\">#13690</span> has been resolved and merged. ",
+  "id": "5a2d29b4232e79134d2fd20c",
+  "issues": [
+   {
+    "number": "13690"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "unkemptArc99",
+    "userId": "5a201529d73408ce4f810dca",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-10T12:33:56.075Z",
+  "text": "@unkemptArc99  Issue #13690 has been resolved and merged. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/unkemptArc99",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=60",
+   "displayName": "Abhishek",
+   "gv": "4",
+   "id": "5a201529d73408ce4f810dca",
+   "url": "/unkemptArc99",
+   "username": "unkemptArc99",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"shivamvats\" class=\"mention\">@shivamvats</span> Many of the easy to fix issues have already been taken or resolved... Are there any other &quot;easy first issues&quot; remaining?",
+  "id": "5a2d47ff540c78242da8dcd6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "shivamvats",
+    "userId": "543d2416db8155e6700cb443",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-10T14:43:11.512Z",
+  "text": "@shivamvats Many of the easy to fix issues have already been taken or resolved... Are there any other \"easy first issues\" remaining?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/shivamvats",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6918975?v=4&s=60",
+   "displayName": "Shivam Vats",
+   "gv": "4",
+   "id": "543d2416db8155e6700cb443",
+   "url": "/shivamvats",
+   "username": "shivamvats",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"unkemptArc99\" class=\"mention\">@unkemptArc99</span> I see quite a few easy to fix issue open. If they have been solved, can you please get them closed?",
+  "id": "5a2d5d92ba39a53f1a42eba3",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "unkemptArc99",
+    "userId": "5a201529d73408ce4f810dca",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-10T16:15:14.921Z",
+  "text": "@unkemptArc99 I see quite a few easy to fix issue open. If they have been solved, can you please get them closed?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-12-12T07:12:45.569Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/gxyd",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7712241?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7712241?v=4&s=60",
+   "displayName": "Gaurav Dhingra",
+   "gv": "4",
+   "id": "53eb987c107e137846baa89d",
+   "url": "/gxyd",
+   "username": "gxyd",
+   "v": 90
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"unkemptArc99\" class=\"mention\">@unkemptArc99</span> there are a lot of issues. Don&#39;t just focus on just submitting PR&#39;s to recently opened &#39;Easy fix issues&#39; issues,  you can search old ones as well. For the old ones even if they have a submitted PR, the PR&#39;s are probably inactive so you work on completing those PR&#39;s or even if you are unsure if someone else is working on an issue, then just ask on the issue itself.",
+  "id": "5a2f80e4a2be4668288e99c4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "unkemptArc99",
+    "userId": "5a201529d73408ce4f810dca",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-12T07:10:28.182Z",
+  "text": "@unkemptArc99 there are a lot of issues. Don't just focus on just submitting PR's to recently opened 'Easy fix issues' issues,  you can search old ones as well. For the old ones even if they have a submitted PR, the PR's are probably inactive so you work on completing those PR's or even if you are unsure if someone else is working on an issue, then just ask on the issue itself.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/gxyd",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7712241?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7712241?v=4&s=60",
+   "displayName": "Gaurav Dhingra",
+   "gv": "4",
+   "id": "53eb987c107e137846baa89d",
+   "url": "/gxyd",
+   "username": "gxyd",
+   "v": 90
+  },
+  "html": "You can see that there are 2500+ issues. And I wonder if one can&#39;t find one easy to fix issue.",
+  "id": "5a2f812d232e79134d3b76ed",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-12T07:11:41.696Z",
+  "text": "You can see that there are 2500+ issues. And I wonder if one can't find one easy to fix issue.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/unkemptArc99",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19533670?v=4&s=60",
+   "displayName": "Abhishek",
+   "gv": "4",
+   "id": "5a201529d73408ce4f810dca",
+   "url": "/unkemptArc99",
+   "username": "unkemptArc99",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"gxyd\" class=\"mention\">@gxyd</span> Thanks for the motivation :) Will look to uncompleted PR&#39;s",
+  "id": "5a2f95b7ba39a53f1a4dd582",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "gxyd",
+    "userId": "53eb987c107e137846baa89d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 20,
+  "sent": "2017-12-12T08:39:19.270Z",
+  "text": "@gxyd Thanks for the motivation :) Will look to uncompleted PR's",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]

@@ -1,0 +1,1081 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/alfa0",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=60",
+   "displayName": "alfa0",
+   "gv": "4",
+   "id": "5486f4a0db8155e6700dd57d",
+   "url": "/alfa0",
+   "username": "alfa0",
+   "v": 17
+  },
+  "html": "any one?",
+  "id": "5835b3b22db95267047064ee",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2016-11-23T15:20:18.924Z",
+  "text": "any one?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/divyanshdubey",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=60",
+   "displayName": "divyanshdubey",
+   "gv": "3",
+   "id": "5812e195d73408ce4f3161bd",
+   "url": "/divyanshdubey",
+   "username": "divyanshdubey",
+   "v": 5
+  },
+  "html": "hey there?",
+  "id": "58392b2a381827c24d8145b4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2016-11-26T06:26:50.939Z",
+  "text": "hey there?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/divyanshdubey",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=60",
+   "displayName": "divyanshdubey",
+   "gv": "3",
+   "id": "5812e195d73408ce4f3161bd",
+   "url": "/divyanshdubey",
+   "username": "divyanshdubey",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"alfa0\" class=\"mention\">@alfa0</span> do you know how to make a program made in c run without a compiler on its own?",
+  "id": "58392b5b381827c24d81463d",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "alfa0",
+    "userId": "5486f4a0db8155e6700dd57d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2016-11-26T06:27:39.144Z",
+  "text": "@alfa0 do you know how to make a program made in c run without a compiler on its own?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/alfa0",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=60",
+   "displayName": "alfa0",
+   "gv": "4",
+   "id": "5486f4a0db8155e6700dd57d",
+   "url": "/alfa0",
+   "username": "alfa0",
+   "v": 17
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"divyanshdubey\" class=\"mention\">@divyanshdubey</span> Yaa you can make .Exe file for window",
+  "id": "58595d777a3f79ef5d7d9acf",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "divyanshdubey",
+    "userId": "5812e195d73408ce4f3161bd",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-12-20T16:33:59.279Z",
+  "text": "@divyanshdubey Yaa you can make .Exe file for window",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/alfa0",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=60",
+   "displayName": "alfa0",
+   "gv": "4",
+   "id": "5486f4a0db8155e6700dd57d",
+   "url": "/alfa0",
+   "username": "alfa0",
+   "v": 17
+  },
+  "html": "Use codeblock , chose new project , type: console (depend on your need) ,write your source file build it , compile it. And you have you on software \ud83d\ude00",
+  "id": "58595dd0058ca967376e8959",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-12-20T16:35:28.543Z",
+  "text": "Use codeblock , chose new project , type: console (depend on your need) ,write your source file build it , compile it. And you have you on software \ud83d\ude00",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/JoeGMendes",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=60",
+   "displayName": "Joe Mendes",
+   "gv": "3",
+   "id": "5875b7dfd73408ce4f42b46c",
+   "url": "/JoeGMendes",
+   "username": "JoeGMendes",
+   "v": 3
+  },
+  "html": "Hello!",
+  "id": "5875c9f4cbcb2817705466ba",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-01-11T06:00:20.932Z",
+  "text": "Hello!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/alfa0",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10129655?v=4&s=60",
+   "displayName": "alfa0",
+   "gv": "4",
+   "id": "5486f4a0db8155e6700dd57d",
+   "url": "/alfa0",
+   "username": "alfa0",
+   "v": 17
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"JoeGMendes\" class=\"mention\">@JoeGMendes</span>  hii!",
+  "id": "58b66785e961e53c7f816405",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "JoeGMendes",
+    "userId": "5875b7dfd73408ce4f42b46c",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-03-01T06:17:41.903Z",
+  "text": "@JoeGMendes  hii!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/Shewli",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=60",
+   "displayName": "Shewli",
+   "gv": "3",
+   "id": "58cab199d73408ce4f514981",
+   "url": "/Shewli",
+   "username": "Shewli",
+   "v": 1
+  },
+  "html": "hi",
+  "id": "58cabc347b3f37e75403da4d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-03-16T16:24:20.761Z",
+  "text": "hi",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/Shewli",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=60",
+   "displayName": "Shewli",
+   "gv": "3",
+   "id": "58cab199d73408ce4f514981",
+   "url": "/Shewli",
+   "username": "Shewli",
+   "v": 1
+  },
+  "html": "could anyone help me by giving me an idea to  convert hexadecimal to decimal  in c",
+  "id": "58cabcc97b3f37e75403dd8b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-03-16T16:26:49.030Z",
+  "text": "could anyone help me by giving me an idea to  convert hexadecimal to decimal  in c",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/Shewli",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=60",
+   "displayName": "Shewli",
+   "gv": "3",
+   "id": "58cab199d73408ce4f514981",
+   "url": "/Shewli",
+   "username": "Shewli",
+   "v": 1
+  },
+  "html": "hi",
+  "id": "58cc05856701410e584adc5b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-03-17T15:49:25.621Z",
+  "text": "hi",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/abbosbek776",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=60",
+   "displayName": "Abbosbek",
+   "gv": "3",
+   "id": "58da09ecd73408ce4f5438b7",
+   "url": "/abbosbek776",
+   "username": "abbosbek776",
+   "v": 3
+  },
+  "html": "Hey, can anyone forward links to practise C programming?",
+  "id": "58da0a3d8e4b63533d6ee9b9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-03-28T07:01:17.421Z",
+  "text": "Hey, can anyone forward links to practise C programming?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/Shewli",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16185840?v=3&s=60",
+   "displayName": "Shewli",
+   "gv": "3",
+   "id": "58cab199d73408ce4f514981",
+   "url": "/Shewli",
+   "username": "Shewli",
+   "v": 1
+  },
+  "html": "<a href=\"http://stackoverflow.com/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/</a>",
+  "id": "58e1155ff22385553dffbd33",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-02T15:14:39.710Z",
+  "text": "http://stackoverflow.com/",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://stackoverflow.com/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/JoeGMendes",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=60",
+   "displayName": "Joe Mendes",
+   "gv": "3",
+   "id": "5875b7dfd73408ce4f42b46c",
+   "url": "/JoeGMendes",
+   "username": "JoeGMendes",
+   "v": 3
+  },
+  "html": "Hash Table : <a href=\"http://www.sparknotes.com/cs/searching/hashtables/section1.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.sparknotes.com/cs/searching/hashtables/section1.html</a><br>Bit Array Logic : <a href=\"http://www8.cs.umu.se/~isak/snippets/bitarray.c\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www8.cs.umu.se/~isak/snippets/bitarray.c</a><br>Bit Manipulation : <a href=\"http://stackoverflow.com/questions/6959660/bit-manipulation-of-chars-in-java-or-c\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/6959660/bit-manipulation-of-chars-in-java-or-c</a><br>Bit Array and bit set : <a href=\"http://c-faq.com/misc/bitsets.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://c-faq.com/misc/bitsets.html</a><br>Static Variables : <a href=\"http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c</a><br>BSS : <a href=\"https://en.wikipedia.org/wiki/.bss\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://en.wikipedia.org/wiki/.bss</a><br>Memory leak : <a href=\"http://stackoverflow.com/questions/423186/since-i-cant-return-a-local-variable-whats-the-best-way-to-return-a-string-fr/423206#423206\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/423186/since-i-cant-return-a-local-variable-whats-the-best-way-to-return-a-string-fr/423206#423206</a><br>C Memory layout : <a href=\"http://www.geeksforgeeks.org/memory-layout-of-c-program/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.geeksforgeeks.org/memory-layout-of-c-program/</a><br>Insertion Sort:  <a href=\"http://www.programmingsimplified.com/c/source-code/c-program-insertion-sort\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.programmingsimplified.com/c/source-code/c-program-insertion-sort</a><br>Selection Sort : <a href=\"http://www.programmingsimplified.com/c/source-code/c-program-selection-sort\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.programmingsimplified.com/c/source-code/c-program-selection-sort</a><br>Merge Sort : <a href=\"http://www.cquestions.com/2011/07/merge-sort-program-in-c.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.cquestions.com/2011/07/merge-sort-program-in-c.html</a><br>Stack using array : <a href=\"https://www.cs.bu.edu/teaching/c/stack/array/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://www.cs.bu.edu/teaching/c/stack/array/</a><br>Stack using linked list : <a href=\"https://www.cs.bu.edu/teaching/c/stack/linked-list/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://www.cs.bu.edu/teaching/c/stack/linked-list/</a><br>Queue : <a href=\"https://www.cs.bu.edu/teaching/c/queue/array/types.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://www.cs.bu.edu/teaching/c/queue/array/types.html</a><br>Reentrant function : <a href=\"http://www.geeksforgeeks.org/reentrant-function/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.geeksforgeeks.org/reentrant-function/</a><br>Serialise - deserialise : <a href=\"http://lnxdev.com/view_article.php?id=89\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://lnxdev.com/view_article.php?id=89</a><br>Embedded interview questions : <a href=\"http://sosoman.wikidot.com\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://sosoman.wikidot.com</a><br>Hash table : <a href=\"http://www.sparknotes.com/cs/searching/hashtables/section3.rhtml\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.sparknotes.com/cs/searching/hashtables/section3.rhtml</a><br>State machines : <a href=\"http://stackoverflow.com/questions/1371460/state-machines-tutorials\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/1371460/state-machines-tutorials</a><br>Decimal to binary : <a href=\"http://www.programmingsimplified.com/c/source-code/c-program-convert-decimal-to-binary\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.programmingsimplified.com/c/source-code/c-program-convert-decimal-to-binary</a><br>C programming examples : <a href=\"http://www.programmingsimplified.com/c-program-examples\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.programmingsimplified.com/c-program-examples</a><br>set specific bit in byte array : <a href=\"http://stackoverflow.com/questions/21408109/set-specific-bit-in-byte-array\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/21408109/set-specific-bit-in-byte-array</a>",
+  "id": "58e129478bb56c2d116a386f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-02T16:39:35.505Z",
+  "text": "Hash Table : http://www.sparknotes.com/cs/searching/hashtables/section1.html\nBit Array Logic : http://www8.cs.umu.se/~isak/snippets/bitarray.c\nBit Manipulation : http://stackoverflow.com/questions/6959660/bit-manipulation-of-chars-in-java-or-c\nBit Array and bit set : http://c-faq.com/misc/bitsets.html\nStatic Variables : http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c\nBSS : https://en.wikipedia.org/wiki/.bss\nMemory leak : http://stackoverflow.com/questions/423186/since-i-cant-return-a-local-variable-whats-the-best-way-to-return-a-string-fr/423206#423206\nC Memory layout : http://www.geeksforgeeks.org/memory-layout-of-c-program/\nInsertion Sort:  http://www.programmingsimplified.com/c/source-code/c-program-insertion-sort\nSelection Sort : http://www.programmingsimplified.com/c/source-code/c-program-selection-sort\nMerge Sort : http://www.cquestions.com/2011/07/merge-sort-program-in-c.html\nStack using array : https://www.cs.bu.edu/teaching/c/stack/array/\nStack using linked list : https://www.cs.bu.edu/teaching/c/stack/linked-list/\nQueue : https://www.cs.bu.edu/teaching/c/queue/array/types.html\nReentrant function : http://www.geeksforgeeks.org/reentrant-function/\nSerialise - deserialise : http://lnxdev.com/view_article.php?id=89\nEmbedded interview questions : http://sosoman.wikidot.com\nHash table : http://www.sparknotes.com/cs/searching/hashtables/section3.rhtml\nState machines : http://stackoverflow.com/questions/1371460/state-machines-tutorials\nDecimal to binary : http://www.programmingsimplified.com/c/source-code/c-program-convert-decimal-to-binary\nC programming examples : http://www.programmingsimplified.com/c-program-examples\nset specific bit in byte array : http://stackoverflow.com/questions/21408109/set-specific-bit-in-byte-array\n",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://www.sparknotes.com/cs/searching/hashtables/section1.html"
+   },
+   {
+    "url": "http://www8.cs.umu.se/~isak/snippets/bitarray.c"
+   },
+   {
+    "url": "http://stackoverflow.com/questions/6959660/bit-manipulation-of-chars-in-java-or-c"
+   },
+   {
+    "url": "http://c-faq.com/misc/bitsets.html"
+   },
+   {
+    "url": "http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/.bss"
+   },
+   {
+    "url": "http://stackoverflow.com/questions/423186/since-i-cant-return-a-local-variable-whats-the-best-way-to-return-a-string-fr/423206#423206"
+   },
+   {
+    "url": "http://www.geeksforgeeks.org/memory-layout-of-c-program/"
+   },
+   {
+    "url": "http://www.programmingsimplified.com/c/source-code/c-program-insertion-sort"
+   },
+   {
+    "url": "http://www.programmingsimplified.com/c/source-code/c-program-selection-sort"
+   },
+   {
+    "url": "http://www.cquestions.com/2011/07/merge-sort-program-in-c.html"
+   },
+   {
+    "url": "https://www.cs.bu.edu/teaching/c/stack/array/"
+   },
+   {
+    "url": "https://www.cs.bu.edu/teaching/c/stack/linked-list/"
+   },
+   {
+    "url": "https://www.cs.bu.edu/teaching/c/queue/array/types.html"
+   },
+   {
+    "url": "http://www.geeksforgeeks.org/reentrant-function/"
+   },
+   {
+    "url": "http://lnxdev.com/view_article.php?id=89"
+   },
+   {
+    "url": "http://sosoman.wikidot.com"
+   },
+   {
+    "url": "http://www.sparknotes.com/cs/searching/hashtables/section3.rhtml"
+   },
+   {
+    "url": "http://stackoverflow.com/questions/1371460/state-machines-tutorials"
+   },
+   {
+    "url": "http://www.programmingsimplified.com/c/source-code/c-program-convert-decimal-to-binary"
+   },
+   {
+    "url": "http://www.programmingsimplified.com/c-program-examples"
+   },
+   {
+    "url": "http://stackoverflow.com/questions/21408109/set-specific-bit-in-byte-array"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/JoeGMendes",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=60",
+   "displayName": "Joe Mendes",
+   "gv": "3",
+   "id": "5875b7dfd73408ce4f42b46c",
+   "url": "/JoeGMendes",
+   "username": "JoeGMendes",
+   "v": 3
+  },
+  "html": "The above links are directed at embedded development but they are also useful information in learning C. \ud83d\udc4d\ud83c\udffb",
+  "id": "58e12a44b52518ed4dd12140",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-02T16:43:48.936Z",
+  "text": "The above links are directed at embedded development but they are also useful information in learning C. \ud83d\udc4d\ud83c\udffb",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/dibyo0126",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/19633146?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/19633146?v=4&s=60",
+   "displayName": "Dibyo Ranjan Pradhan",
+   "gv": "4",
+   "id": "574b1adbc43b8c601975955d",
+   "url": "/dibyo0126",
+   "username": "dibyo0126",
+   "v": 7
+  },
+  "html": "Hello !\ud83d\ude0a",
+  "id": "58e136127ea420cc422e8160",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-02T17:34:10.282Z",
+  "text": "Hello !\ud83d\ude0a",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/JoeGMendes",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=60",
+   "displayName": "Joe Mendes",
+   "gv": "3",
+   "id": "5875b7dfd73408ce4f42b46c",
+   "url": "/JoeGMendes",
+   "username": "JoeGMendes",
+   "v": 3
+  },
+  "html": "Hey <span data-link-type=\"mention\" data-screen-name=\"dibyo0126\" class=\"mention\">@dibyo0126</span> ",
+  "id": "58e137218fcce56b20c217b4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "dibyo0126",
+    "userId": "574b1adbc43b8c601975955d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-02T17:38:41.322Z",
+  "text": "Hey @dibyo0126 ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/divyanshdubey",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=60",
+   "displayName": "divyanshdubey",
+   "gv": "3",
+   "id": "5812e195d73408ce4f3161bd",
+   "url": "/divyanshdubey",
+   "username": "divyanshdubey",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"alfa0\" class=\"mention\">@alfa0</span> thank you sir",
+  "id": "58e54042f22385553d112530",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "alfa0",
+    "userId": "5486f4a0db8155e6700dd57d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-05T19:06:42.420Z",
+  "text": "@alfa0 thank you sir",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/divyanshdubey",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=60",
+   "displayName": "divyanshdubey",
+   "gv": "3",
+   "id": "5812e195d73408ce4f3161bd",
+   "url": "/divyanshdubey",
+   "username": "divyanshdubey",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"abbosbek776\" class=\"mention\">@abbosbek776</span>  <a href=\"https://cppinstitute.org/\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://cppinstitute.org/</a>",
+  "id": "58e540a48fcce56b20d2faf6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "abbosbek776",
+    "userId": "58da09ecd73408ce4f5438b7",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-05T19:08:20.207Z",
+  "text": "@abbosbek776  https://cppinstitute.org/",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://cppinstitute.org/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/divyanshdubey",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23113786?v=3&s=60",
+   "displayName": "divyanshdubey",
+   "gv": "3",
+   "id": "5812e195d73408ce4f3161bd",
+   "url": "/divyanshdubey",
+   "username": "divyanshdubey",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Shewli\" class=\"mention\">@Shewli</span> there is no in built feature for that but yes you can do it manually.... Hope this helps ",
+  "id": "58e5412c8fcce56b20d2fdac",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Shewli",
+    "userId": "58cab199d73408ce4f514981",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-05T19:10:36.269Z",
+  "text": "@Shewli there is no in built feature for that but yes you can do it manually.... Hope this helps ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/JenimDacket",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=60",
+   "displayName": "JenimDacket",
+   "gv": "4",
+   "id": "58b8f80bd73408ce4f4e134c",
+   "url": "/JenimDacket",
+   "username": "JenimDacket",
+   "v": 6
+  },
+  "html": "Would anyone be willing to help me understand some error messages?",
+  "id": "58e79f9308c00c092a59ed87",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-07T14:17:55.831Z",
+  "text": "Would anyone be willing to help me understand some error messages?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/JoeGMendes",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3280225?v=3&s=60",
+   "displayName": "Joe Mendes",
+   "gv": "3",
+   "id": "5875b7dfd73408ce4f42b46c",
+   "url": "/JoeGMendes",
+   "username": "JoeGMendes",
+   "v": 3
+  },
+  "html": "Sure, what type of error message do you want to understand? FYI -- GNU has a great page on generic error information: <a href=\"http://www.gnu.org/software/libc/manual/html_node/Error-Messages.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://www.gnu.org/software/libc/manual/html_node/Error-Messages.html</a>",
+  "id": "58e857b17ea420cc424c3ea7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-08T03:23:29.280Z",
+  "text": "Sure, what type of error message do you want to understand? FYI -- GNU has a great page on generic error information: http://www.gnu.org/software/libc/manual/html_node/Error-Messages.html",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://www.gnu.org/software/libc/manual/html_node/Error-Messages.html"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/JenimDacket",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=60",
+   "displayName": "JenimDacket",
+   "gv": "4",
+   "id": "58b8f80bd73408ce4f4e134c",
+   "url": "/JenimDacket",
+   "username": "JenimDacket",
+   "v": 6
+  },
+  "html": "Hey fam, I have hit a gnarly block and it is burning me out trying to understand what is going wrong.  help?",
+  "id": "58e97a917ea420cc42503a93",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-09T00:04:33.716Z",
+  "text": "Hey fam, I have hit a gnarly block and it is burning me out trying to understand what is going wrong.  help?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/JenimDacket",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=60",
+   "displayName": "JenimDacket",
+   "gv": "4",
+   "id": "58b8f80bd73408ce4f4e134c",
+   "url": "/JenimDacket",
+   "username": "JenimDacket",
+   "v": 6
+  },
+  "html": "&#39;&#39;&#39;",
+  "id": "58e97a937ea420cc42503a96",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-09T00:04:35.627Z",
+  "text": "'''",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/JenimDacket",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=60",
+   "displayName": "JenimDacket",
+   "gv": "4",
+   "id": "58b8f80bd73408ce4f4e134c",
+   "url": "/JenimDacket",
+   "username": "JenimDacket",
+   "v": 6
+  },
+  "html": "<pre><code><span class=\"preprocessor\">#<span class=\"keyword\">define</span> _XOPEN_SOURCE</span>\n<span class=\"preprocessor\">#<span class=\"keyword\">include</span> &lt;unistd.h&gt;</span>\n<span class=\"preprocessor\">#<span class=\"keyword\">include</span> &lt;stdio.h&gt;</span>\n<span class=\"preprocessor\">#<span class=\"keyword\">include</span> &lt;cs50.h&gt;</span>\n<span class=\"preprocessor\">#<span class=\"keyword\">include</span> &lt;stdlib.h&gt;</span>\n<span class=\"preprocessor\">#<span class=\"keyword\">include</span> &lt;string.h&gt;</span>\n\n\n<span class=\"function\"><span class=\"built_in\">string</span> <span class=\"title\">crack</span> <span class=\"params\">(<span class=\"built_in\">string</span> pass, <span class=\"keyword\">char</span> s[2])</span></span>;\n<span class=\"function\"><span class=\"keyword\">int</span> <span class=\"title\">main</span><span class=\"params\">(<span class=\"keyword\">int</span> argc, <span class=\"built_in\">string</span> argv[])</span>\n</span>{\n    <span class=\"keyword\">if</span> (argc != <span class=\"number\">3</span>)\n    {\n        <span class=\"built_in\">printf</span>(<span class=\"string\">\"You must input exactly two arguments, first the key, and then the salt...\\n\"</span>);\n    }\n    <span class=\"built_in\">string</span> pass =  argv[<span class=\"number\">1</span>];\n    <span class=\"keyword\">char</span> s[<span class=\"number\">2</span>] = {<span class=\"number\">5</span>, <span class=\"number\">0</span>};\n    <span class=\"built_in\">string</span> ans = crack(pass, s);\n\n    <span class=\"keyword\">for</span>(<span class=\"keyword\">int</span> i = <span class=\"number\">0</span>, v = <span class=\"built_in\">strlen</span>(ans); i &lt; v; i++ )\n    <span class=\"built_in\">printf</span>(<span class=\"string\">\"The password is: %c\\n\"</span>, ans[i]);\n    <span class=\"keyword\">return</span> <span class=\"number\">0</span>;\n}\n\n\n<span class=\"function\"><span class=\"built_in\">string</span> <span class=\"title\">crack</span> <span class=\"params\">(<span class=\"built_in\">string</span> pass, <span class=\"keyword\">char</span> s[2])</span>\n</span>{\n    <span class=\"comment\">//Try to loop for one input character</span>\n    <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> i = <span class=\"number\">65</span>; i &lt; <span class=\"number\">123</span>; i++)\n    {\n        <span class=\"keyword\">char</span> n[<span class=\"number\">2</span>];\n        n[<span class=\"number\">0</span>] = i;\n        <span class=\"keyword\">if</span> (crypt(n, s) == pass)\n        {\n            <span class=\"built_in\">string</span> ans = n;\n            <span class=\"keyword\">return</span> ans;\n        }\n    }\n\n    <span class=\"comment\">//Try to loop for two input characters</span>\n    <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> i = <span class=\"number\">65</span>; i&lt; <span class=\"number\">123</span>; i++)\n    {\n        <span class=\"keyword\">char</span> n[<span class=\"number\">3</span>];\n        n[<span class=\"number\">0</span>] = i;\n        <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> j = <span class=\"number\">65</span>; j &lt; <span class=\"number\">123</span>; j++)\n        {\n            n[<span class=\"number\">1</span>] = j;\n            <span class=\"keyword\">if</span> (crypt(n, s) == pass)\n            {\n                <span class=\"built_in\">string</span> ans = n;\n                <span class=\"keyword\">return</span> ans;\n            }\n        }\n    }\n\n    <span class=\"comment\">//Try to loop for three input characters</span>\n    <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> i = <span class=\"number\">65</span>; i&lt; <span class=\"number\">123</span>; i++)\n    {\n        <span class=\"keyword\">char</span> n[<span class=\"number\">4</span>];\n        n[<span class=\"number\">0</span>] = i;\n        <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> j = <span class=\"number\">65</span>; j &lt; <span class=\"number\">123</span>; j++)\n        {\n            n[<span class=\"number\">1</span>] = j;\n            <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> k = <span class=\"number\">65</span>; k &lt; <span class=\"number\">123</span>; k++)\n            {\n                n[<span class=\"number\">2</span>] = k;\n                 <span class=\"keyword\">if</span> (crypt(n, s) == pass)\n                {\n                    <span class=\"built_in\">string</span> ans = n;\n                    <span class=\"keyword\">return</span> ans;\n                }\n            }\n        }\n    }\n\n    <span class=\"comment\">//Try to loop for four input characters</span>\n    <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> i = <span class=\"number\">65</span>; i&lt; <span class=\"number\">123</span>; i++)\n    {\n        <span class=\"keyword\">char</span> n[<span class=\"number\">5</span>];\n        n[<span class=\"number\">0</span>] = i;\n        <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> j = <span class=\"number\">65</span>; j &lt; <span class=\"number\">123</span>; j++)\n        {\n            n[<span class=\"number\">1</span>] = j;\n            <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> k = <span class=\"number\">65</span>; k &lt; <span class=\"number\">123</span>; k++)\n            {\n                n[<span class=\"number\">2</span>] = k;\n                <span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> l = <span class=\"number\">65</span>; l &lt; <span class=\"number\">123</span>; l++)\n                {\n                    n[<span class=\"number\">3</span>] = l;\n                    <span class=\"keyword\">if</span> (crypt(n, s) == pass)\n                    {\n                        <span class=\"built_in\">string</span> ans = n;\n                        <span class=\"keyword\">return</span> ans;\n                    }\n                }\n            }\n        }\n    }\n}</code></pre>",
+  "id": "58e97aa07ea420cc42503ad6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-09T00:04:48.737Z",
+  "text": "```\n#define _XOPEN_SOURCE\n#include <unistd.h>\n#include <stdio.h>\n#include <cs50.h>\n#include <stdlib.h>\n#include <string.h>\n\n\nstring crack (string pass, char s[2]);\nint main(int argc, string argv[])\n{\n    if (argc != 3)\n    {\n        printf(\"You must input exactly two arguments, first the key, and then the salt...\\n\");\n    }\n    string pass =  argv[1];\n    char s[2] = {5, 0};\n    string ans = crack(pass, s);\n    \n    for(int i = 0, v = strlen(ans); i < v; i++ )\n    printf(\"The password is: %c\\n\", ans[i]);\n    return 0;\n}\n\n\nstring crack (string pass, char s[2])\n{\n    //Try to loop for one input character\n    for (int i = 65; i < 123; i++)\n    {\n        char n[2];\n        n[0] = i;\n        if (crypt(n, s) == pass)\n        {\n            string ans = n;\n            return ans;\n        }\n    }\n    \n    //Try to loop for two input characters\n    for (int i = 65; i< 123; i++)\n    {\n        char n[3];\n        n[0] = i;\n        for (int j = 65; j < 123; j++)\n        {\n            n[1] = j;\n            if (crypt(n, s) == pass)\n            {\n                string ans = n;\n                return ans;\n            }\n        }\n    }\n    \n    //Try to loop for three input characters\n    for (int i = 65; i< 123; i++)\n    {\n        char n[4];\n        n[0] = i;\n        for (int j = 65; j < 123; j++)\n        {\n            n[1] = j;\n            for (int k = 65; k < 123; k++)\n            {\n                n[2] = k;\n                 if (crypt(n, s) == pass)\n                {\n                    string ans = n;\n                    return ans;\n                }\n            }\n        }\n    }\n    \n    //Try to loop for four input characters\n    for (int i = 65; i< 123; i++)\n    {\n        char n[5];\n        n[0] = i;\n        for (int j = 65; j < 123; j++)\n        {\n            n[1] = j;\n            for (int k = 65; k < 123; k++)\n            {\n                n[2] = k;\n                for (int l = 65; l < 123; l++)\n                {\n                    n[3] = l;\n                    if (crypt(n, s) == pass)\n                    {\n                        string ans = n;\n                        return ans;\n                    }\n                }\n            }\n        }\n    }\n}\n\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/JenimDacket",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26157072?v=4&s=60",
+   "displayName": "JenimDacket",
+   "gv": "4",
+   "id": "58b8f80bd73408ce4f4e134c",
+   "url": "/JenimDacket",
+   "username": "JenimDacket",
+   "v": 6
+  },
+  "html": "I keep getting hit with a return error of <code>glib.c:99:1: error: control may reach end of non-void function [-Werror,-Wreturn-type]\n}</code>",
+  "id": "58e97b0408c00c092a60e888",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-09T00:06:28.300Z",
+  "text": "I keep getting hit with a return error of ```glib.c:99:1: error: control may reach end of non-void function [-Werror,-Wreturn-type]\n}```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/n1had5_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/833056009392422914/5wlf0rZO.jpg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/833056009392422914/5wlf0rZO_bigger.jpg",
+   "displayName": "Nihad",
+   "id": "58c47a12d73408ce4f4ff620",
+   "url": "/n1had5_twitter",
+   "username": "n1had5_twitter"
+  },
+  "html": "Hey guys",
+  "id": "58ffd73bd32c6f2f093e6b98",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-04-25T23:09:47.255Z",
+  "text": "Hey guys",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/abbosbek776",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=60",
+   "displayName": "Abbosbek",
+   "gv": "3",
+   "id": "58da09ecd73408ce4f5438b7",
+   "url": "/abbosbek776",
+   "username": "abbosbek776",
+   "v": 3
+  },
+  "html": "<p>/*</p><h1>include &lt;stdio.h&gt;</h1>\n<h1>include &lt;stdlib.h&gt;</h1>\n<h1>include &lt;ctype.h&gt;</h1>\n<h1>include &lt;string.h&gt;</h1>\n<h1>include &lt;math.h&gt;</h1>\n<p>int addit(int n1, int n2);<br>int subit(int n1, int n2);<br>int mulit(int n1, int n2);</p><p>int main(void) {<br>    int(<em>func[3])(int, int) = { addit, subit, mulit };<br>    char sign[3] = { &#39;+&#39;,&#39;-&#39;,&#39;</em>&#39; };<br>    int select;<br>    int n1, n2;<br>    int result;<br>    do {<br>        printf(&quot; 0.addition\\n 1.Subtraction\\n 2.multiplication\\n 3.End\\n Select the operation &quot;);<br>        scanf(&quot;%d&quot;, &amp;select);<br>        if (select == 3)<br>            break;<br>        printf(&quot;Enter the two numbers : &quot;);<br>        scanf(&quot;%d %d&quot;, &amp;n1, &amp;n2);<br>        result = (<em>func[select])(n1, n2);<br>        printf(&quot;\\n\\t%d %c %d = %d\\n\\n&quot;, n1, sign[select], n2, result);<br>    } while (0 &lt;= select &amp;&amp; select &lt; 3);<br>    printf(&quot;Exit&quot;);<br>}<br>int addit(int n1, int n2) {<br>    return n1 + n2;<br>}<br>int subit(int n1, int n2) {<br>    return n1 - n2;<br>}<br>int mulit(int n1, int n2) {<br>    return n1 </em> n2;<br>}</p><p><em>/<br>/</em><br>int stringCompare(const char<em> s1, const char</em> s2);</p><p>int main (void) {<br>    char string1[80];<br>    char string2[80];</p><pre><code><span class=\"keyword\">printf</span>(<span class=\"string\">\"enter two strings : \"</span>);\nscanf(<span class=\"string\">\"<span class=\"variable\">%s</span><span class=\"variable\">%s</span>\"</span>, string1, string2);\n<span class=\"keyword\">printf</span>(<span class=\"string\">\"<span class=\"variable\">%s</span> and <span class=\"variable\">%s</span> are <span class=\"variable\">%s</span> \\n\"</span>, string1, string2, stringCompare(string1, string2) ? <span class=\"string\">\"equal\"</span>: <span class=\"string\">\"not equal\"</span>);</code></pre><p>}<br>int stringCompare(const char<em> s1, const char</em> s2) {<br>    while (<em>s1 != &#39;\\0&#39; &amp;&amp; </em>s2 != &#39;\\0&#39;) {<br>        if (<em>(s1++) != </em>(s2++))<br>            return 0;<br>    }<br>    if (<em>s1 != &#39;\\0&#39; || </em>s2 != &#39;\\0&#39;)<br>        return 0;<br>    return 0;<br>}</p><p><em>//</em></p><p><em>/<br>/</em>void HomeworkOneSolver(int <em> a, int </em> b, int *c);<br>int main(void) {<br>    int a = 0, b = 0, c = 0;<br>    printf(&quot;Enter three numbers: &quot;);<br>    scanf(&quot;%d %d %d&quot;, &amp;a, &amp;b, &amp;c);</p><pre><code><span class=\"keyword\">printf</span>(<span class=\"string\">\"Before: a = <span class=\"variable\">%d</span> \\t b = <span class=\"variable\">%d</span> \\t c = <span class=\"variable\">%d</span> \\n \"</span>, a, b, c);\nHomeworkOneSolver(&amp;a, &amp;b, &amp;c);\n<span class=\"keyword\">printf</span>(<span class=\"string\">\"After: a = <span class=\"variable\">%d</span> \\t b = <span class=\"variable\">%d</span> \\t c = <span class=\"variable\">%d</span> \\n\"</span>, a, b, c);\n<span class=\"keyword\">return</span> <span class=\"number\">0</span>;</code></pre><p>}<br>void HomeworkOneSolver(int <em>a, int </em>b, int <em>c) {<br>    int byte = 0;<br>    (</em>a)++;<br>    (<em>b) </em>= (<em>c);<br>    byte = (</em>b);<br>    (<em>b) = (</em>c);<br>    (<em>c) = byte;<br>}</em>//*</p><p><em>/<br>/</em><br>int main(void){<br>    int i;<br>    int meatBalls[5] = {7, 9, 43, 21, 3};<br>    printf(&quot;Element      \\t Address \\t Value \\n&quot;);</p><pre><code><span class=\"keyword\">for</span> (<span class=\"keyword\">int</span> i = <span class=\"number\">0</span>; i &lt; <span class=\"number\">5</span>; ++i) {\n    <span class=\"keyword\">printf</span>(<span class=\"string\">\"meatBalls[<span class=\"variable\">%d</span>] \\t <span class=\"variable\">%p</span> \\t <span class=\"variable\">%d</span> \\n\"</span>, i, &amp;meatBalls[i], meatBalls[i]);\n\n}\n\n<span class=\"keyword\">printf</span>(<span class=\"string\">\"\\n*meatBalls \\t\\t <span class=\"variable\">%d</span> \\n\"</span>, *meatBalls);\n<span class=\"keyword\">printf</span>(<span class=\"string\">\"\\n*{meatBalls + 2} \\t\\t <span class=\"variable\">%d</span> \\n\"</span>, *(meatBalls + <span class=\"number\">2</span>));\n<span class=\"keyword\">return</span> <span class=\"number\">0</span>;</code></pre><p>}</p><p><em>//</em></p>",
+  "id": "590504698bb56c2d11f697d3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-04-29T21:23:53.324Z",
+  "text": "/*\n#include <stdio.h>\n#include <stdlib.h>\n#include <ctype.h>\n#include <string.h>\n#include <math.h>\n\nint addit(int n1, int n2);\nint subit(int n1, int n2);\nint mulit(int n1, int n2);\n\nint main(void) {\n    int(*func[3])(int, int) = { addit, subit, mulit };\n    char sign[3] = { '+','-','*' };\n    int select;\n    int n1, n2;\n    int result;\n    do {\n        printf(\" 0.addition\\n 1.Subtraction\\n 2.multiplication\\n 3.End\\n Select the operation \");\n        scanf(\"%d\", &select);\n        if (select == 3)\n            break;\n        printf(\"Enter the two numbers : \");\n        scanf(\"%d %d\", &n1, &n2);\n        result = (*func[select])(n1, n2);\n        printf(\"\\n\\t%d %c %d = %d\\n\\n\", n1, sign[select], n2, result);\n    } while (0 <= select && select < 3);\n    printf(\"Exit\");\n}\nint addit(int n1, int n2) {\n    return n1 + n2;\n}\nint subit(int n1, int n2) {\n    return n1 - n2;\n}\nint mulit(int n1, int n2) {\n    return n1 * n2;\n}\n\n\n\n\n\n\n\n\n\n*/\n/*\nint stringCompare(const char* s1, const char* s2);\n\nint main (void) {\n    char string1[80];\n    char string2[80];\n\n    printf(\"enter two strings : \");\n    scanf(\"%s%s\", string1, string2);\n    printf(\"%s and %s are %s \\n\", string1, string2, stringCompare(string1, string2) ? \"equal\": \"not equal\");\n\n}\nint stringCompare(const char* s1, const char* s2) {\n    while (*s1 != '\\0' && *s2 != '\\0') {\n        if (*(s1++) != *(s2++))\n            return 0;\n    }\n    if (*s1 != '\\0' || *s2 != '\\0')\n        return 0;\n    return 0;\n}\n\n*//*\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n*/\n/*void HomeworkOneSolver(int * a, int * b, int *c);\nint main(void) {\n    int a = 0, b = 0, c = 0;\n    printf(\"Enter three numbers: \");\n    scanf(\"%d %d %d\", &a, &b, &c);\n\n    printf(\"Before: a = %d \\t b = %d \\t c = %d \\n \", a, b, c);\n    HomeworkOneSolver(&a, &b, &c);\n    printf(\"After: a = %d \\t b = %d \\t c = %d \\n\", a, b, c);\n    return 0;\n}\nvoid HomeworkOneSolver(int *a, int *b, int *c) {\n    int byte = 0;\n    (*a)++;\n    (*b) *= (*c);\n    byte = (*b);\n    (*b) = (*c);\n    (*c) = byte;\n}*//*\n\n\n*/\n/*\nint main(void){\n    int i;\n    int meatBalls[5] = {7, 9, 43, 21, 3};\n    printf(\"Element      \\t Address \\t Value \\n\");\n\n    for (int i = 0; i < 5; ++i) {\n        printf(\"meatBalls[%d] \\t %p \\t %d \\n\", i, &meatBalls[i], meatBalls[i]);\n\n    }\n\n    printf(\"\\n*meatBalls \\t\\t %d \\n\", *meatBalls);\n    printf(\"\\n*{meatBalls + 2} \\t\\t %d \\n\", *(meatBalls + 2));\n    return 0;\n}\n\n\n*//*\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/abbosbek776",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/19248232?v=3&s=60",
+   "displayName": "Abbosbek",
+   "gv": "3",
+   "id": "58da09ecd73408ce4f5438b7",
+   "url": "/abbosbek776",
+   "username": "abbosbek776",
+   "v": 3
+  },
+  "html": "What is wrong with this",
+  "id": "5905046fc1d3b5015432ee22",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-04-29T21:23:59.597Z",
+  "text": "What is wrong with this",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/trucpt",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4225470?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4225470?v=4&s=60",
+   "displayName": "Truc Pham (aka Jack)",
+   "gv": "4",
+   "id": "5774cdbbc2f0db084a20b579",
+   "url": "/trucpt",
+   "username": "trucpt",
+   "v": 11
+  },
+  "html": "hi all, i&#39;m C newbie",
+  "id": "5905591dcfec9192728ab1e0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-04-30T03:25:17.911Z",
+  "text": "hi all, i'm C newbie",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/trucpt",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4225470?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4225470?v=4&s=60",
+   "displayName": "Truc Pham (aka Jack)",
+   "gv": "4",
+   "id": "5774cdbbc2f0db084a20b579",
+   "url": "/trucpt",
+   "username": "trucpt",
+   "v": 11
+  },
+  "html": "nice to meet you all",
+  "id": "5905592008c00c092acc1cc7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-04-30T03:25:20.344Z",
+  "text": "nice to meet you all",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/mandeepudp92",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/27291968?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/27291968?v=3&s=60",
+   "displayName": "mandeepudp92",
+   "gv": "3",
+   "id": "58ecf27bd73408ce4f57a533",
+   "url": "/mandeepudp92",
+   "username": "mandeepudp92",
+   "v": 1
+  },
+  "html": "hey can any  help me out with a c program",
+  "id": "5905742c881b89e1019c5dda",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2017-04-30T05:20:44.941Z",
+  "text": "hey can any  help me out with a c program",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Primee7",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28568500?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28568500?v=4&s=60",
+   "displayName": "Abhinav Shukla",
+   "gv": "4",
+   "id": "59245d5ed73408ce4f61afc6",
+   "url": "/Primee7",
+   "username": "Primee7",
+   "v": 2
+  },
+  "html": "Hi everyone! ",
+  "id": "5925503ec4d73f445adb4b3c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2017-05-24T09:19:58.506Z",
+  "text": "Hi everyone! ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/suryapoo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/20875478?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/20875478?v=4&s=60",
+   "displayName": "Surya Poojary",
+   "gv": "4",
+   "id": "5978c7a4d73408ce4f6ee020",
+   "url": "/suryapoo",
+   "username": "suryapoo",
+   "v": 5
+  },
+  "html": "Hey peeps",
+  "id": "598965f0329651f46efd8ed8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-08-08T07:19:12.714Z",
+  "text": "Hey peeps",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Kashio",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=60",
+   "displayName": "Roy Mor",
+   "gv": "4",
+   "id": "57d3354740f3a6eec06475fd",
+   "url": "/Kashio",
+   "username": "Kashio",
+   "v": 10
+  },
+  "html": "Hi if I wrap a struct definition inside an extern &quot;C&quot; block will it have any meaning if it&#39;s the only thing in the block? I know it changes the linkage of functions but does struct names get mingled too in C++ ?",
+  "id": "59bbf240cfeed2eb65126a7e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-09-15T15:31:12.662Z",
+  "text": "Hi if I wrap a struct definition inside an extern \"C\" block will it have any meaning if it's the only thing in the block? I know it changes the linkage of functions but does struct names get mingled too in C++ ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Kashio",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=60",
+   "displayName": "Roy Mor",
+   "gv": "4",
+   "id": "57d3354740f3a6eec06475fd",
+   "url": "/Kashio",
+   "username": "Kashio",
+   "v": 10
+  },
+  "html": "because struct doesnt have &quot;overloads&quot; so it doesnt really make sense",
+  "id": "59bbf24fbc4647297439e538",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-09-15T15:31:27.791Z",
+  "text": "because struct doesnt have \"overloads\" so it doesnt really make sense",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nickkhan",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/5621663?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/5621663?v=4&s=60",
+   "displayName": "nickkhan",
+   "gv": "4",
+   "id": "59a46908d73408ce4f735287",
+   "url": "/nickkhan",
+   "username": "nickkhan",
+   "v": 27
+  },
+  "html": "hi folks ",
+  "id": "59dbd337614889d47593f219",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-10-09T19:51:19.972Z",
+  "text": "hi folks ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/teddydi",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=60",
+   "displayName": "John D.",
+   "gv": "4",
+   "id": "56f281aa85d51f252aba5700",
+   "url": "/teddydi",
+   "username": "teddydi",
+   "v": 7
+  },
+  "html": "hi guys, hope you are all doing well.",
+  "id": "59f9afd5614889d47527ff6f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-11-01T11:28:21.584Z",
+  "text": "hi guys, hope you are all doing well.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/teddydi",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=60",
+   "displayName": "John D.",
+   "gv": "4",
+   "id": "56f281aa85d51f252aba5700",
+   "url": "/teddydi",
+   "username": "teddydi",
+   "v": 7
+  },
+  "html": "how to become a linux kernel dev?",
+  "id": "59f9afddd6c36fca31c1ad1a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-11-01T11:28:29.306Z",
+  "text": "how to become a linux kernel dev?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/teddydi",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/13002965?v=4&s=60",
+   "displayName": "John D.",
+   "gv": "4",
+   "id": "56f281aa85d51f252aba5700",
+   "url": "/teddydi",
+   "username": "teddydi",
+   "v": 7
+  },
+  "html": "I like Makefiles and C on Linux :) .",
+  "id": "59f9b0fc32e080696e4f722a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-11-01T11:33:16.032Z",
+  "text": "I like Makefiles and C on Linux :) .",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Blarsu",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/23547919?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/23547919?v=4&s=60",
+   "displayName": "Tevin Rose",
+   "gv": "4",
+   "id": "58f39237d73408ce4f58c744",
+   "url": "/Blarsu",
+   "username": "Blarsu",
+   "v": 6
+  },
+  "html": "hello",
+  "id": "5abb08f6c574b1aa3e3dcc13",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2018-03-28T03:16:06.326Z",
+  "text": "hello",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]
