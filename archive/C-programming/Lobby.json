@@ -1077,5 +1077,53 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/johnmelodyme",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/44691957?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/44691957?v=4&s=60",
+   "displayName": "JohnMelodyMel",
+   "gv": "4",
+   "id": "5c171a90d73408ce4fb225f1",
+   "url": "/johnmelodyme",
+   "username": "johnmelodyme",
+   "v": 15
+  },
+  "html": "Hi",
+  "id": "5c171bf8392d8c6f8e728e2e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-17T03:46:00.555Z",
+  "text": "Hi",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/johnmelodyme",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/44691957?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/44691957?v=4&s=60",
+   "displayName": "JohnMelodyMel",
+   "gv": "4",
+   "id": "5c171a90d73408ce4fb225f1",
+   "url": "/johnmelodyme",
+   "username": "johnmelodyme",
+   "v": 15
+  },
+  "html": "Is C and C ++ the same thing ? ",
+  "id": "5c171db5ae1ab5539efa466b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-17T03:53:25.033Z",
+  "text": "Is C and C ++ the same thing ? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

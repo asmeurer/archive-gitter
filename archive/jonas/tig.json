@@ -14824,5 +14824,341 @@
    }
   ],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/L3viathan",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/259833?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/259833?v=4&s=60",
+   "displayName": "Jonathan Oberl\u00e4nder",
+   "gv": "4",
+   "id": "57ec57ed40f3a6eec067e9a7",
+   "url": "/L3viathan",
+   "username": "L3viathan",
+   "v": 7
+  },
+  "html": "Hi there! I&#39;m looking to implement an ASCII representation of a (DA) graph in an unrelated application (nothing to do with Git, either). Does tig do the git graph visualization (in the main view) itself (in that case: where can I find the algorithm/the source of that), or does that come from some git command?",
+  "id": "5b5cbcbdcb4d5b036ca1e0ff",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-07-28T18:58:05.539Z",
+  "text": "Hi there! I'm looking to implement an ASCII representation of a (DA) graph in an unrelated application (nothing to do with Git, either). Does tig do the git graph visualization (in the main view) itself (in that case: where can I find the algorithm/the source of that), or does that come from some git command?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/L3viathan",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/259833?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/259833?v=4&s=60",
+   "displayName": "Jonathan Oberl\u00e4nder",
+   "gv": "4",
+   "id": "57ec57ed40f3a6eec067e9a7",
+   "url": "/L3viathan",
+   "username": "L3viathan",
+   "v": 7
+  },
+  "html": "Ah, nevermind, I see it&#39;s a variant of <code>git log --graph --oneline</code>",
+  "id": "5b5cc1b4c83d1230b131280b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-07-28T19:19:16.647Z",
+  "text": "Ah, nevermind, I see it's a variant of `git log --graph --oneline`",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jonas",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8417?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8417?v=4&s=60",
+   "displayName": "Jonas Fonseca",
+   "gv": "4",
+   "id": "54deb04715522ed4b3dc00e2",
+   "url": "/jonas",
+   "username": "jonas",
+   "v": 21
+  },
+  "html": "Tig builds the graph by parsing git-log output. Code is in src/graph-*.c",
+  "id": "5b5f502dc83d1230b1385652",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 27,
+  "sent": "2018-07-30T17:51:41.091Z",
+  "text": "Tig builds the graph by parsing git-log output. Code is in src/graph-*.c",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Nichlas",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/200491?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/200491?v=4&s=60",
+   "displayName": "Nichlas Hummelsberger",
+   "gv": "4",
+   "id": "5b616d0ed73408ce4fa311e7",
+   "url": "/Nichlas",
+   "username": "Nichlas"
+  },
+  "html": "Hi Jonas, Have you considered building tig as a snap package?",
+  "id": "5b616d2acb4d5b036caf6f81",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-08-01T08:19:54.409Z",
+  "text": "Hi Jonas, Have you considered building tig as a snap package?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/net",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6983821?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6983821?v=4&s=60",
+   "displayName": "Net",
+   "gv": "4",
+   "id": "56418b4d16b6c7089cba2158",
+   "url": "/net",
+   "username": "net",
+   "v": 16
+  },
+  "html": "<p>I wonder what&#39;s causing <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"582\" href=\"https://github.com/jonas/tig/issues/582\" data-provider=\"github\" data-issue-repo=\"jonas/tig\" class=\"issue\">jonas/tig#582</a>, as escape seems to be already implemented:</p><p><a href=\"https://github.com/jonas/tig/blob/master/src/prompt.c#L670-L672\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/jonas/tig/blob/master/src/prompt.c#L670-L672</a></p>",
+  "id": "5b6217bac83d1230b141a34f",
+  "issues": [
+   {
+    "number": "582",
+    "repo": "jonas/tig"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-08-01T20:27:38.842Z",
+  "text": "I wonder what's causing https://github.com/jonas/tig/issues/582, as escape seems to be already implemented:\n\nhttps://github.com/jonas/tig/blob/master/src/prompt.c#L670-L672",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/jonas/tig/blob/master/src/prompt.c#L670-L672"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jonas",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8417?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8417?v=4&s=60",
+   "displayName": "Jonas Fonseca",
+   "gv": "4",
+   "id": "54deb04715522ed4b3dc00e2",
+   "url": "/jonas",
+   "username": "jonas",
+   "v": 21
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Nichlas\" class=\"mention\">@Nichlas</span> There is a snap configuration but it is using <code>classic</code> confinement and hasn&#39;t been accepted. Didn&#39;t have much time to figure out how to change the confinement.",
+  "id": "5b6aebf2c917d40dc25b3def",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Nichlas",
+    "userId": "5b616d0ed73408ce4fa311e7",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 27,
+  "sent": "2018-08-08T13:11:14.394Z",
+  "text": "@Nichlas There is a snap configuration but it is using `classic` confinement and hasn't been accepted. Didn't have much time to figure out how to change the confinement.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jonas",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8417?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8417?v=4&s=60",
+   "displayName": "Jonas Fonseca",
+   "gv": "4",
+   "id": "54deb04715522ed4b3dc00e2",
+   "url": "/jonas",
+   "username": "jonas",
+   "v": 21
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"net\" class=\"mention\">@net</span> You are right. Are you using readline?",
+  "id": "5b6aed3ac79ebc1ae7c3dbcd",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "net",
+    "userId": "56418b4d16b6c7089cba2158",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 27,
+  "sent": "2018-08-08T13:16:42.969Z",
+  "text": "@net You are right. Are you using readline?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/svenn71",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1207110?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1207110?v=4&s=60",
+   "displayName": "svenn71",
+   "gv": "4",
+   "id": "5825f3f4d73408ce4f3534d9",
+   "url": "/svenn71",
+   "username": "svenn71",
+   "v": 8
+  },
+  "html": "How can I check out a single file from tree view in repository cloned with -n --depth 1?",
+  "id": "5b6af9693bca002dcbdbacf4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 25,
+  "sent": "2018-08-08T14:08:41.516Z",
+  "text": "How can I check out a single file from tree view in repository cloned with -n --depth 1?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/fujisan43_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/1516183921/109168797.jpg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/1516183921/109168797_bigger.jpg",
+   "displayName": "Fujisan (\u5bcc\u58eb\u5c71)",
+   "id": "5b83c147d73408ce4fa5ed42",
+   "url": "/fujisan43_twitter",
+   "username": "fujisan43_twitter",
+   "v": 1
+  },
+  "html": "<p>I have the following in my .tigrc:</p><pre><code>[<span class=\"atom\">tig</span>]\n   <span class=\"atom\">line</span>-<span class=\"atom\">graphics</span> = <span class=\"atom\">utf</span>-<span class=\"number\">8</span></code></pre><p>and tig does not understand it:</p><pre><code>tig <span class=\"string\">warning:</span> ~/.<span class=\"string\">tigrc:</span><span class=\"number\">1</span>: Unknown option <span class=\"string\">command:</span> [tig]\ntig <span class=\"string\">warning:</span> ~/.<span class=\"string\">tigrc:</span><span class=\"number\">2</span>: Unknown option <span class=\"string\">command:</span> line-graphics\ntig <span class=\"string\">warning:</span> Errors <span class=\"keyword\">while</span> loading <span class=\"regexp\">/home/</span>fuji/.tigrc.</code></pre><p>What is wrong?</p>",
+  "id": "5b83c260fd3c641b06163e11",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 25,
+  "sent": "2018-08-27T09:20:32.754Z",
+  "text": "I have the following in my .tigrc:\n\n```\n[tig]\n   line-graphics = utf-8\n```\n\nand tig does not understand it:\n\n```\ntig warning: ~/.tigrc:1: Unknown option command: [tig]\ntig warning: ~/.tigrc:2: Unknown option command: line-graphics\ntig warning: Errors while loading /home/fuji/.tigrc.\n```\n\nWhat is wrong?\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/fujisan43_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/1516183921/109168797.jpg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/1516183921/109168797_bigger.jpg",
+   "displayName": "Fujisan (\u5bcc\u58eb\u5c71)",
+   "id": "5b83c147d73408ce4fa5ed42",
+   "url": "/fujisan43_twitter",
+   "username": "fujisan43_twitter",
+   "v": 1
+  },
+  "html": "Ok, my bad.<br>in .tigrc, it should be:<pre><code><span class=\"keyword\">set</span>  <span class=\"built_in\">line</span>-graphics = utf-<span class=\"number\">8</span></code></pre>",
+  "id": "5b83c5bae5b40332ab04a65a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-08-27T09:34:50.166Z",
+  "text": "Ok, my bad.\nin .tigrc, it should be:\n```\nset  line-graphics = utf-8\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/UncleInf",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/9434565?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/9434565?v=4&s=60",
+   "displayName": "Thomas",
+   "gv": "4",
+   "id": "56aba577e610378809bedf85",
+   "url": "/UncleInf",
+   "username": "UncleInf",
+   "v": 3
+  },
+  "html": "hello. is there diff file by file option? And/or diff side by side view? thanks",
+  "id": "5b8bc80260f9ee7aa4c74b89",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-09-02T11:22:42.043Z",
+  "text": "hello. is there diff file by file option? And/or diff side by side view? thanks",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2018-09-03T20:06:45.757Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jonas",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8417?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8417?v=4&s=60",
+   "displayName": "Jonas Fonseca",
+   "gv": "4",
+   "id": "54deb04715522ed4b3dc00e2",
+   "url": "/jonas",
+   "username": "jonas",
+   "v": 21
+  },
+  "html": "No, side-by-side diff is the most voted feature, but I&#39;ve not gotten around to implement it.",
+  "id": "5b8d9447f5402f32aad24f18",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 26,
+  "sent": "2018-09-03T20:06:31.412Z",
+  "text": "No, side-by-side diff is the most voted feature, but I've not gotten around to implement it.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/mattly",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/891?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/891?v=4&s=60",
+   "displayName": "Matthew Lyon",
+   "gv": "4",
+   "id": "548c85e7db8155e6700ded22",
+   "url": "/mattly",
+   "username": "mattly",
+   "v": 24
+  },
+  "html": "is there any hold up on the diff-so-fancy feature? <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"542\" href=\"https://github.com/jonas/tig/issues/542\" data-provider=\"github\" data-issue-repo=\"jonas/tig\" class=\"issue\">jonas/tig#542</a>",
+  "id": "5c27098892cf4d22420eeb56",
+  "issues": [
+   {
+    "number": "542",
+    "repo": "jonas/tig"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2018-12-29T05:43:36.290Z",
+  "text": "is there any hold up on the diff-so-fancy feature? https://github.com/jonas/tig/issues/542",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

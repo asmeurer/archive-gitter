@@ -1561,5 +1561,77 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/hetp111",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/17962201?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/17962201?v=4&s=60",
+   "displayName": "Het Patel",
+   "gv": "4",
+   "id": "5b769ca8d73408ce4fa4e6ed",
+   "url": "/hetp111",
+   "username": "hetp111",
+   "v": 91
+  },
+  "html": "Before contributing. what are all the prerequisites ? please answer in detail. I have learned the basics of python, sympy and github.",
+  "id": "5bb4f12b6e5a401c2d0f896b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2018-10-03T16:41:15.490Z",
+  "text": "Before contributing. what are all the prerequisites ? please answer in detail. I have learned the basics of python, sympy and github.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/roy-ca",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/26303164?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/26303164?v=4&s=60",
+   "displayName": "roy-ca",
+   "gv": "4",
+   "id": "5b963048d73408ce4fa77b1e",
+   "url": "/roy-ca",
+   "username": "roy-ca",
+   "v": 3
+  },
+  "html": "Yaa.i want it too",
+  "id": "5bdc209f076992347aa3867b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2018-11-02T10:02:07.991Z",
+  "text": "Yaa.i want it too",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Puranjay25",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/20750726?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/20750726?v=4&s=60",
+   "displayName": "Puranjay",
+   "gv": "4",
+   "id": "5aaa9b5cd73408ce4f9191e0",
+   "url": "/Puranjay25",
+   "username": "Puranjay25",
+   "v": 8
+  },
+  "html": "Hello everyone! I am Puranjay and want to contribute to sympy. But while contributing I am not able to figure out the solutions to issues raised. Can someone help me with that? ",
+  "id": "5c24ffe10b7fc97caaa9e70b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2018-12-27T16:37:53.268Z",
+  "text": "Hello everyone! I am Puranjay and want to contribute to sympy. But while contributing I am not able to figure out the solutions to issues raised. Can someone help me with that? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

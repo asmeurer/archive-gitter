@@ -32410,5 +32410,112 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/shanky199912",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/38985265?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/38985265?v=4&s=60",
+   "displayName": "SHASHANK  TEWARI",
+   "gv": "4",
+   "id": "5b45d4b6d73408ce4fa0683a",
+   "url": "/shanky199912",
+   "username": "shanky199912",
+   "v": 8
+  },
+  "html": "Hello everyone . I am new to open source so I want to work on some easy projects. I know C and Java. I want to learn new things and build my skills , so in any way can I contribute to the organization?",
+  "id": "5b74f11149932d4fe4ea4434",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2018-08-16T03:35:45.100Z",
+  "text": "Hello everyone . I am new to open source so I want to work on some easy projects. I know C and Java. I want to learn new things and build my skills , so in any way can I contribute to the organization?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 28
+  },
+  "html": "Well SymPy is written in Python, so if you are comfortable with Python you can. Go through <a href=\"https://github.com/sympy/sympy/wiki/Introduction-to-contributing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/sympy/sympy/wiki/Introduction-to-contributing</a>.<br>Also you can check <a href=\"https://github.com/symengine/symengine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">SymEngine</a> it&#39;s written in C++",
+  "id": "5b751016e9b96f2c981583dc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2018-08-16T05:48:06.392Z",
+  "text": "Well SymPy is written in Python, so if you are comfortable with Python you can. Go through https://github.com/sympy/sympy/wiki/Introduction-to-contributing.\nAlso you can check [SymEngine](https://github.com/symengine/symengine) it's written in C++",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/wiki/Introduction-to-contributing"
+   },
+   {
+    "url": "https://github.com/symengine/symengine"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 28
+  },
+  "html": "Also this channel doesn&#39;t seems to be active. Use <a href=\"https://gitter.im/sympy/sympy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gitter.im/sympy/sympy</a> for  discussions.",
+  "id": "5b751066179f842c97457182",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2018-08-16T05:49:26.029Z",
+  "text": "Also this channel doesn't seems to be active. Use https://gitter.im/sympy/sympy for  discussions.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/sympy/sympy"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/shanky199912",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/38985265?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/38985265?v=4&s=60",
+   "displayName": "SHASHANK  TEWARI",
+   "gv": "4",
+   "id": "5b45d4b6d73408ce4fa0683a",
+   "url": "/shanky199912",
+   "username": "shanky199912",
+   "v": 8
+  },
+  "html": "Yaa actually i m learning python.. so this will help me. Thanks ",
+  "id": "5b752b80196bc60b6bd7d4d6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2018-08-16T07:45:04.261Z",
+  "text": "Yaa actually i m learning python.. so this will help me. Thanks ",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]
