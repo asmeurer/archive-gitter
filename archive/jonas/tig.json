@@ -15160,5 +15160,162 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Seybo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=60",
+   "displayName": "Mikhail Mirzoyan",
+   "gv": "4",
+   "id": "572757e4c43b8c601970c3d4",
+   "url": "/Seybo",
+   "username": "Seybo",
+   "v": 81
+  },
+  "html": "Hi guys. I&#39;m a newbie tig user and it feels like it is the thing that i was looking for long time. But there is a thing that i would really like to have there. Selected file path copying. Here is a usecase: I&#39;m working in vim and then switch to tig, there i see a file with changes that i want to continue to work on. So i want to go back to vim and quickly open this file. By pasting it&#39;s path from buffer into my filesearch plugin. Is there a way i can do that?",
+  "id": "5cc50c168790b0307e134735",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-28T02:12:38.323Z",
+  "text": "Hi guys. I'm a newbie tig user and it feels like it is the thing that i was looking for long time. But there is a thing that i would really like to have there. Selected file path copying. Here is a usecase: I'm working in vim and then switch to tig, there i see a file with changes that i want to continue to work on. So i want to go back to vim and quickly open this file. By pasting it's path from buffer into my filesearch plugin. Is there a way i can do that?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/typebrook",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=60",
+   "displayName": "Hsieh Chin Fan",
+   "gv": "4",
+   "id": "5c8f8a17d73408ce4fbb006a",
+   "url": "/typebrook",
+   "username": "typebrook",
+   "v": 5
+  },
+  "html": "<pre><code><span class=\"built_in\">bind</span> generic xf +sh -c <span class=\"string\">\"echo -n %(file) | xclip -sel c &amp;&amp; echo File Clipped\"</span></code></pre>",
+  "id": "5cc6bfce1cd0b8307d904b7e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-29T09:11:42.879Z",
+  "text": "```\nbind generic xf +sh -c \"echo -n %(file) | xclip -sel c && echo File Clipped\"\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-29T09:20:52.243Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/typebrook",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=60",
+   "displayName": "Hsieh Chin Fan",
+   "gv": "4",
+   "id": "5c8f8a17d73408ce4fbb006a",
+   "url": "/typebrook",
+   "username": "typebrook",
+   "v": 5
+  },
+  "html": "I have code above in my .tigrc, press xf will copy file in current line into clipboard, and echo &quot;File Clipped&quot; in status bar.<br>Be aware the way woks with clipboard differs by OS. In this case, I use xclip in binding(Ubuntu) .<br>You should make your own based on your machine, go through docs for tigrc really helps.",
+  "id": "5cc6c1373b6cb0686a70ffd6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-29T09:17:43.506Z",
+  "text": "I have code above in my .tigrc, press xf will copy file in current line into clipboard, and echo \"File Clipped\" in status bar.\nBe aware the way woks with clipboard differs by OS. In this case, I use xclip in binding(Ubuntu) .\nYou should make your own based on your machine, go through docs for tigrc really helps.",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "editedAt": "2019-04-29T09:33:37.048Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/typebrook",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/19887090?v=4&s=60",
+   "displayName": "Hsieh Chin Fan",
+   "gv": "4",
+   "id": "5c8f8a17d73408ce4fbb006a",
+   "url": "/typebrook",
+   "username": "typebrook",
+   "v": 5
+  },
+  "html": "Or just use tig built-in command, type :edit or press e can open current file in editor ,  see<br><a href=\"https://github.com/jonas/tig/blob/6c1f9dde974319ca1b3aaa2c4d7fb9832eb4d0c7/tigrc#L303\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/jonas/tig/blob/6c1f9dde974319ca1b3aaa2c4d7fb9832eb4d0c7/tigrc#L303</a>",
+  "id": "5cc6c361990feb45181fef6e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-29T09:26:57.061Z",
+  "text": "Or just use tig built-in command, type :edit or press e can open current file in editor ,  see \nhttps://github.com/jonas/tig/blob/6c1f9dde974319ca1b3aaa2c4d7fb9832eb4d0c7/tigrc#L303",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/jonas/tig/blob/6c1f9dde974319ca1b3aaa2c4d7fb9832eb4d0c7/tigrc#L303"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Seybo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=60",
+   "displayName": "Mikhail Mirzoyan",
+   "gv": "4",
+   "id": "572757e4c43b8c601970c3d4",
+   "url": "/Seybo",
+   "username": "Seybo",
+   "v": 81
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"typebrook\" class=\"mention\">@typebrook</span> thanks a lot! Works out of the box in my Ubuntu as well :)<br>Wish i had time for all the docs",
+  "id": "5cc7937fb489bb6ed7ea340f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "typebrook",
+    "userId": "5c8f8a17d73408ce4fbb006a",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-30T00:14:55.017Z",
+  "text": "@typebrook thanks a lot! Works out of the box in my Ubuntu as well :) \nWish i had time for all the docs",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-30T00:17:39.208Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Seybo",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10584167?v=4&s=60",
+   "displayName": "Mikhail Mirzoyan",
+   "gv": "4",
+   "id": "572757e4c43b8c601970c3d4",
+   "url": "/Seybo",
+   "username": "Seybo",
+   "v": 81
+  },
+  "html": "i&#39;ve seen <code>:edit</code> but it doesn&#39;t work for me as i want the file to be opened in my already opened vim session, not in a new one",
+  "id": "5cc7940a375bac74702a28b2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-04-30T00:17:14.092Z",
+  "text": "i've seen `:edit` but it doesn't work for me as i want the file to be opened in my already opened vim session, not in a new one",
+  "unread": false,
+  "urls": [],
+  "v": 3
  }
 ]

@@ -19608,5 +19608,29 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/XtremeGood",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/40588378?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/40588378?v=4&s=60",
+   "displayName": "Vishesh Mangla",
+   "gv": "4",
+   "id": "5ba59281d73408ce4fa8fbb5",
+   "url": "/XtremeGood",
+   "username": "XtremeGood",
+   "v": 53
+  },
+  "html": "someone&#39;s here?",
+  "id": "5c7cbe0acbebcf784a37a387",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2019-03-04T05:56:26.140Z",
+  "text": "someone's here?",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

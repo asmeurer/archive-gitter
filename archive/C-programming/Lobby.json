@@ -1125,5 +1125,29 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Kashio",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/16501683?v=4&s=60",
+   "displayName": "Roy Mor",
+   "gv": "4",
+   "id": "57d3354740f3a6eec06475fd",
+   "url": "/Kashio",
+   "username": "Kashio",
+   "v": 16
+  },
+  "html": "<p>How can I de-reference an array of matrices like so:</p><pre><code>int a1[<span class=\"link_label\">2</span>][<span class=\"link_reference\">2</span>] = {{0, 0}, {1, 1}};\nint a2[<span class=\"link_label\">2</span>][<span class=\"link_reference\">2</span>] = {{2, 2}, {3, 3}};\nint** a[2] = {a1, a2};</code></pre><p>When I try read it like so:</p><pre><code>int x = a[<span class=\"link_label\">0</span>][<span class=\"link_reference\">1</span>][<span class=\"link_label\">0</span>];</code></pre><p>I get access violation error</p>",
+  "id": "5c82d0c10a6b915163f982a2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-03-08T20:29:53.771Z",
+  "text": "How can I de-reference an array of matrices like so:\n```\nint a1[2][2] = {{0, 0}, {1, 1}};\nint a2[2][2] = {{2, 2}, {3, 3}};\nint** a[2] = {a1, a2};\n```\nWhen I try read it like so:\n```\nint x = a[0][1][0];\n```\nI get access violation error",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

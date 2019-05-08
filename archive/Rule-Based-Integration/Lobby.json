@@ -30380,5 +30380,1814 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/EmmanuelCharpentier",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/7955276?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/7955276?v=4&s=60",
+   "displayName": "EmmanuelCharpentier",
+   "gv": "4",
+   "id": "549c6a38db8155e6700e2ecd",
+   "url": "/EmmanuelCharpentier",
+   "username": "EmmanuelCharpentier",
+   "v": 4
+  },
+  "html": "I do not know if this one is known (probably, because it is extremely simple) :",
+  "id": "5c898fa3d3b35423cbb49b9e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-13T23:17:55.548Z",
+  "text": "I do not know if this one is known (probably, because it is extremely simple) :",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/EmmanuelCharpentier",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/7955276?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/7955276?v=4&s=60",
+   "displayName": "EmmanuelCharpentier",
+   "gv": "4",
+   "id": "549c6a38db8155e6700e2ecd",
+   "url": "/EmmanuelCharpentier",
+   "username": "EmmanuelCharpentier",
+   "v": 4
+  },
+  "html": "Int[Int[Sqrt[1-x^2-y^2, {y,-e,e}],{x,-e,e}} (with O&lt;=e&lt;=1/Sqrt[2], of course...) seems insolvable with Rubi, either under this form or avter transformation to polar coordinates. see <a href=\"https://groups.google.com/forum/#!topic/sage-devel/b4pSggwd24M\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">this sage-devel post</a> for details.",
+  "id": "5c89906c2f2fb54c37e6fbc7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-13T23:21:16.839Z",
+  "text": "Int[Int[Sqrt[1-x^2-y^2, {y,-e,e}],{x,-e,e}} (with O<=e<=1/Sqrt[2], of course...) seems insolvable with Rubi, either under this form or avter transformation to polar coordinates. see [this sage-devel post](https://groups.google.com/forum/#!topic/sage-devel/b4pSggwd24M) for details.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://groups.google.com/forum/#!topic/sage-devel/b4pSggwd24M"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"EmmanuelCharpentier\" class=\"mention\">@EmmanuelCharpentier</span> Let&#39;s look at the function",
+  "id": "5c8a2cad84c0313aab4169c1",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "EmmanuelCharpentier",
+    "userId": "549c6a38db8155e6700e2ecd",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:27:57.664Z",
+  "text": "@EmmanuelCharpentier Let's look at the function",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<img src=\"http://i.stack.imgur.com/1WlR7.png\" alt=\"img\" rel=\"nofollow\">",
+  "id": "5c8a2cc07d754e09e39a8b65",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:28:16.619Z",
+  "text": "![img](http://i.stack.imgur.com/1WlR7.png)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://i.stack.imgur.com/1WlR7.png"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "From this and from the form of the function, it&#39;s clear that this is only real within the unit circle. Let us make a numeric test with <code>NIntegrate</code>",
+  "id": "5c8a2cfa09d116389301fc1d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:29:14.064Z",
+  "text": "From this and from the form of the function, it's clear that this is only real within the unit circle. Let us make a numeric test with `NIntegrate`",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code class=\"mma\"><span class=\"keyword\">In</span>[<span class=\"number\">28</span>]:= e = <span class=\"number\">.5</span>;\n<span class=\"keyword\">In</span>[<span class=\"number\">29</span>]:= <span class=\"keyword\">NIntegrate</span>[<span class=\"keyword\">Sqrt</span>[<span class=\"number\">1</span> - x^<span class=\"number\">2</span> - y^<span class=\"number\">2</span>], <span class=\"list\">{x, -e, e}</span>, <span class=\"list\">{y, -e, e}</span>]\n\n<span class=\"keyword\">Out</span>[<span class=\"number\">29</span>]= <span class=\"number\">0.910966</span></code></pre>",
+  "id": "5c8a2d0aaa0efc2382df1adc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:29:30.121Z",
+  "text": "```mma\nIn[28]:= e = .5;\nIn[29]:= NIntegrate[Sqrt[1 - x^2 - y^2], {x, -e, e}, {y, -e, e}]\n\nOut[29]= 0.910966\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Now, use Rubi to find the antiderivative and calculate the same. Note, that we will only calculate the numeric value for one quadrant and then multiply it by 4",
+  "id": "5c8a2d4809d116389301fc1f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:30:32.000Z",
+  "text": "Now, use Rubi to find the antiderivative and calculate the same. Note, that we will only calculate the numeric value for one quadrant and then multiply it by 4",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code class=\"mma\">int = Int[Int[<span class=\"keyword\">Sqrt</span>[<span class=\"number\">1</span> - x^<span class=\"number\">2</span> - y^<span class=\"number\">2</span>], y], x];\n<span class=\"keyword\">Limit</span>[<span class=\"keyword\">Limit</span>[int, x -&gt; e], y -&gt; e]\n\n%*<span class=\"number\">4</span></code></pre>",
+  "id": "5c8a2d6faa0efc2382df1ade",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:31:11.894Z",
+  "text": "```mma\nint = Int[Int[Sqrt[1 - x^2 - y^2], y], x];\nLimit[Limit[int, x -> e], y -> e]\n\n%*4\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "This gives the same value as <code>NIntegrate</code>. You can show the correctness of the antiderivative found by Rubi ",
+  "id": "5c8a2dc784c0313aab4169c6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:32:39.357Z",
+  "text": "This gives the same value as `NIntegrate`. You can show the correctness of the antiderivative found by Rubi ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code class=\"mma\"><span class=\"keyword\">In</span>[<span class=\"number\">36</span>]:= <span class=\"keyword\">D</span>[int, x] // <span class=\"keyword\">Simplify</span> // <span class=\"keyword\">D</span>[#, y] &amp; // <span class=\"keyword\">Simplify</span>\n\n<span class=\"keyword\">Out</span>[<span class=\"number\">36</span>]= <span class=\"keyword\">Sqrt</span>[<span class=\"number\">1</span> - x^<span class=\"number\">2</span> - y^<span class=\"number\">2</span>]</code></pre>",
+  "id": "5c8a2dcbd0963e2ee3a50edd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:32:43.751Z",
+  "text": "```mma\nIn[36]:= D[int, x] // Simplify // D[#, y] & // Simplify\n\nOut[36]= Sqrt[1 - x^2 - y^2]\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"EmmanuelCharpentier\" class=\"mention\">@EmmanuelCharpentier</span> After reading the sage-dev post, here is what the OP there is after. I&#39;m using <code>int</code> as defined previously:",
+  "id": "5c8a3174fd980c02069ede49",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "EmmanuelCharpentier",
+    "userId": "549c6a38db8155e6700e2ecd",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:48:20.400Z",
+  "text": "@EmmanuelCharpentier After reading the sage-dev post, here is what the OP there is after. I'm using `int` as defined previously:",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code class=\"mma\">res = <span class=\"number\">4</span>*<span class=\"keyword\">Limit</span>[<span class=\"keyword\">Limit</span>[int, x -&gt; eps], y -&gt; eps] // <span class=\"keyword\">Simplify</span>;</code></pre>",
+  "id": "5c8a319409d116389301fc28",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:48:52.978Z",
+  "text": "```mma\nres = 4*Limit[Limit[int, x -> eps], y -> eps] // Simplify;\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Now substituting his value for <code>eps</code> gives exactly what he claimed",
+  "id": "5c8a31b109d116389301fc2a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:49:21.272Z",
+  "text": "Now substituting his value for `eps` gives exactly what he claimed",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-03-14T10:49:45.471Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code class=\"mma\"><span class=\"keyword\">In</span>[<span class=\"number\">50</span>]:= res /. eps -&gt; <span class=\"number\">1</span>*^-<span class=\"number\">4</span> // <span class=\"keyword\">N</span>\n\n<span class=\"keyword\">Out</span>[<span class=\"number\">50</span>]= <span class=\"number\">4.</span>*<span class=\"number\">10</span>^-<span class=\"number\">8</span></code></pre>",
+  "id": "5c8a31bc77cb04314eec70e2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-03-14T10:49:32.576Z",
+  "text": "```mma\nIn[50]:= res /. eps -> 1*^-4 // N\n\nOut[50]= 4.*10^-8\n```",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ntessore",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=60",
+   "displayName": "Nicolas Tessore",
+   "gv": "4",
+   "id": "5c9a8ac7d73408ce4fbbe816",
+   "url": "/ntessore",
+   "username": "ntessore",
+   "v": 1
+  },
+  "html": "Hi, I hope it&#39;s ok to barge in with a question. Are the complete elliptic integrals of the first and second kind (<code>EllipticE</code>, <code>EllipticK</code>) available in Rubi? It does not seem like it, so perhaps the better question is whether there is something I could do to include them.",
+  "id": "5c9a8b30e7341060cae87619",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-26T20:27:28.695Z",
+  "text": "Hi, I hope it's ok to barge in with a question. Are the complete elliptic integrals of the first and second kind (`EllipticE`, `EllipticK`) available in Rubi? It does not seem like it, so perhaps the better question is whether there is something I could do to include them.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ntessore",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=60",
+   "displayName": "Nicolas Tessore",
+   "gv": "4",
+   "id": "5c9a8ac7d73408ce4fbbe816",
+   "url": "/ntessore",
+   "username": "ntessore",
+   "v": 1
+  },
+  "html": "The Wolfram functions site has a number of indefinite integration rules for the functions, they mostly relate to themselves and hypergeometric functions if that matters.",
+  "id": "5c9a8b7acf786a56c781f41a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-26T20:28:42.416Z",
+  "text": "The Wolfram functions site has a number of indefinite integration rules for the functions, they mostly relate to themselves and hypergeometric functions if that matters.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ntessore\" class=\"mention\">@ntessore</span> No, Rubi does not currently have rules for integrating expressions involving the elliptic integral functions.  However, it does have rules that result in antiderivatives involving the elliptic integral functions.<br>As always, I invite Rubi users to define additional integration rules in order to integrate expressions they are interested in.",
+  "id": "5c9bfce1b7e27d2f059347ff",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ntessore",
+    "userId": "5c9a8ac7d73408ce4fbbe816",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T22:44:49.204Z",
+  "text": "@ntessore No, Rubi does not currently have rules for integrating expressions involving the elliptic integral functions.  However, it does have rules that result in antiderivatives involving the elliptic integral functions.\nAs always, I invite Rubi users to define additional integration rules in order to integrate expressions they are interested in.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ntessore",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=60",
+   "displayName": "Nicolas Tessore",
+   "gv": "4",
+   "id": "5c9a8ac7d73408ce4fbbe816",
+   "url": "/ntessore",
+   "username": "ntessore",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> Hi, thanks, I am indeed interested in the first case. I wasn&#39;t too sure I understand how to define rules properly. Is there some documentation available?",
+  "id": "5c9bfd6ab6711251983b4aa6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T22:47:06.335Z",
+  "text": "@AlbertRich Hi, thanks, I am indeed interested in the first case. I wasn't too sure I understand how to define rules properly. Is there some documentation available?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-03-27T23:23:54.386Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ntessore\" class=\"mention\">@ntessore</span> The easiest way to add additional integration rules to Rubi is to include them at the end of one of Rubi&#39;s existing notebook source file.  Then use the resulting package file automatically generated by Mathematica to replace the package file in the Rubi directory on your computer.  For example, you can add your elliptic integral integration rules to <a href=\"https://rulebasedintegration.org/NotebookRuleFiles/8%20Special%20functions/8.7%20Zeta%20function.nb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/NotebookRuleFiles/8%20Special%20functions/8.7%20Zeta%20function.nb</a>.",
+  "id": "5c9c057ba100047111cdc4c9",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ntessore",
+    "userId": "5c9a8ac7d73408ce4fbbe816",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T23:21:31.738Z",
+  "text": "@ntessore The easiest way to add additional integration rules to Rubi is to include them at the end of one of Rubi's existing notebook source file.  Then use the resulting package file automatically generated by Mathematica to replace the package file in the Rubi directory on your computer.  For example, you can add your elliptic integral integration rules to https://rulebasedintegration.org/NotebookRuleFiles/8%20Special%20functions/8.7%20Zeta%20function.nb.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://rulebasedintegration.org/NotebookRuleFiles/8%20Special%20functions/8.7%20Zeta%20function.nb"
+   }
+  ],
+  "v": 3
+ },
+ {
+  "editedAt": "2019-03-27T23:25:27.344Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "After you have perfected the package, generated a comprehensive test-suite for it, and want it formally included in Rubi you can post it for consideration on Rubi&#39;s GitHub page <a href=\"https://github.com/RuleBasedIntegration\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/RuleBasedIntegration</a>.",
+  "id": "5c9c05865349305a4c7db21a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T23:21:42.558Z",
+  "text": "After you have perfected the package, generated a comprehensive test-suite for it, and want it formally included in Rubi you can post it for consideration on Rubi's GitHub page https://github.com/RuleBasedIntegration.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/RuleBasedIntegration"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ntessore",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3993688?v=4&s=60",
+   "displayName": "Nicolas Tessore",
+   "gv": "4",
+   "id": "5c9a8ac7d73408ce4fbbe816",
+   "url": "/ntessore",
+   "username": "ntessore",
+   "v": 1
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> Great, thanks! I did not even realise there were notebook files as well. I will try and add some of the complete elliptic integral rules.",
+  "id": "5c9c0788a100047111cdd072",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T23:30:16.700Z",
+  "text": "@AlbertRich Great, thanks! I did not even realise there were notebook files as well. I will try and add some of the complete elliptic integral rules.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ntessore\" class=\"mention\">@ntessore</span> All Rubi&#39;s source files are available as pdf and notebook files at <a href=\"https://rulebasedintegration.org/integrationRules.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/integrationRules.html</a>.",
+  "id": "5c9c083108f8e7361a5b1ab8",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ntessore",
+    "userId": "5c9a8ac7d73408ce4fbbe816",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-03-27T23:33:05.721Z",
+  "text": "@ntessore All Rubi's source files are available as pdf and notebook files at https://rulebasedintegration.org/integrationRules.html.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://rulebasedintegration.org/integrationRules.html"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/CeaVi",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=60",
+   "displayName": "CeaVi",
+   "gv": "4",
+   "id": "5cadfc37d73408ce4fbd5ca3",
+   "url": "/CeaVi",
+   "username": "CeaVi",
+   "v": 3
+  },
+  "html": "Hello Albert, on <a href=\"https://rulebasedintegration.org/vision.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/vision.html</a> you mention that rubi-5 will not be based on decision trees/pattern matching anymore, but on &quot;if-then-else control constructs&quot;. How exactly would this look like? Is there some public code repository or branch accessible where it is possible to look at this approach? ",
+  "id": "5cadfcb9016a930a45974212",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T14:24:57.858Z",
+  "text": "Hello Albert, on https://rulebasedintegration.org/vision.html you mention that rubi-5 will not be based on decision trees/pattern matching anymore, but on \"if-then-else control constructs\". How exactly would this look like? Is there some public code repository or branch accessible where it is possible to look at this approach? ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://rulebasedintegration.org/vision.html"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"CeaVi\" class=\"mention\">@CeaVi</span> The basic principle is not that hard to understand. What we have now, is basically also a decision tree but all its children are directly under the root and the decision, which child is the correct one is done by the pattern matcher and the conditions. ",
+  "id": "5cae46fbef19d564e9cbd523",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "CeaVi",
+    "userId": "5cadfc37d73408ce4fbd5ca3",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T19:41:47.222Z",
+  "text": "@CeaVi The basic principle is not that hard to understand. What we have now, is basically also a decision tree but all its children are directly under the root and the decision, which child is the correct one is done by the pattern matcher and the conditions. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Now, you can transform this into nested if statements that collect several classes of functions together. So you can write something like <code>If[ isOfCertainType[expr], If[ condition1[expr], ..., ...], ...]</code>. You get a real tree from the nested if statements. ",
+  "id": "5cae48af7915365fc557ca4c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T19:49:03.594Z",
+  "text": "Now, you can transform this into nested if statements that collect several classes of functions together. So you can write something like `If[ isOfCertainType[expr], If[ condition1[expr], ..., ...], ...]`. You get a real tree from the nested if statements. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "That has several advantages and also some disadvantages. One advantage is that you can rewrite the pattern-matching code to if statements that work better with other languages because Mathematica is strong in pattern-matching and it is hard to replicate the behavior in e.g. python. The different behavior of MatchPy in python is actually the reason why Rubi cannot work successfully under sympy right now.",
+  "id": "5cae4944b22d2c592cdfda9a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T19:51:32.533Z",
+  "text": "That has several advantages and also some disadvantages. One advantage is that you can rewrite the pattern-matching code to if statements that work better with other languages because Mathematica is strong in pattern-matching and it is hard to replicate the behavior in e.g. python. The different behavior of MatchPy in python is actually the reason why Rubi cannot work successfully under sympy right now.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Another advantage is that walking the if tree is faster. Right now, Mathematica tests all Rubi rules and applies the first one that matches. So in the worst case, you need to sequentially check all 6600+ rules. This is similar for finding a match in a long list. In the decision tree this is faster, because you start by e.g. finding the general class of the integrand which is probably only &lt;50 tests. Then you test the conditions on the parameters.. That should reduce the run-time.",
+  "id": "5cae4a5fef19d564e9cbd52e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T19:56:15.829Z",
+  "text": "Another advantage is that walking the if tree is faster. Right now, Mathematica tests all Rubi rules and applies the first one that matches. So in the worst case, you need to sequentially check all 6600+ rules. This is similar for finding a match in a long list. In the decision tree this is faster, because you start by e.g. finding the general class of the integrand which is probably only <50 tests. Then you test the conditions on the parameters.. That should reduce the run-time.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "One disadvantage is that it is a lot of work to transform Rubi&#39;s rules into this decision-tree and code of the many nested if statements is harder to read.",
+  "id": "5cae4aa8b22d2c592cdfda9f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T19:57:28.758Z",
+  "text": "One disadvantage is that it is a lot of work to transform Rubi's rules into this decision-tree and code of the many nested if statements is harder to read.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"CeaVi\" class=\"mention\">@CeaVi</span>  <span data-link-type=\"mention\" data-screen-name=\"halirutan\" class=\"mention\">@halirutan</span> Everything Patrick said about Rubi 5 vs. Rubi 4 is right on.  Preliminary testing indicates Rubi 5 will run more than an order of magnitude faster than either Rubi 4 or Mathematica&#39;s built-in integrator.",
+  "id": "5cae58bb8148e555b2829c02",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "CeaVi",
+    "userId": "5cadfc37d73408ce4fbd5ca3",
+    "userIds": []
+   },
+   {
+    "screenName": "halirutan",
+    "userId": "5904ae3bd73408ce4f5bd822",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T20:57:31.495Z",
+  "text": "@CeaVi  @halirutan Everything Patrick said about Rubi 5 vs. Rubi 4 is right on.  Preliminary testing indicates Rubi 5 will run more than an order of magnitude faster than either Rubi 4 or Mathematica's built-in integrator.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "I am currently manually compiling Rubi 4&#39;s pattern matching rules into an if-then-else based decision tree for Rubi 5.  I recently compiled the rules for integrands of the form (a+b<em>x+c</em>x^2)^p in the notebook file &quot;1.2.1.1 (a+b x+c x^2)^p.nb&quot;.",
+  "id": "5cae58e31f6e900d5e10a382",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T20:58:11.631Z",
+  "text": "I am currently manually compiling Rubi 4's pattern matching rules into an if-then-else based decision tree for Rubi 5.  I recently compiled the rules for integrands of the form (a+b*x+c*x^2)^p in the notebook file \"1.2.1.1 (a+b x+c x^2)^p.nb\".",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/CeaVi",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=60",
+   "displayName": "CeaVi",
+   "gv": "4",
+   "id": "5cadfc37d73408ce4fbd5ca3",
+   "url": "/CeaVi",
+   "username": "CeaVi",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span>  <span data-link-type=\"mention\" data-screen-name=\"halirutan\" class=\"mention\">@halirutan</span> this looks like a Trie datastructure (in Knuth&#39;s naming), am I reading this correct? (&quot;Discrimination net&quot; as Krebber called it in his thesis on MatchPy .. other flavours with slightly different naming have been published, too)",
+  "id": "5cae5a29f851ee043d96cf6e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   },
+   {
+    "screenName": "halirutan",
+    "userId": "5904ae3bd73408ce4f5bd822",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T21:03:37.959Z",
+  "text": "@AlbertRich  @halirutan this looks like a Trie datastructure (in Knuth's naming), am I reading this correct? (\"Discrimination net\" as Krebber called it in his thesis on MatchPy .. other flavours with slightly different naming have been published, too)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/CeaVi",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=60",
+   "displayName": "CeaVi",
+   "gv": "4",
+   "id": "5cadfc37d73408ce4fbd5ca3",
+   "url": "/CeaVi",
+   "username": "CeaVi",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> Do you compile those if-then-else trees manually from the patterns? ",
+  "id": "5cae5a5fa84e0c501a0d7e6f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T21:04:31.615Z",
+  "text": "@AlbertRich Do you compile those if-then-else trees manually from the patterns? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/CeaVi",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=60",
+   "displayName": "CeaVi",
+   "gv": "4",
+   "id": "5cadfc37d73408ce4fbd5ca3",
+   "url": "/CeaVi",
+   "username": "CeaVi",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> thank you, I can access the files",
+  "id": "5cae5b97a0790b29c9961824",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T21:09:43.816Z",
+  "text": "@AlbertRich thank you, I can access the files",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": " <span data-link-type=\"mention\" data-screen-name=\"CeaVi\" class=\"mention\">@CeaVi</span> The Rubi 4 and the equivalent Rubi 5 version of this file is available for viewing as a pdf file at<br><a href=\"https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf</a><br><a href=\"https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf</a><br>and for downloading at<br><a href=\"https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb</a><br><a href=\"https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb</a>",
+  "id": "5cae5e3c3ebbdc55b39717f7",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "CeaVi",
+    "userId": "5cadfc37d73408ce4fbd5ca3",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-04-10T21:21:00.596Z",
+  "text": " @CeaVi The Rubi 4 and the equivalent Rubi 5 version of this file is available for viewing as a pdf file at\nhttps://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf\nhttps://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf\nand for downloading at\nhttps://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb\nhttps://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb\n",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf"
+   },
+   {
+    "url": "https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.pdf"
+   },
+   {
+    "url": "https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%204%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb"
+   },
+   {
+    "url": "https://rulebasedintegration.org/Rubi%204%20vs%205/Rubi%205%20-%201.2.1.1%20(a+b%20x+c%20x%5E2)%5Ep.nb"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-10T21:21:36.566Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/CeaVi",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/49487501?v=4&s=60",
+   "displayName": "CeaVi",
+   "gv": "4",
+   "id": "5cadfc37d73408ce4fbd5ca3",
+   "url": "/CeaVi",
+   "username": "CeaVi",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> <span data-link-type=\"mention\" data-screen-name=\"halirutan\" class=\"mention\">@halirutan</span> Do you want to keep this manual compilation process long-term, or is this just an intermediate step before some automatic compilation (&quot;Trie-builder&quot;, &quot;DFA Compiler&quot;, ...) is established?",
+  "id": "5cae5e55bd70a40d5f2be2bc",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   },
+   {
+    "screenName": "halirutan",
+    "userId": "5904ae3bd73408ce4f5bd822",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-10T21:21:25.927Z",
+  "text": "@AlbertRich @halirutan Do you want to keep this manual compilation process long-term, or is this just an intermediate step before some automatic compilation (\"Trie-builder\", \"DFA Compiler\", ...) is established?",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"CeaVi\" class=\"mention\">@CeaVi</span> I would dearly love for someone to automate the tedious, error-prone compilation of pattern matching rules into if-then-else code.",
+  "id": "5cae5eda3ebbdc55b3971b7e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "CeaVi",
+    "userId": "5cadfc37d73408ce4fbd5ca3",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-10T21:23:38.449Z",
+  "text": "@CeaVi I would dearly love for someone to automate the tedious, error-prone compilation of pattern matching rules into if-then-else code.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-10T21:30:52.042Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "As you can see by comparing the Rubi 4 and 5 files, they are nearly isomorphic.  Also Rubi 4&#39;s pattern matching rules use only a small subset of Mathematica&#39;s control constructs making the compilation much easier, but certainly not trivial.",
+  "id": "5cae604f93fb4a7dc20a349a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-10T21:29:51.041Z",
+  "text": "As you can see by comparing the Rubi 4 and 5 files, they are nearly isomorphic.  Also Rubi 4's pattern matching rules use only a small subset of Mathematica's control constructs making the compilation much easier, but certainly not trivial.",
+  "unread": false,
+  "urls": [],
+  "v": 4
+ },
+ {
+  "editedAt": "2019-04-11T05:42:41.890Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 5
+  },
+  "html": "A compiler capable of transforming Rubi 4&#39;s pattern matching rules into an if-then-else decision tree (aka a discrimination net) would<ul>\n<li>allow the Rubi source to remain in elegant, human-readable form, rather than a monolithic if-then-else tree virtually impossible to comprehend and debug,</li>\n<li>make it relatively easy for others to port Rubi to any commercial or free CAS, since all serious systems support an if-then-else control construct, and</li>\n<li>(most important to me) allow me to devote full time to extending Rubi&#39;s mathematical capabilities. :wink:</li>\n</ul>\n",
+  "id": "5caed39cf851ee043d99cd13",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-11T05:41:48.939Z",
+  "text": "A compiler capable of transforming Rubi 4's pattern matching rules into an if-then-else decision tree (aka a discrimination net) would\n* allow the Rubi source to remain in elegant, human-readable form, rather than a monolithic if-then-else tree virtually impossible to comprehend and debug,\n* make it relatively easy for others to port Rubi to any commercial or free CAS, since all serious systems support an if-then-else control construct, and\n* (most important to me) allow me to devote full time to extending Rubi's mathematical capabilities. :wink:\n\n",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Hi",
+  "id": "5cc8d2788446a6023ea4509b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T22:55:52.002Z",
+  "text": "Hi",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": " I have difficulties to calculate the integral below",
+  "id": "5cc8d31bb489bb6ed7f31fc0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T22:58:35.187Z",
+  "text": " I have difficulties to calculate the integral below",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Assuming[{0 &lt; z &lt; 1},<br> Integrate[<br>  <code>Assuming[{0 &lt; z &lt; 1}, \n Integrate[\n  g^2 ArcTanh[Sqrt[1 - 1/g^2]/R] Exp[-z g], {g, 1, Infinity}]]</code>",
+  "id": "5cc8d35a1cd0b8307d9f005b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T22:59:38.144Z",
+  "text": "Assuming[{0 < z < 1}, \n Integrate[\n  ```Assuming[{0 < z < 1}, \n Integrate[\n  g^2 ArcTanh[Sqrt[1 - 1/g^2]/R] Exp[-z g], {g, 1, Infinity}]]```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "can one help me please?",
+  "id": "5cc8d3f52e2caa1aa6e8944b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:02:13.782Z",
+  "text": "can one help me please?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"betatron_gitlab\" class=\"mention\">@betatron_gitlab</span>  I don&#39;t see much hope here. You can use Rubi and try",
+  "id": "5cc8d5b330f6ee52ad58af86",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "betatron_gitlab",
+    "userId": "5cc8d21cd73408ce4fbf1525",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:09:39.745Z",
+  "text": "@betatron_gitlab  I don't see much hope here. You can use Rubi and try",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code>Int[g^<span class=\"number\">2</span> ArcTanh[Sqrt[<span class=\"number\">1</span> - <span class=\"number\">1</span>/g^<span class=\"number\">2</span>]/R] Exp[-z g], g]</code></pre>",
+  "id": "5cc8d5c08e48e7512a05bce6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:09:52.876Z",
+  "text": "```\nInt[g^2 ArcTanh[Sqrt[1 - 1/g^2]/R] Exp[-z g], g]\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Then, you will find that there are several parts that Rubi can&#39;t solve. One of them is fairly simple but an antiderivative cannot be computed:",
+  "id": "5cc8d5e98e48e7512a05bce8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:10:33.761Z",
+  "text": "Then, you will find that there are several parts that Rubi can't solve. One of them is fairly simple but an antiderivative cannot be computed:",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<pre><code>Int[<span class=\"number\">1</span>/(E^(g*z)*Sqrt[<span class=\"number\">1</span> - g^<span class=\"number\">2</span>]), g]</code></pre>",
+  "id": "5cc8d601a975f145e79639fd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:10:57.004Z",
+  "text": "```\nInt[1/(E^(g*z)*Sqrt[1 - g^2]), g]\n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Even if you remove the <code>z</code> from the expression, Rubi and Mathematica cannot find a closed form of the antiderivative.",
+  "id": "5cc8d62630f6ee52ad58af89",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:11:34.351Z",
+  "text": "Even if you remove the `z` from the expression, Rubi and Mathematica cannot find a closed form of the antiderivative.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "I do not have  Rubi. Please, can you do it for me?",
+  "id": "5cc8d8233d78aa6c03c2c434",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:20:03.704Z",
+  "text": "I do not have  Rubi. Please, can you do it for me?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"betatron_gitlab\" class=\"mention\">@betatron_gitlab</span> (a) I already tried it for you and showed you that even with Rubi it seems not possible (b) Rubi is free and you can simply install and use it yourself.",
+  "id": "5cc8d8758e48e7512a05bd01",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "betatron_gitlab",
+    "userId": "5cc8d21cd73408ce4fbf1525",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:21:25.410Z",
+  "text": "@betatron_gitlab (a) I already tried it for you and showed you that even with Rubi it seems not possible (b) Rubi is free and you can simply install and use it yourself.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Ok. Thank you Sir. Please, how to instal it on My mathematica?",
+  "id": "5cc8d8d6375bac74703315dd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:23:02.725Z",
+  "text": "Ok. Thank you Sir. Please, how to instal it on My mathematica?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"betatron_gitlab\" class=\"mention\">@betatron_gitlab</span> What Mathematica version do you have?",
+  "id": "5cc8d8e930f6ee52ad58af8b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "betatron_gitlab",
+    "userId": "5cc8d21cd73408ce4fbf1525",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:23:21.194Z",
+  "text": "@betatron_gitlab What Mathematica version do you have?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "11.2",
+  "id": "5cc8d8f5a4ef097471299687",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:23:33.814Z",
+  "text": "11.2",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "See here:",
+  "id": "5cc8d903c7f2960f5c2de793",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:23:47.593Z",
+  "text": "See here:",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<a href=\"https://rulebasedintegration.org/downloadRubi.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://rulebasedintegration.org/downloadRubi.html</a>",
+  "id": "5cc8d9048e48e7512a05bd04",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:23:48.883Z",
+  "text": "https://rulebasedintegration.org/downloadRubi.html",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://rulebasedintegration.org/downloadRubi.html"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Thank you.",
+  "id": "5cc8d9225b3f941aa5bd61dc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:24:18.437Z",
+  "text": "Thank you.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "No problem",
+  "id": "5cc8d92aa975f145e7963a13",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:24:26.414Z",
+  "text": "No problem",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Please, what is the utility of Rubi for a physicist?",
+  "id": "5cc8d9821cd0b8307d9f2d69",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:25:54.258Z",
+  "text": "Please, what is the utility of Rubi for a physicist?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-30T23:30:01.113Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"betatron_gitlab\" class=\"mention\">@betatron_gitlab</span> Rubi is a package for calculating the symbolic antiderivatives of expressions. So if you have an expression that cannot be integrated with Mathematica, often but not always Rubi can do it. However, like in your case, where it is not possible, you will most likely need to use numeric integration.",
+  "id": "5cc8da5dde6d005e48f180a6",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "betatron_gitlab",
+    "userId": "5cc8d21cd73408ce4fbf1525",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:29:33.949Z",
+  "text": "@betatron_gitlab Rubi is a package for calculating the symbolic antiderivatives of expressions. So if you have an expression that cannot be integrated with Mathematica, often but not always Rubi can do it. However, like in your case, where it is not possible, you will most likely need to use numeric integration.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "thank&#39;s",
+  "id": "5cc8daac375bac74703320d3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:30:52.851Z",
+  "text": "thank's",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "well",
+  "id": "5cc8dac03d78aa6c03c2d39d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-04-30T23:31:12.099Z",
+  "text": "well",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nasser1",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=60",
+   "displayName": "Nasser M. Abbasi",
+   "gv": "4",
+   "id": "5b15513dd73408ce4f9bd9c0",
+   "url": "/nasser1",
+   "username": "nasser1",
+   "v": 67
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"betatron_gitlab\" class=\"mention\">@betatron_gitlab</span>   &quot;Please, what is the utility of Rubi for a physicist?&quot;  There is a Physics paper using Rubi <a href=\"https://arxiv.org/pdf/1811.04892.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://arxiv.org/pdf/1811.04892.pdf</a>  titled &quot;An Application of Rubi: Series Expansion of the Quark Mass<br>Renormalization Group Equation&quot;",
+  "id": "5cc8e3d78790b0307e2da62e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "betatron_gitlab",
+    "userId": "5cc8d21cd73408ce4fbf1525",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-05-01T00:09:59.041Z",
+  "text": "@betatron_gitlab   \"Please, what is the utility of Rubi for a physicist?\"  There is a Physics paper using Rubi https://arxiv.org/pdf/1811.04892.pdf  titled \"An Application of Rubi: Series Expansion of the Quark Mass\nRenormalization Group Equation\"",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://arxiv.org/pdf/1811.04892.pdf"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nasser1\" class=\"mention\">@nasser1</span> Ahh, yes. How could I forget that. This paper is the sole reason why we wrote the Rubi paper to make Rubi officially citable.",
+  "id": "5cc8e40ca975f145e7963a1e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nasser1",
+    "userId": "5b15513dd73408ce4f9bd9c0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-05-01T00:10:52.410Z",
+  "text": "@nasser1 Ahh, yes. How could I forget that. This paper is the sole reason why we wrote the Rubi paper to make Rubi officially citable.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 52
+  },
+  "html": "Thanks Nasser.",
+  "id": "5cc8e416f5b12a23c35170cf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-05-01T00:11:02.237Z",
+  "text": "Thanks Nasser.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/betatron_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/dea7a407b22c5c79fbfd2c3d532dc32d?s=60&d=identicon",
+   "displayName": "betatron",
+   "id": "5cc8d21cd73408ce4fbf1525",
+   "url": "/betatron_gitlab",
+   "username": "betatron_gitlab",
+   "v": 1
+  },
+  "html": "Thank you",
+  "id": "5cc9b5a88446a6023eaa5475",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-05-01T15:05:12.189Z",
+  "text": "Thank you",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/Tobiasbouma_twitter",
+   "avatarUrlMedium": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=128",
+   "avatarUrlSmall": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=60",
+   "displayName": "Tobias Bouma",
+   "id": "5ccc1615d73408ce4fbf489e",
+   "url": "/Tobiasbouma_twitter",
+   "username": "Tobiasbouma_twitter",
+   "v": 1
+  },
+  "html": "Hello everybody!",
+  "id": "5ccc161bb4700e023d14ae9d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-05-03T10:21:15.245Z",
+  "text": "Hello everybody!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/Tobiasbouma_twitter",
+   "avatarUrlMedium": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=128",
+   "avatarUrlSmall": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=60",
+   "displayName": "Tobias Bouma",
+   "id": "5ccc1615d73408ce4fbf489e",
+   "url": "/Tobiasbouma_twitter",
+   "username": "Tobiasbouma_twitter",
+   "v": 1
+  },
+  "html": "I&#39;m having trouble looking up a reference for a RUBI rule",
+  "id": "5ccc162d8446a6023ebb0967",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-05-03T10:21:33.473Z",
+  "text": "I'm having trouble looking up a reference for a RUBI rule",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/Tobiasbouma_twitter",
+   "avatarUrlMedium": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=128",
+   "avatarUrlSmall": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=60",
+   "displayName": "Tobias Bouma",
+   "id": "5ccc1615d73408ce4fbf489e",
+   "url": "/Tobiasbouma_twitter",
+   "username": "Tobiasbouma_twitter",
+   "v": 1
+  },
+  "html": "The rule (rules actually) are 2485 and 2490. Where can I look this up?",
+  "id": "5ccc16454b4cb471d99d38cd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-05-03T10:21:57.358Z",
+  "text": "The rule (rules actually) are 2485 and 2490. Where can I look this up?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/Tobiasbouma_twitter",
+   "avatarUrlMedium": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=128",
+   "avatarUrlSmall": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png?s=60",
+   "displayName": "Tobias Bouma",
+   "id": "5ccc1615d73408ce4fbf489e",
+   "url": "/Tobiasbouma_twitter",
+   "username": "Tobiasbouma_twitter",
+   "v": 1
+  },
+  "html": "I have found something on page 36 of 3.3 u (a+b log(c (d+e x)^n))^p. Cheers nonetheless!",
+  "id": "5ccc3f268790b0307e451395",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-05-03T13:16:22.860Z",
+  "text": "I have found something on page 36 of 3.3 u (a+b log(c (d+e x)^n))^p. Cheers nonetheless!",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

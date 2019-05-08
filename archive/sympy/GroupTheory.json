@@ -50822,5 +50822,846 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Vinayak-Shukla",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/43382124?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/43382124?v=4&s=60",
+   "displayName": "Vinayak-Shukla",
+   "gv": "4",
+   "id": "5c83b7e2d73408ce4fba1d5c",
+   "url": "/Vinayak-Shukla",
+   "username": "Vinayak-Shukla",
+   "v": 3
+  },
+  "html": "Hey there guys, I&#39;m Vinayak, a sophomore at BITS Pilani Goa and am currently trying to write a proposal for working under SymPy&#39;s group theory module for GSoC 2019. I was wondering if the suggestions in the 2019 list are up to date or not, considering some of those have been merged already under GSoC 2018 by <span data-link-type=\"mention\" data-screen-name=\"RavicharanN\" class=\"mention\">@RavicharanN</span>. Are there any other alogrithms that are to be prioritised to be implemented which may not be listed in the 2019 list? If yes, please let me know! Thanks.",
+  "id": "5c83f7711fae6423ca5a5a7e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "RavicharanN",
+    "userId": "5862b83dd73408ce4f3f9ce3",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-03-09T17:27:13.607Z",
+  "text": "Hey there guys, I'm Vinayak, a sophomore at BITS Pilani Goa and am currently trying to write a proposal for working under SymPy's group theory module for GSoC 2019. I was wondering if the suggestions in the 2019 list are up to date or not, considering some of those have been merged already under GSoC 2018 by @RavicharanN. Are there any other alogrithms that are to be prioritised to be implemented which may not be listed in the 2019 list? If yes, please let me know! Thanks.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Vinayak-Shukla",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/43382124?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/43382124?v=4&s=60",
+   "displayName": "Vinayak-Shukla",
+   "gv": "4",
+   "id": "5c83b7e2d73408ce4fba1d5c",
+   "url": "/Vinayak-Shukla",
+   "username": "Vinayak-Shukla",
+   "v": 3
+  },
+  "html": "Looking forward to contribute to SymPy",
+  "id": "5c83f77c0a6b91516300ae8c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-03-09T17:27:24.808Z",
+  "text": "Looking forward to contribute to SymPy",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/RavicharanN",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/22046387?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/22046387?v=4&s=60",
+   "displayName": "Ravi charan",
+   "gv": "4",
+   "id": "5862b83dd73408ce4f3f9ce3",
+   "url": "/RavicharanN",
+   "username": "RavicharanN",
+   "v": 101
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Vinayak-Shukla\" class=\"mention\">@Vinayak-Shukla</span>  I&#39;ve updated the Wiki you can go through it now. ",
+  "id": "5c9495b08aa66959b64faeae",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Vinayak-Shukla",
+    "userId": "5c83b7e2d73408ce4fba1d5c",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-22T07:58:40.056Z",
+  "text": "@Vinayak-Shukla  I've updated the Wiki you can go through it now. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-03-25T17:47:09.923Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<p>Addition of a method to compute the <code>Normal Subgroups</code> of a given <code>Group</code> which can be further extended to compute the <code>Maximal Normal Subgroup</code>. As a reference <code>gap</code> computes it using the <code>Conjugacy Classes</code> below is an example:</p><pre><code>gap&gt; g:=SymmetricGroup(<span class=\"number\">5</span>);\nSym( [ <span class=\"number\">1</span> .. <span class=\"number\">5</span> ] )\ngap&gt; ConjugacyClasses(g);\n[ ()^G, (<span class=\"number\">1</span>,<span class=\"number\">2</span>)^G, (<span class=\"number\">1</span>,<span class=\"number\">2</span>)(<span class=\"number\">3</span>,<span class=\"number\">4</span>)^G, (<span class=\"number\">1</span>,<span class=\"number\">2</span>,<span class=\"number\">3</span>)^G, (<span class=\"number\">1</span>,<span class=\"number\">2</span>,<span class=\"number\">3</span>)(<span class=\"number\">4</span>,<span class=\"number\">5</span>)^G, (<span class=\"number\">1</span>,<span class=\"number\">2</span>,<span class=\"number\">3</span>,<span class=\"number\">4</span>)^G, \n  (<span class=\"number\">1</span>,<span class=\"number\">2</span>,<span class=\"number\">3</span>,<span class=\"number\">4</span>,<span class=\"number\">5</span>)^G ]\ngap&gt; NormalSubgroups(g);\n[ Sym( [ <span class=\"number\">1</span> .. <span class=\"number\">5</span> ] ), Alt( [ <span class=\"number\">1</span> .. <span class=\"number\">5</span> ] ), Group(()) ]\ngap&gt; MaximalNormalSubgroups(g);\n[ Alt( [ <span class=\"number\">1</span> .. <span class=\"number\">5</span> ] ) ]</code></pre><p> <span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> I think it will be good to have these functionalities in SymPy.</p>",
+  "id": "5c9913da8126720abc40ba45",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-25T17:46:02.051Z",
+  "text": "Addition of a method to compute the `Normal Subgroups` of a given `Group` which can be further extended to compute the `Maximal Normal Subgroup`. As a reference `gap` computes it using the `Conjugacy Classes` below is an example:\n```\ngap> g:=SymmetricGroup(5);\nSym( [ 1 .. 5 ] )\ngap> ConjugacyClasses(g);\n[ ()^G, (1,2)^G, (1,2)(3,4)^G, (1,2,3)^G, (1,2,3)(4,5)^G, (1,2,3,4)^G, \n  (1,2,3,4,5)^G ]\ngap> NormalSubgroups(g);\n[ Sym( [ 1 .. 5 ] ), Alt( [ 1 .. 5 ] ), Group(()) ]\ngap> MaximalNormalSubgroups(g);\n[ Alt( [ 1 .. 5 ] ) ]\n```\n @jksuom I think it will be good to have these functionalities in SymPy.",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "It would probably be good, assuming that efficient algorithms can be found.",
+  "id": "5c991a9f2fb6800d807d1c25",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-25T18:14:55.834Z",
+  "text": "It would probably be good, assuming that efficient algorithms can be found.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Thanks <span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> I&#39;ll include this in my 2019 GSoC proposal.",
+  "id": "5c991c47fcaf7b5f731315a4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-25T18:21:59.864Z",
+  "text": "Thanks @jksuom I'll include this in my 2019 GSoC proposal.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Every <code>Abelian</code> group is <code>nilpotent</code>. Function  <a href=\"https://github.com/sympy/sympy/blob/d13eb25999fb8af72c87fded526f995f5c79cb3d/sympy/combinatorics/perm_groups.py#L1805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">is_nilpotent</a> can be enhanced to directly return <code>True</code> if given group is <code>Abelian</code> but  method <code>is_abelian</code> uses 2 loops on the <code>generators</code> of the group and if not <code>is_nilpotent</code> will call <code>lower_central_series</code> so will it worth to explicitly handle <code>is_abelian</code> case?? ",
+  "id": "5c9cd22de4561321d051343d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T13:54:53.367Z",
+  "text": "Every `Abelian` group is `nilpotent`. Function  [is_nilpotent](https://github.com/sympy/sympy/blob/d13eb25999fb8af72c87fded526f995f5c79cb3d/sympy/combinatorics/perm_groups.py#L1805) can be enhanced to directly return `True` if given group is `Abelian` but  method `is_abelian` uses 2 loops on the `generators` of the group and if not `is_nilpotent` will call `lower_central_series` so will it worth to explicitly handle `is_abelian` case?? ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/blob/d13eb25999fb8af72c87fded526f995f5c79cb3d/sympy/combinatorics/perm_groups.py#L1805"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> please have a look.",
+  "id": "5c9cd23eb7e27d2f05990d08",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T13:55:10.310Z",
+  "text": "@jksuom please have a look.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "It would be possible to quickly check <code>_is_abelian</code> but maybe not <code>is_abelian</code>.",
+  "id": "5c9cd770e422d1519929615e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T14:17:20.168Z",
+  "text": "It would be possible to quickly check `_is_abelian` but maybe not `is_abelian`.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "yes, so should I add the condition for <code>_is_abelian</code>?",
+  "id": "5c9cd7f57160b422852bbd59",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T14:19:33.386Z",
+  "text": "yes, so should I add the condition for `_is_abelian`?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "It will be <code>None</code> for many cases but, it may help in some of the cases.",
+  "id": "5c9cd8447160b422852bc299",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T14:20:52.836Z",
+  "text": "It will be `None` for many cases but, it may help in some of the cases.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "That could be added, perhaps in a PR with some major additions.",
+  "id": "5c9cdb418df8b02f0474ead6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T14:33:37.321Z",
+  "text": "That could be added, perhaps in a PR with some major additions.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "okay!",
+  "id": "5c9cdb8e7160b422852bda5f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-28T14:34:54.794Z",
+  "text": "okay!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "I think if <code>H</code> is a <code>subgroup</code> of <code>G</code> then the <code>identity</code> of H and G must be equal but for current master:<pre><code>&gt;&gt;&gt; S3 = <span class=\"function\"><span class=\"title\">SymmetricGroup</span><span class=\"params\">(<span class=\"number\">3</span>)</span></span>\n&gt;&gt;&gt; S5 = <span class=\"function\"><span class=\"title\">SymmetricGroup</span><span class=\"params\">(<span class=\"number\">5</span>)</span></span>\n&gt;&gt;&gt; S3.<span class=\"function\"><span class=\"title\">is_subgroup</span><span class=\"params\">(S5, strict=False)</span></span>\nTrue\n&gt;&gt;&gt; \n&gt;&gt;&gt; S3.<span class=\"function\"><span class=\"title\">identity</span><span class=\"params\">()</span></span>\n<span class=\"function\"><span class=\"title\">Permutation</span><span class=\"params\">(<span class=\"number\">2</span>)</span></span>\n&gt;&gt;&gt; \n&gt;&gt;&gt; S5.<span class=\"function\"><span class=\"title\">identity</span><span class=\"params\">()</span></span>\n<span class=\"function\"><span class=\"title\">Permutation</span><span class=\"params\">(<span class=\"number\">4</span>)</span></span>\n&gt;&gt;&gt;</code></pre>",
+  "id": "5c9db856e2245b5109ce8f4d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T06:16:54.652Z",
+  "text": "I think if `H` is a `subgroup` of `G` then the `identity` of H and G must be equal but for current master:\n```\n>>> S3 = SymmetricGroup(3)\n>>> S5 = SymmetricGroup(5)\n>>> S3.is_subgroup(S5, strict=False)\nTrue\n>>> \n>>> S3.identity()\nPermutation(2)\n>>> \n>>> S5.identity()\nPermutation(4)\n>>> \n```",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> please have a look!",
+  "id": "5c9db86a51353e5a4db2995f",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T06:17:14.935Z",
+  "text": "@jksuom please have a look!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "The above example is mentioned in the docstring of the function <code>is_subgroup</code>.",
+  "id": "5c9db89ae422d151992f8242",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T06:18:02.814Z",
+  "text": "The above example is mentioned in the docstring of the function `is_subgroup`.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<a href=\"https://math.stackexchange.com/questions/291374/show-identity-of-subgroup-is-same-as-identity-of-group\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Identity of subgroup is same as identity of group</a>",
+  "id": "5c9db942aee5b449f3b0a5fe",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T06:20:50.201Z",
+  "text": "[Identity of subgroup is same as identity of group](https://math.stackexchange.com/questions/291374/show-identity-of-subgroup-is-same-as-identity-of-group)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://math.stackexchange.com/questions/291374/show-identity-of-subgroup-is-same-as-identity-of-group"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "Permutation groups of different degree have no common elements. However, there is a canonical way of embedding the group of smaller degree to the group of greater degree: permutations are simply extended with identity mapping. I think that this is how the groups should be compared (and that seems to be how it is customarily done). So, it is possible to say that a permutation group H is a subgroup of G even if it is lower degree that G.",
+  "id": "5c9dc0871f98a87112bb85bb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T06:51:51.468Z",
+  "text": "Permutation groups of different degree have no common elements. However, there is a canonical way of embedding the group of smaller degree to the group of greater degree: permutations are simply extended with identity mapping. I think that this is how the groups should be compared (and that seems to be how it is customarily done). So, it is possible to say that a permutation group H is a subgroup of G even if it is lower degree that G.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Thanks, I got it.",
+  "id": "5c9dcedbe2245b5109cf2e27",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-03-29T07:52:59.413Z",
+  "text": "Thanks, I got it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> please review this <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16522\" href=\"https://github.com/sympy/sympy/pull/16522\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16522</a>.",
+  "id": "5ca1db130aad6350190c3803",
+  "issues": [
+   {
+    "number": "16522"
+   },
+   {
+    "number": "16522",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-01T09:34:11.233Z",
+  "text": "@jksuom please review this [PR #16522](https://github.com/sympy/sympy/pull/16522).",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> <span data-link-type=\"mention\" data-screen-name=\"asmeurer\" class=\"mention\">@asmeurer</span> I have added my 2019 GSoC Group Theory application please have a look and let me know if I have missed anything.<br><a href=\"https://github.com/sympy/sympy/wiki/GSoC-2019-Application-Divyanshu:-Group-Theory\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">GSoC 2019 Application Divyanshu: Group Theory</a> ",
+  "id": "5ca725e4c55bd14d359154ef",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   },
+   {
+    "screenName": "asmeurer",
+    "userId": "529c69c1ed5ab0b3bf04d173",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-05T09:54:44.042Z",
+  "text": "@jksuom @asmeurer I have added my 2019 GSoC Group Theory application please have a look and let me know if I have missed anything.\n[GSoC 2019 Application Divyanshu: Group Theory](https://github.com/sympy/sympy/wiki/GSoC-2019-Application-Divyanshu:-Group-Theory) ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/wiki/GSoC-2019-Application-Divyanshu:-Group-Theory"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-17T11:15:07.343Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jksuom\" class=\"mention\">@jksuom</span> please have a look at this PR <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16670\" href=\"https://github.com/sympy/sympy/pull/16670\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16670</a>",
+  "id": "5cb70a7f97dcb371d8c8fce1",
+  "issues": [
+   {
+    "number": "16670"
+   },
+   {
+    "number": "16670",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "jksuom",
+    "userId": "53204afa5e986b0712efdf3d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T11:14:07.954Z",
+  "text": "@jksuom please have a look at this PR [#16670](https://github.com/sympy/sympy/pull/16670)",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "I think that &quot;abelian invariants&quot; should be defined. In particular, as the groups need not be abelian.",
+  "id": "5cb70d912e2caa1aa671e7af",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T11:27:13.654Z",
+  "text": "I think that \"abelian invariants\" should be defined. In particular, as the groups need not be abelian.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Should it be defined in docstrings? because the example test cases already covers that.",
+  "id": "5cb70fd63d78aa6c034a3319",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T11:36:54.739Z",
+  "text": "Should it be defined in docstrings? because the example test cases already covers that.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "There could be references in docstrings.",
+  "id": "5cb712fbb4700e023d884883",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T11:50:19.160Z",
+  "text": "There could be references in docstrings.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Okay, I&#39;ll include that.",
+  "id": "5cb713358446a6023e2de6eb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T11:51:17.454Z",
+  "text": "Okay, I'll include that.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "I think these 2 references would be sufficient:<br><a href=\"https://webusers.imj-prg.fr/~jean.michel/gap3/htm/chap007.htm#SECT046\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Gap</a><br><a href=\"https://www.maplesoft.com/support/help/Maple/view.aspx?path=GroupTheory%2fAbelianInvariants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Maple</a>",
+  "id": "5cb719075b3f941aa5472b9a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T12:16:07.319Z",
+  "text": "I think these 2 references would be sufficient: \n[Gap](https://webusers.imj-prg.fr/~jean.michel/gap3/htm/chap007.htm#SECT046)\n[Maple](https://www.maplesoft.com/support/help/Maple/view.aspx?path=GroupTheory%2fAbelianInvariants)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://webusers.imj-prg.fr/~jean.michel/gap3/htm/chap007.htm#SECT046"
+   },
+   {
+    "url": "https://www.maplesoft.com/support/help/Maple/view.aspx?path=GroupTheory%2fAbelianInvariants"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "It seems to me that the two definitions are different. Gap returns prime powers while Maple returns a list satisfying <code>d[i] | d[i+1]</code>.",
+  "id": "5cb72279e416b84519942e76",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T12:56:25.772Z",
+  "text": "It seems to me that the two definitions are different. Gap returns prime powers while Maple returns a list satisfying `d[i] | d[i+1]`.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-04-17T13:30:58.364Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Yes, thats right and for our implementation we have used Gap only. So, should we include Gap only? I thought it will be good to provide both for good theoretical overview. ",
+  "id": "5cb72a606a84d76ed8ab35d8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T13:30:08.699Z",
+  "text": "Yes, thats right and for our implementation we have used Gap only. So, should we include Gap only? I thought it will be good to provide both for good theoretical overview. ",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/jksuom",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6929119?v=4&s=60",
+   "displayName": "Kalevi Suominen",
+   "gv": "4",
+   "id": "53204afa5e986b0712efdf3d",
+   "url": "/jksuom",
+   "username": "jksuom",
+   "v": 36
+  },
+  "html": "Perhaps the docstring could explain the meaning of the invariants. It could also point out that there is another possibility.",
+  "id": "5cb7399b97dcb371d8ca5205",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T14:35:07.532Z",
+  "text": "Perhaps the docstring could explain the meaning of the invariants. It could also point out that there is another possibility.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/divyanshu132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/36084189?v=4&s=60",
+   "displayName": "Divyanshu Thakur",
+   "gv": "4",
+   "id": "5c35e8cdd73408ce4fb41d72",
+   "url": "/divyanshu132",
+   "username": "divyanshu132",
+   "v": 7
+  },
+  "html": "Okay.",
+  "id": "5cb739ee990feb4518b9382e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-04-17T14:36:30.660Z",
+  "text": "Okay.",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

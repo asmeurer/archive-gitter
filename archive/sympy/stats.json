@@ -1,0 +1,568 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "<p>I want to mention some points which need discussion:</p><ol>\n<li><a href=\"https://github.com/ritesh99rakesh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Ritesh Kumar</a> has also been accepted to the stats module. As it is visible that our proposals are similar at some points. We need to decide the workflow after discussion with him. On my side, I am ready to work with him and share the work load. We need work division like, if I am working on Markov Chains then he will review and make a bit of changes to my work.  Similarly, if he is working on Compound Distributions then I will review and make modifications on his work. Though this is just my point of view. I have a plan for work division which I will share after he is added to this room.</li>\n<li>I have read <a href=\"https://developers.google.com/open-source/gsoc/help/responsibilities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">roles and responsibility</a>. However, as said on the page, organizations may have some custom expectations from the student. So, is there any additional repsonsiblity from SymPy side, then please let me know.</li>\n<li>Though I am familiar with SymPy&#39;s workflow as a contributor. However, is there anything extra we have to know to get familiar with SymPy as a GSoC student.</li>\n</ol>\n<p>For information, I will be travelling from around 8th May, 16:00 IST to 9th May, 15:00 IST for my way back home for summer vacations and hence, I will not be able to code or use github during that period, but, I will be available for project related discussions throught gitter.<br>That&#39;s all from my side.</p>",
+  "id": "5cd11fe6990feb4518675c85",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T06:04:22.881Z",
+  "text": "I want to mention some points which need discussion:\n1. [Ritesh Kumar](https://github.com/ritesh99rakesh) has also been accepted to the stats module. As it is visible that our proposals are similar at some points. We need to decide the workflow after discussion with him. On my side, I am ready to work with him and share the work load. We need work division like, if I am working on Markov Chains then he will review and make a bit of changes to my work.  Similarly, if he is working on Compound Distributions then I will review and make modifications on his work. Though this is just my point of view. I have a plan for work division which I will share after he is added to this room.\n2. I have read [roles and responsibility](https://developers.google.com/open-source/gsoc/help/responsibilities). However, as said on the page, organizations may have some custom expectations from the student. So, is there any additional repsonsiblity from SymPy side, then please let me know.\n3. Though I am familiar with SymPy's workflow as a contributor. However, is there anything extra we have to know to get familiar with SymPy as a GSoC student.\n\nFor information, I will be travelling from around 8th May, 16:00 IST to 9th May, 15:00 IST for my way back home for summer vacations and hence, I will not be able to code or use github during that period, but, I will be available for project related discussions throught gitter.\nThat's all from my side.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/ritesh99rakesh"
+   },
+   {
+    "url": "https://developers.google.com/open-source/gsoc/help/responsibilities"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "hi, can someone invite Ritesh to join this channel?",
+  "id": "5cd13ee05b3f941aa5f6ca29",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:16:32.359Z",
+  "text": "hi, can someone invite Ritesh to join this channel?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "we definitely need coordinations for GSoC",
+  "id": "5cd13ef33d78aa6c03fc3581",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:16:51.515Z",
+  "text": "we definitely need coordinations for GSoC",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "also... the Markov chain part should be reviewed a bit before the work starts",
+  "id": "5cd13f12a4ef09747162b9fb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:17:22.499Z",
+  "text": "also... the Markov chain part should be reviewed a bit before the work starts",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "I would probably review the proposed APIs",
+  "id": "5cd13f1ea4ef09747162ba1d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:17:34.257Z",
+  "text": "I would probably review the proposed APIs",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "Ideally everything should be defined by extending <code>RandomSymbol</code> appropriately.",
+  "id": "5cd13f5e5b3f941aa5f6cca5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:18:38.683Z",
+  "text": "Ideally everything should be defined by extending `RandomSymbol` appropriately.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Yes, sure, we can discuss upon the changes. Aaron sent a mail to the accepted students, so I replied indicating my acceptance. Has Ritesh shown such acceptance or he contacted Sidhant or Francesco? If yes, then I will add him and share the plan of coordination which I have thought about.",
+  "id": "5cd140ea6a84d76ed85c591c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T08:25:14.259Z",
+  "text": "Yes, sure, we can discuss upon the changes. Aaron sent a mail to the accepted students, so I replied indicating my acceptance. Has Ritesh shown such acceptance or he contacted Sidhant or Francesco? If yes, then I will add him and share the plan of coordination which I have thought about.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"sidhantnagpal\" class=\"mention\">@sidhantnagpal</span> Can you please tell me from where to get the <code>feed.sympy.xml</code> for setting up the blog using github pages?",
+  "id": "5cd152903b6cb0686ab97912",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "sidhantnagpal",
+    "userId": "5a894b36d73408ce4f8da1b2",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T09:40:32.112Z",
+  "text": "@sidhantnagpal Can you please tell me from where to get the `feed.sympy.xml` for setting up the blog using github pages?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Can I take any pre-existing file of a former student to speed up the work?",
+  "id": "5cd152a4375bac74706d7193",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T09:40:52.977Z",
+  "text": "Can I take any pre-existing file of a former student to speed up the work?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-05-07T09:48:05.685Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/sidhantnagpal",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36465988?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36465988?v=4&s=60",
+   "displayName": "Sidhant Nagpal",
+   "gv": "4",
+   "id": "5a894b36d73408ce4f8da1b2",
+   "url": "/sidhantnagpal",
+   "username": "sidhantnagpal",
+   "v": 32
+  },
+  "html": "RSS feed will probably depend on what framework you use to setup your blog. For example, <a href=\"https://github.com/plusjade/jekyll-bootstrap/blob/master/rss.xml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a> is a sample blog using jekyll with rss.xml.",
+  "id": "5cd154423d78aa6c03fcbf28",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T09:47:46.304Z",
+  "text": "RSS feed will probably depend on what framework you use to setup your blog. For example, [here](https://github.com/plusjade/jekyll-bootstrap/blob/master/rss.xml) is a sample blog using jekyll with rss.xml.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/plusjade/jekyll-bootstrap/blob/master/rss.xml"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "I am going for jekyll too. Thanks for the help.",
+  "id": "5cd154866a84d76ed85ce1e0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T09:48:54.961Z",
+  "text": "I am going for jekyll too. Thanks for the help.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "I have created the blog at <a href=\"https://czgdp1807.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://czgdp1807.github.io/</a>. Please let me know if any changes are to be made.",
+  "id": "5cd18d2b3d78aa6c03fe5e21",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T13:50:35.789Z",
+  "text": "I have created the blog at https://czgdp1807.github.io/. Please let me know if any changes are to be made.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://czgdp1807.github.io/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 37
+  },
+  "html": "I added Ritesh (not sure which account is the correct one) ",
+  "id": "5cd1c47815104826572fbf6a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T17:46:32.701Z",
+  "text": "I added Ritesh (not sure which account is the correct one) ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 37
+  },
+  "html": "Regarding the coordination, reviewing each other&#39;s work will definitely be good. ",
+  "id": "5cd1c4b79c0e732a0d16301e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T17:47:35.011Z",
+  "text": "Regarding the coordination, reviewing each other's work will definitely be good. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 37
+  },
+  "html": "However make sure that you do not split the work so that one person&#39;s project entirely depends on the other&#39;s. That way if one person fails (which we do not expect but we do need to be prepared for), the other person will not necessarily fail as well. ",
+  "id": "5cd1c4ee2502554e4587962f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T17:48:30.440Z",
+  "text": "However make sure that you do not split the work so that one person's project entirely depends on the other's. That way if one person fails (which we do not expect but we do need to be prepared for), the other person will not necessarily fail as well. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Thanks Aaron. I will propose my plan for coordinating work tomorrow at around 13:00 IST.",
+  "id": "5cd1cd812e2caa1aa6259478",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T18:25:05.998Z",
+  "text": "Thanks Aaron. I will propose my plan for coordinating work tomorrow at around 13:00 IST.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Moreover can we decide a common time for meeting like pick any day of the week when everyone is available online in their respective time zones. Please let me know about this ASAP. ",
+  "id": "5cd1ce60e416b8451948ae3d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-07T18:28:48.966Z",
+  "text": "Moreover can we decide a common time for meeting like pick any day of the week when everyone is available online in their respective time zones. Please let me know about this ASAP. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-05-08T04:15:07.230Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "<p>As far as I can figure out, Ritesh&#39;s GSoC proposal is at <a href=\"https://github.com/ritesh99rakesh/gsocProposal/blob/master/SymPy.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/ritesh99rakesh/gsocProposal/blob/master/SymPy.md</a>. I have the following plan for coordinating work,</p><ol>\n<li>Bonding Period - We both want to implement additional distributions in <code>sympy.stats</code> and I think we can work on this during the bonding period. I have already created the PR at <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16576\" href=\"https://github.com/sympy/sympy/pull/16576\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16576</a>. So Ritesh can fetch my branch and add his distributions.</li>\n<li>Phase 1 - During this phase, I want to implement Markov Chains and Ritesh can work on Compound distributions. I think both are quite independent when it comes to implementation.</li>\n<li>Phase 2- Durign this period Ritesh can work on Random Walks and I will work on Random Matrices.</li>\n<li>Phase 3 - In this phase Ritesh can work on exporting random variables and dependence of RVs and I will work on supporting integration since I have done discussions, prior to GSoC acceptance, with Francesco on this.</li>\n</ol>\n<p>If anyone of us has no issues with this plan then I think we can proceed to work on design. Please let me know about the changes or if you have something else to coordinate work.</p>",
+  "id": "5cd257bd5a887e1cd9ad9ea4",
+  "issues": [
+   {
+    "number": "16576",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-08T04:14:53.702Z",
+  "text": "As far as I can figure out, Ritesh's GSoC proposal is at https://github.com/ritesh99rakesh/gsocProposal/blob/master/SymPy.md. I have the following plan for coordinating work,\n\n1. Bonding Period - We both want to implement additional distributions in `sympy.stats` and I think we can work on this during the bonding period. I have already created the PR at https://github.com/sympy/sympy/pull/16576. So Ritesh can fetch my branch and add his distributions.\n2. Phase 1 - During this phase, I want to implement Markov Chains and Ritesh can work on Compound distributions. I think both are quite independent when it comes to implementation.\n3. Phase 2- Durign this period Ritesh can work on Random Walks and I will work on Random Matrices.\n4. Phase 3 - In this phase Ritesh can work on exporting random variables and dependence of RVs and I will work on supporting integration since I have done discussions, prior to GSoC acceptance, with Francesco on this.\n\nIf anyone of us has no issues with this plan then I think we can proceed to work on design. Please let me know about the changes or if you have something else to coordinate work.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/ritesh99rakesh/gsocProposal/blob/master/SymPy.md"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/Upabjojr",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4128856?v=4&s=60",
+   "displayName": "Francesco Bonazzi",
+   "gv": "4",
+   "id": "56e83c9e85d51f252ab8efe1",
+   "url": "/Upabjojr",
+   "username": "Upabjojr",
+   "v": 176
+  },
+  "html": "<blockquote>\n<p>can work on Random Walks</p></blockquote>\n<p>Remember we have to review this part.</p>",
+  "id": "5cd2a371bdc3b64fcf0d57cf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-05-08T09:37:53.721Z",
+  "text": "> can work on Random Walks\n\nRemember we have to review this part.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Yes, if we agree upon the plan then we can discuss upon the design. The above plan is not like strict, it just denotes that who will make the PR on that topic. After we all will review, make commits on that branch of the PR.",
+  "id": "5cd2aa2ada34620ff905a7e8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T10:06:34.893Z",
+  "text": "Yes, if we agree upon the plan then we can discuss upon the design. The above plan is not like strict, it just denotes that who will make the PR on that topic. After we all will review, make commits on that branch of the PR.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "If possible, <span data-link-type=\"mention\" data-screen-name=\"Upabjojr\" class=\"mention\">@Upabjojr</span> please tell what design of Random Walks and Markov Chains you have thought so that we can modify the plan accordingly. ",
+  "id": "5cd2aa5eda34620ff905a900",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Upabjojr",
+    "userId": "56e83c9e85d51f252ab8efe1",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T10:07:26.709Z",
+  "text": "If possible, @Upabjojr please tell what design of Random Walks and Markov Chains you have thought so that we can modify the plan accordingly. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/czgdp1807",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/36567889?v=4&s=60",
+   "displayName": "Gagandeep Singh",
+   "gv": "4",
+   "id": "5a910735d73408ce4f8e9aab",
+   "url": "/czgdp1807",
+   "username": "czgdp1807",
+   "v": 18
+  },
+  "html": "Is it something related to Akash Vaish&#39;s work?",
+  "id": "5cd2aa7e79d700509934d5c8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T10:07:58.788Z",
+  "text": "Is it something related to Akash Vaish's work?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]

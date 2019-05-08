@@ -1,0 +1,90 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 37
+  },
+  "html": "I think a good place to start with the project here would be to review <span data-link-type=\"mention\" data-screen-name=\"oscarbenjamin\" class=\"mention\">@oscarbenjamin</span>&#39;s assumptions pull requests, and if necessary, make commits to complete them ",
+  "id": "5cd320d72502554e45879997",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "oscarbenjamin",
+    "userId": "5c7daaddd73408ce4fb9a136",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T18:32:55.982Z",
+  "text": "I think a good place to start with the project here would be to review @oscarbenjamin's assumptions pull requests, and if necessary, make commits to complete them ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/asmeurer",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/71486?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/71486?v=4&s=60",
+   "displayName": "Aaron Meurer",
+   "gv": "4",
+   "id": "529c69c1ed5ab0b3bf04d173",
+   "url": "/asmeurer",
+   "username": "asmeurer",
+   "v": 37
+  },
+  "html": "<a href=\"https://github.com/sympy/sympy/pulls?q=is%3Apr+is%3Aopen+assumptions+author%3Aoscarbenjamin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/sympy/sympy/pulls?q=is%3Apr+is%3Aopen+assumptions+author%3Aoscarbenjamin</a>",
+  "id": "5cd320db100dc10e2cba1829",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T18:32:59.545Z",
+  "text": "https://github.com/sympy/sympy/pulls?q=is%3Apr+is%3Aopen+assumptions+author%3Aoscarbenjamin",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/pulls?q=is%3Apr+is%3Aopen+assumptions+author%3Aoscarbenjamin"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/ShubhamKJha",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/34163329?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/34163329?v=4&s=60",
+   "displayName": "Shubham Kumar Jha",
+   "gv": "4",
+   "id": "5bf5768cd73408ce4fafadfb",
+   "url": "/ShubhamKJha",
+   "username": "ShubhamKJha",
+   "v": 13
+  },
+  "html": "<p>Hi Aaron, I believe this timing can work for both of us.</p><blockquote>\n<p>I think a good place to start with the project here would be to review <span data-link-type=\"mention\" data-screen-name=\"oscarbenjamin\" class=\"mention\">@oscarbenjamin</span>&#39;s assumptions pull requests, and if necessary, make commits to complete them </p></blockquote>\n<p>I agree . Before now, I was not getting enough time for that. Now my exams are over I will start working.</p>",
+  "id": "5cd323550f381d0a76808c82",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "oscarbenjamin",
+    "userId": "5c7daaddd73408ce4fb9a136",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2019-05-08T18:43:33.185Z",
+  "text": "Hi Aaron, I believe this timing can work for both of us.\n> I think a good place to start with the project here would be to review @oscarbenjamin's assumptions pull requests, and if necessary, make commits to complete them \n\nI agree . Before now, I was not getting enough time for that. Now my exams are over I will start working.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ }
+]

@@ -27629,5 +27629,64 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 91
+  },
+  "html": "How to search for messages across all gitter rooms?",
+  "id": "5c9cc86de2245b5109c800d1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-03-28T13:13:17.726Z",
+  "text": "How to search for messages across all gitter rooms?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/MadLittleMods",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/558581?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/558581?v=4&s=60",
+   "displayName": "Eric Eastwood",
+   "gv": "4",
+   "id": "553d437215522ed4b3df8c50",
+   "staff": true,
+   "url": "/MadLittleMods",
+   "username": "MadLittleMods",
+   "v": 62
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"kgashok\" class=\"mention\">@kgashok</span> Answered your question here, :point_up: <a href=\"https://gitter.im/gitterHQ/gitter?at=5c9cf48ce4561321d0523cab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">March 28, 2019 11:21 AM</a>",
+  "id": "5c9d04bcb7e27d2f059a913a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "kgashok",
+    "userId": "5433c4b0163965c9bc209625",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 0,
+  "sent": "2019-03-28T17:30:36.551Z",
+  "text": "@kgashok Answered your question here, :point_up: [March 28, 2019 11:21 AM](https://gitter.im/gitterHQ/gitter?at=5c9cf48ce4561321d0523cab)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/gitterHQ/gitter?at=5c9cf48ce4561321d0523cab"
+   }
+  ],
+  "v": 1
  }
 ]
