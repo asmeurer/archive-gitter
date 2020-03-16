@@ -27688,5 +27688,271 @@
    }
   ],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 117
+  },
+  "html": "Is there a way to consume Webhooks from repl.it to connect to a gitter room? ",
+  "id": "5d3e68ec071bb025df0beb29",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-07-29T03:33:00.755Z",
+  "text": "Is there a way to consume Webhooks from repl.it to connect to a gitter room? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 117
+  },
+  "html": "Has this been done before? ",
+  "id": "5d3e68f57e00fc4ace697b82",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-07-29T03:33:09.899Z",
+  "text": "Has this been done before? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/MadLittleMods",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/558581?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/558581?v=4&s=60",
+   "displayName": "Eric Eastwood",
+   "gv": "4",
+   "id": "553d437215522ed4b3df8c50",
+   "staff": true,
+   "url": "/MadLittleMods",
+   "username": "MadLittleMods",
+   "v": 80
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"kgashok\" class=\"mention\">@kgashok</span> This would be better in <a href=\"https://gitter.im/gitterHQ/gitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gitter.im/gitterHQ/gitter</a></p><p>Sure, just setup a custom Gitter integration and copy the URL from Gitter to repl.it</p>",
+  "id": "5d3e69500cc5bb18725752fe",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "kgashok",
+    "userId": "5433c4b0163965c9bc209625",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-07-29T03:34:40.251Z",
+  "text": "@kgashok This would be better in https://gitter.im/gitterHQ/gitter\n\nSure, just setup a custom Gitter integration and copy the URL from Gitter to repl.it",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/gitterHQ/gitter"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 117
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"MadLittleMods\" class=\"mention\">@MadLittleMods</span>  - <a href=\"https://repl.it/site/docs/classrooms/webhooks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://repl.it/site/docs/classrooms/webhooks</a> suggests the other way around? I am totally ignorant about this...",
+  "id": "5d3e699484bc7a717fdf140a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "MadLittleMods",
+    "userId": "553d437215522ed4b3df8c50",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-07-29T03:35:48.487Z",
+  "text": "@MadLittleMods  - https://repl.it/site/docs/classrooms/webhooks suggests the other way around? I am totally ignorant about this...",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://repl.it/site/docs/classrooms/webhooks"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 117
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"MadLittleMods\" class=\"mention\">@MadLittleMods</span> sorry about posting here - will move it to the other room...",
+  "id": "5d3e69bf3e51d77b1b885258",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "MadLittleMods",
+    "userId": "553d437215522ed4b3df8c50",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-07-29T03:36:31.292Z",
+  "text": "@MadLittleMods sorry about posting here - will move it to the other room...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/kgashok",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2399010?v=4&s=60",
+   "displayName": "Ashok Bakthavathsalam",
+   "gv": "4",
+   "id": "5433c4b0163965c9bc209625",
+   "url": "/kgashok",
+   "username": "kgashok",
+   "v": 117
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"MadLittleMods\" class=\"mention\">@MadLittleMods</span>  Yes, that is what I did - but it did not fire...is there a way to test whether the repl.it messaging works? ",
+  "id": "5d3e6a04c356af25e0483e6a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "MadLittleMods",
+    "userId": "553d437215522ed4b3df8c50",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-07-29T03:37:40.721Z",
+  "text": "@MadLittleMods  Yes, that is what I did - but it did not fire...is there a way to test whether the repl.it messaging works? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/MadLittleMods",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/558581?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/558581?v=4&s=60",
+   "displayName": "Eric Eastwood",
+   "gv": "4",
+   "id": "553d437215522ed4b3df8c50",
+   "staff": true,
+   "url": "/MadLittleMods",
+   "username": "MadLittleMods",
+   "v": 80
+  },
+  "html": "^ Moved to :point_up: <a href=\"https://gitter.im/gitterHQ/gitter?at=5d3e6a468aab922429dbfa33\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">July 28, 2019 10:38 PM</a>",
+  "id": "5d3e6a6b7d53182fb9470634",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2019-07-29T03:39:23.375Z",
+  "text": "^ Moved to :point_up: [July 28, 2019 10:38 PM](https://gitter.im/gitterHQ/gitter?at=5d3e6a468aab922429dbfa33)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/gitterHQ/gitter?at=5d3e6a468aab922429dbfa33"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/paulbruno",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/864491?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/864491?v=4&s=60",
+   "displayName": "Paul Bruno",
+   "gv": "4",
+   "id": "5c4ea498d73408ce4fb61bc6",
+   "url": "/paulbruno",
+   "username": "paulbruno",
+   "v": 13
+  },
+  "html": "Hey, I originally created my <code>paulbruno</code> account with GitHub as my sign-in auth... now I&#39;d like to switch that to my GitLab acct. Is there some way to do this? Or if I delete my current acct., can I re-sign up and get my same username (this one, <code>paulbruno</code>)?",
+  "id": "5d418f1b9a02440b033080c3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-07-31T12:52:43.711Z",
+  "text": "Hey, I originally created my `paulbruno` account with GitHub as my sign-in auth... now I'd like to switch that to my GitLab acct. Is there some way to do this? Or if I delete my current acct., can I re-sign up and get my same username (this one, `paulbruno`)?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-31T18:04:48.513Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/MadLittleMods",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/558581?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/558581?v=4&s=60",
+   "displayName": "Eric Eastwood",
+   "gv": "4",
+   "id": "553d437215522ed4b3df8c50",
+   "staff": true,
+   "url": "/MadLittleMods",
+   "username": "MadLittleMods",
+   "v": 80
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"paulbruno\" class=\"mention\">@paulbruno</span> Replied to you in :point_up: <a href=\"https://gitter.im/gitterHQ/gitter?at=5d418f5020f75e7ba55bbe6c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">July 31, 2019 7:53 AM</a>",
+  "id": "5d41d83bb336537fd4104f09",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "paulbruno",
+    "userId": "5c4ea498d73408ce4fb61bc6",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-31T18:04:43.825Z",
+  "text": "@paulbruno Replied to you in :point_up: [July 31, 2019 7:53 AM](https://gitter.im/gitterHQ/gitter?at=5d418f5020f75e7ba55bbe6c)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gitter.im/gitterHQ/gitter?at=5d418f5020f75e7ba55bbe6c"
+   }
+  ],
+  "v": 2
  }
 ]

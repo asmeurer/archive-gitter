@@ -548,5 +548,995 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<p>Hi everyone!<br>I have been working on the <code>CrossSection</code> class which intends to integrate the geometry module with the continuum mechanics module. I just created a [WIP]  PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"16964\" class=\"issue\">#16964</a>.</p><p>So the main problem as I also mentioned in <a href=\"https://ishanaj.wordpress.com/2019/06/03/gsoc19-week-1-starting-with-the-crosssection-class/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">my blog</a> was defining the first moment of area of a geometry i.e whether to calculate it  for the extreme layer only or to calculate it in terms of <code>y</code> where y would be the distance of that layer from the bottom of the cross-section.</p><p>Similar is the dilemma for <code>section_modulus</code>.  I have tried calculating <code>section_modulus</code> in terms of <code>y</code>.<br>Please have a look in the PR.<br>If  this works well then, a similar calculation can be done for the first moment of area.<br>Need some views.</p>",
+  "id": "5cf6bfebff3f016baaa52913",
+  "issues": [
+   {
+    "number": "16964"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-04T19:00:59.848Z",
+  "text": "Hi everyone!\nI have been working on the `CrossSection` class which intends to integrate the geometry module with the continuum mechanics module. I just created a [WIP]  PR #16964.\n\nSo the main problem as I also mentioned in [my blog](https://ishanaj.wordpress.com/2019/06/03/gsoc19-week-1-starting-with-the-crosssection-class/) was defining the first moment of area of a geometry i.e whether to calculate it  for the extreme layer only or to calculate it in terms of `y` where y would be the distance of that layer from the bottom of the cross-section.\n\nSimilar is the dilemma for `section_modulus`.  I have tried calculating `section_modulus` in terms of `y`.\nPlease have a look in the PR.\nIf  this works well then, a similar calculation can be done for the first moment of area.\nNeed some views.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/06/03/gsoc19-week-1-starting-with-the-crosssection-class/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Okay, left a comment on PR.",
+  "id": "5cf6d995cea8295279f231fb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-04T20:50:29.884Z",
+  "text": "Okay, left a comment on PR.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have opened a PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17001\" class=\"issue\">#17001</a>",
+  "id": "5cfcf7f34dfb424004a67ae4",
+  "issues": [
+   {
+    "number": "17001"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T12:13:39.433Z",
+  "text": "I have opened a PR #17001",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/06/09/gsoc19-week-2-working-on-crosssection-class/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Here</a> is the link to Week 2&#39;s Blog .",
+  "id": "5cfd4eb4bf4cbd167c5a4489",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T18:23:48.165Z",
+  "text": "[Here](https://ishanaj.wordpress.com/2019/06/09/gsoc19-week-2-working-on-crosssection-class/) is the link to Week 2's Blog .",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/06/09/gsoc19-week-2-working-on-crosssection-class/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Looking  good  : )",
+  "id": "5cfd9c44f3a60a79a481fcd4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T23:54:44.322Z",
+  "text": "Looking  good  : )",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Just keep on including your mindset/discussions which led to changes in a  particular PR. It really becomes a good source to learn about the module for students who want to take up the project in future.",
+  "id": "5cfd9d716f530d3b6166e5e1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T23:59:45.357Z",
+  "text": "Just keep on including your mindset/discussions which led to changes in a  particular PR. It really becomes a good source to learn about the module for students who want to take up the project in future.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/06/17/gsoc19-week-3-wrapping-up-stage-i/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Here</a> is the link to week 3 blog",
+  "id": "5d06981cfaf70031f9263d2c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-16T19:27:24.779Z",
+  "text": "[Here](https://ishanaj.wordpress.com/2019/06/17/gsoc19-week-3-wrapping-up-stage-i/) is the link to week 3 blog",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/06/17/gsoc19-week-3-wrapping-up-stage-i/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have opened a PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17055\" class=\"issue\">#17055</a> . Please have a look",
+  "id": "5d0a9cffa8d9871b32c7bf7b",
+  "issues": [
+   {
+    "number": "17055"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-19T20:37:19.606Z",
+  "text": "I have opened a PR #17055 . Please have a look",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Sure",
+  "id": "5d0ae1f0950f1062a9ae61dc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-20T01:31:28.954Z",
+  "text": "Sure",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have opened an issue cum-discussion <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17072\" class=\"issue\">#17072</a> , to discuss things prior to starting the development of Column Buckling. Please have a look",
+  "id": "5d0fc873d35d4162a88b95b7",
+  "issues": [
+   {
+    "number": "17072"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-23T18:44:03.389Z",
+  "text": "I have opened an issue cum-discussion #17072 , to discuss things prior to starting the development of Column Buckling. Please have a look",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "Also you can go through the week-4 blog, <a href=\"https://ishanaj.wordpress.com/2019/06/24/gsoc19-week-4-starting-with-column-buckling-implementation/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a> ",
+  "id": "5d0fc8c9d4535e477a8d23ee",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-23T18:45:29.266Z",
+  "text": "Also you can go through the week-4 blog, [here](https://ishanaj.wordpress.com/2019/06/24/gsoc19-week-4-starting-with-column-buckling-implementation/) ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/06/24/gsoc19-week-4-starting-with-column-buckling-implementation/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "Link to week-5 blog <a href=\"https://ishanaj.wordpress.com/2019/07/01/gsoc19-week-5-moving-on-with-a-non-mutable-column-class/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a>",
+  "id": "5d190570da128007c69f9588",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-30T18:54:40.201Z",
+  "text": "Link to week-5 blog [here](https://ishanaj.wordpress.com/2019/07/01/gsoc19-week-5-moving-on-with-a-non-mutable-column-class/)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/07/01/gsoc19-week-5-moving-on-with-a-non-mutable-column-class/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have opened a draft PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17153\" class=\"issue\">#17153</a> for implementing calulations of polar modulus and section modulus, for the polygon geometry. Please have a look. I will be adding examples and tests.",
+  "id": "5d1ed9dd11bfea0b67a69333",
+  "issues": [
+   {
+    "number": "17153"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-05T05:02:21.151Z",
+  "text": "I have opened a draft PR #17153 for implementing calulations of polar modulus and section modulus, for the polygon geometry. Please have a look. I will be adding examples and tests.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Just need a small improvement in docstring of <code>section_modulus</code> (left a comment there). Will review further after you add the tests for it.",
+  "id": "5d1ee177076ffa65b04e3de0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-05T05:34:47.224Z",
+  "text": "Just need a small improvement in docstring of `section_modulus` (left a comment there). Will review further after you add the tests for it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "The PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17153\" class=\"issue\">#17153</a> is  ready for review",
+  "id": "5d2036a1dd0b530e40a7d1b5",
+  "issues": [
+   {
+    "number": "17153"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-06T05:50:25.498Z",
+  "text": "The PR #17153 is  ready for review",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/07/08/gsoc19-week-6-completing-the-column-class/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Here</a> is the link to week-6 blog.",
+  "id": "5d22cb8296edbf58f8b38d82",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-08T04:50:10.422Z",
+  "text": "[Here](https://ishanaj.wordpress.com/2019/07/08/gsoc19-week-6-completing-the-column-class/) is the link to week-6 blog.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/07/08/gsoc19-week-6-completing-the-column-class/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "The major work on PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17122\" class=\"issue\">#17122</a> has been completed. Please have a look",
+  "id": "5d29806ae190903936d80a93",
+  "issues": [
+   {
+    "number": "17122"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-13T06:55:38.317Z",
+  "text": "The major work on PR #17122 has been completed. Please have a look",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Sure",
+  "id": "5d298fab202bb93f009521d8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-13T08:00:43.347Z",
+  "text": "Sure",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "Link to week 7 blog <a href=\"http://ishanaj.wordpress.com/2019/07/15/gsoc19-week-7-starting-with-the-phase-iii-draw-function/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a>",
+  "id": "5d2bed17f4fe9439710ccfc9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-15T03:03:51.289Z",
+  "text": "Link to week 7 blog [here](ishanaj.wordpress.com/2019/07/15/gsoc19-week-7-starting-with-the-phase-iii-draw-function/)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://ishanaj.wordpress.com/2019/07/15/gsoc19-week-7-starting-with-the-phase-iii-draw-function/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have opened a draft PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17240\" class=\"issue\">#17240</a> for the draw() function to draw beam diagrams.<br>I have also posted an example of how the current implementation would work.<br>Although still some work is left, but we can have a discussion on it. Please have a look.",
+  "id": "5d34a4b0808425671cc37ead",
+  "issues": [
+   {
+    "number": "17240"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-21T17:45:20.572Z",
+  "text": "I have opened a draft PR #17240 for the draw() function to draw beam diagrams. \nI have also posted an example of how the current implementation would work.\nAlthough still some work is left, but we can have a discussion on it. Please have a look.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/07/22/gsoc19-week-8-the-draw-function-in-action/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Here</a> is a link to week-8 blog. Please have a look.",
+  "id": "5d3540e7e2d1aa6688e95205",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-22T04:51:51.657Z",
+  "text": "[Here](https://ishanaj.wordpress.com/2019/07/22/gsoc19-week-8-the-draw-function-in-action/) is a link to week-8 blog. Please have a look.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/07/22/gsoc19-week-8-the-draw-function-in-action/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have posted a question on the mailing list, <a href=\"https://groups.google.com/forum/?fromgroups#!topic/sympy/gmBNI-sffls\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a>",
+  "id": "5d3c18098aab922429cc07e8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-27T09:23:21.846Z",
+  "text": "I have posted a question on the mailing list, [here](https://groups.google.com/forum/?fromgroups#!topic/sympy/gmBNI-sffls)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://groups.google.com/forum/?fromgroups#!topic/sympy/gmBNI-sffls"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "That behavior looks fine to me, showing that point out of the domain at the singularity.",
+  "id": "5d3c8b778aab922429cf324a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-27T17:35:51.478Z",
+  "text": "That behavior looks fine to me, showing that point out of the domain at the singularity.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-27T17:38:16.359Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Is it a bad idea to plot a verticle line at <code>x = a</code> instead of  <code>SingularityFunction(x, a, -1)</code>  inside  <code>_draw_point_load</code>?",
+  "id": "5d3c8be08aab922429cf350c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-27T17:37:36.762Z",
+  "text": "Is it a bad idea to plot a verticle line at `x = a` instead of  `SingularityFunction(x, a, -1)`  inside  `_draw_point_load`?",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<blockquote>\n<p>Is it a bad idea to plot a verticle line at <code>x = a</code> instead of  <code>SingularityFunction(x, a, -1)</code>  inside  <code>_draw_point_load</code>?</p></blockquote>\n<p>But we would also require an arrowhead in that case.I am not sure if there is a way to plot arrowhead or annotations using sympy&#39; plot().<br>Also, it will be difficult to plot a rectangle (for beam) and markers (for supports)  via sympy.plot().<br>Are we intending to use <code>_backend</code> attribute here?<br>I haven&#39;t used the <code>_backend</code>attribute before and am not sure that it will be helpful or not.</p>",
+  "id": "5d3da8b3b2f4075cb818de3c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-28T13:52:51.967Z",
+  "text": "> Is it a bad idea to plot a verticle line at `x = a` instead of  `SingularityFunction(x, a, -1)`  inside  `_draw_point_load`?\n\nBut we would also require an arrowhead in that case.I am not sure if there is a way to plot arrowhead or annotations using sympy' plot().\nAlso, it will be difficult to plot a rectangle (for beam) and markers (for supports)  via sympy.plot().\nAre we intending to use `_backend` attribute here?\nI haven't used the `_backend `attribute before and am not sure that it will be helpful or not.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "Link to week -9 blog <a href=\"https://ishanaj.wordpress.com/2019/07/29/gsoc19-week-9-analyzing-the-draw-function/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">here</a>",
+  "id": "5d3e87c02136933a870cf6b0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-29T05:44:32.306Z",
+  "text": "Link to week -9 blog [here](https://ishanaj.wordpress.com/2019/07/29/gsoc19-week-9-analyzing-the-draw-function/)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/07/29/gsoc19-week-9-analyzing-the-draw-function/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I will try to write the draw() function using <code>_backend</code> and also would work on implementing phase 4 this week.",
+  "id": "5d3ec8a2d254cf27df9b0007",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-29T10:21:22.555Z",
+  "text": "I will try to write the draw() function using `_backend` and also would work on implementing phase 4 this week.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-29T13:40:57.892Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "<blockquote>\n<p>Are we intending to use _backend attribute here?</p></blockquote>\n<p>Yeah I don\u2019t think <code>sympy.plot</code> can create arrowheads, going with  <code>_backend</code> seems better.</p>",
+  "id": "5d3ef748ce271b4acd29e6a4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-29T13:40:24.970Z",
+  "text": "> Are we intending to use _backend attribute here?\n\nYeah I don\u2019t think `sympy.plot` can create arrowheads, going with  `_backend` seems better.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have tried using backend for drawing beam diagrams in PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17240\" class=\"issue\">#17240</a>. Please have a look.<br>I am not sure whether to use an empty Plot object.",
+  "id": "5d45d36426e27324460e08c1",
+  "issues": [
+   {
+    "number": "17240"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-03T18:33:08.006Z",
+  "text": "I have tried using backend for drawing beam diagrams in PR #17240. Please have a look.\nI am not sure whether to use an empty Plot object.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/08/05/gsoc19-week-10-an-alternative-to-the-draw-function/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">link</a> to week-10 blog",
+  "id": "5d4870a24b8ca519c9ee3d14",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-05T18:08:34.720Z",
+  "text": "[link](https://ishanaj.wordpress.com/2019/08/05/gsoc19-week-10-an-alternative-to-the-draw-function/) to week-10 blog",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/08/05/gsoc19-week-10-an-alternative-to-the-draw-function/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have made some changes in PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17345\" class=\"issue\">#17345</a>. Please have a look",
+  "id": "5d4c5db6c87a0963e73679d4",
+  "issues": [
+   {
+    "number": "17345"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-08T17:36:54.218Z",
+  "text": "I have made some changes in PR #17345. Please have a look",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "PR <a target=\"_blank\" data-link-type=\"issue\" data-issue=\"17345\" class=\"issue\">#17345</a> is now ready for review with only the documentation part remaining. Please have a look",
+  "id": "5d4f07da1db76d0ffeabfd21",
+  "issues": [
+   {
+    "number": "17345"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-10T18:07:22.849Z",
+  "text": "PR #17345 is now ready for review with only the documentation part remaining. Please have a look",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Sure!",
+  "id": "5d4f0830d03a7c63e60414fb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-10T18:08:48.871Z",
+  "text": "Sure!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/08/13/gsoc19-week-11-heading-to-the-final-week/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">link</a> to week 11 blog",
+  "id": "5d52f45c90bba62a126cf6e4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-13T17:33:16.716Z",
+  "text": "[link](https://ishanaj.wordpress.com/2019/08/13/gsoc19-week-11-heading-to-the-final-week/) to week 11 blog",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/08/13/gsoc19-week-11-heading-to-the-final-week/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "<a href=\"https://ishanaj.wordpress.com/2019/08/20/gsoc19-week-12-the-final-wrap-up/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">link</a> to week -12 blog",
+  "id": "5d5c2acdc8a85a44c234fb5f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-20T17:15:57.035Z",
+  "text": "[link](https://ishanaj.wordpress.com/2019/08/20/gsoc19-week-12-the-final-wrap-up/) to week -12 blog",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://ishanaj.wordpress.com/2019/08/20/gsoc19-week-12-the-final-wrap-up/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/ishanaj",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/29159034?v=4&s=60",
+   "displayName": "Ishan Joshi",
+   "gv": "4",
+   "id": "59686aedd73408ce4f6d1aeb",
+   "url": "/ishanaj",
+   "username": "ishanaj",
+   "v": 26
+  },
+  "html": "I have written the final report in a <a href=\"https://github.com/sympy/sympy/wiki/GSoC-2019-Final-Report-Ishan-Joshi:-Creating-a-rich-beam-solving-system-and-extending-continuum-mechanics-module\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">wiki page</a>.  I will also be adding it to the GSoC 2019 Report page. Please have a look.",
+  "id": "5d618e60dbf5ae2d42bab09c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-24T19:22:08.833Z",
+  "text": "I have written the final report in a [wiki page](https://github.com/sympy/sympy/wiki/GSoC-2019-Final-Report-Ishan-Joshi:-Creating-a-rich-beam-solving-system-and-extending-continuum-mechanics-module).  I will also be adding it to the GSoC 2019 Report page. Please have a look.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/wiki/GSoC-2019-Final-Report-Ishan-Joshi:-Creating-a-rich-beam-solving-system-and-extending-continuum-mechanics-module"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/jashan498",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31389737?v=4&s=60",
+   "displayName": "Jashanpreet Singh",
+   "gv": "4",
+   "id": "59f9f3d5d73408ce4f7cb499",
+   "url": "/jashan498",
+   "username": "jashan498",
+   "v": 20
+  },
+  "html": "Looking great!",
+  "id": "5d61a922a498b672378d6b6a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-24T21:16:18.760Z",
+  "text": "Looking great!",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

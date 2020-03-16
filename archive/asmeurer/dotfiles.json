@@ -100,5 +100,28 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/g/u/asmeurer_gitlab",
+   "avatarUrlMedium": "https://secure.gravatar.com/avatar/0383e4cae325f65a1bbd906be4be2276?s=128&d=identicon",
+   "avatarUrlSmall": "https://secure.gravatar.com/avatar/0383e4cae325f65a1bbd906be4be2276?s=60&d=identicon",
+   "displayName": "Aaron Meurer",
+   "id": "5cd32319d73408ce4fbfc00a",
+   "url": "/asmeurer_gitlab",
+   "username": "asmeurer_gitlab",
+   "v": 1
+  },
+  "html": "<span class=\"katex\"><span class=\"katex-mathml\"><math><semantics><mrow><mi>sin</mi><mo>\u2061</mo><mi>x</mi></mrow><annotation encoding=\"application/x-tex\">\\sin{x}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.66786em;vertical-align:0em;\"></span><span class=\"mop\">sin</span><span class=\"mspace\" style=\"margin-right:0.16666666666666666em;\"></span><span class=\"mord\"><span class=\"mord mathdefault\">x</span></span></span></span></span>",
+  "id": "5cfa95b6e41fe15e752b77c4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-06-07T16:49:58.272Z",
+  "text": "$$\\sin{x}$$",
+  "unread": false,
+  "urls": [],
+  "v": 1
  }
 ]

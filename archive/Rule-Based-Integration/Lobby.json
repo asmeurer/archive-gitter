@@ -32189,5 +32189,818 @@
   "unread": false,
   "urls": [],
   "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 78
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> Someone sent me this comparison, where a change from <code>+</code> to <code>-</code> makes all the difference between Rubi can and cannot integrate it.",
+  "id": "5d239c62cdb70805c95f2c34",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-08T19:41:22.163Z",
+  "text": "@AlbertRich Someone sent me this comparison, where a change from `+` to `-` makes all the difference between Rubi can and cannot integrate it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 78
+  },
+  "html": "<a href=\"https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/integrals.png\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\"><img src=\"https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/thumb/integrals.png\" alt=\"integrals.png\" rel=\"nofollow\"></a>",
+  "id": "5d239c71f5dd1457424dab68",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-08T19:41:37.666Z",
+  "text": "[![integrals.png](https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/thumb/integrals.png)](https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/integrals.png)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/thumb/integrals.png"
+   },
+   {
+    "url": "https://files.gitter.im/Rule-Based-Integration/Lobby/jQs1/integrals.png"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 78
+  },
+  "html": "Do you thing you can do something about this?",
+  "id": "5d239c86acab0914d8d1d044",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-08T19:41:58.609Z",
+  "text": "Do you thing you can do something about this?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-09T01:05:02.279Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"halirutan\" class=\"mention\">@halirutan</span> Thanks for pointing out this pattern matching problem.  Rubi can integrate</p><pre><code class=\"mma\">(<span class=\"number\">2</span> - <span class=\"number\">5</span>*x^<span class=\"number\">3</span>)/(<span class=\"keyword\">Sqrt</span>[<span class=\"number\">1</span> - x^<span class=\"number\">3</span>]*(<span class=\"number\">1</span> + x^<span class=\"number\">2</span>*(<span class=\"number\">1</span> - x^<span class=\"number\">3</span>)))</code></pre><p>but not the equivalent expanded form</p><pre><code class=\"mma\">(<span class=\"number\">2</span> - <span class=\"number\">5</span>*x^<span class=\"number\">3</span>)/(<span class=\"keyword\">Sqrt</span>[<span class=\"number\">1</span> - x^<span class=\"number\">3</span>]*(<span class=\"number\">1</span> + x^<span class=\"number\">2</span> - x^<span class=\"number\">5</span>))</code></pre><p>I will add it to Rubi&#39;s deficiency list.</p>",
+  "id": "5d23e7dd0c8daa1686ae7094",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "halirutan",
+    "userId": "5904ae3bd73408ce4f5bd822",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-09T01:03:25.546Z",
+  "text": "@halirutan Thanks for pointing out this pattern matching problem.  Rubi can integrate\n```mma\n(2 - 5*x^3)/(Sqrt[1 - x^3]*(1 + x^2*(1 - x^3)))\n```\nbut not the equivalent expanded form\n```mma\n(2 - 5*x^3)/(Sqrt[1 - x^3]*(1 + x^2 - x^5))\n```\nI will add it to Rubi's deficiency list.",
+  "unread": false,
+  "urls": [],
+  "v": 4
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 78
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"AlbertRich\" class=\"mention\">@AlbertRich</span> Thanks",
+  "id": "5d23eea2f867ec1687d578cf",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "AlbertRich",
+    "userId": "5b107c24d73408ce4f9b7489",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-09T01:32:18.700Z",
+  "text": "@AlbertRich Thanks",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-09T01:50:43.852Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"halirutan\" class=\"mention\">@halirutan</span> You&#39;re welcome.  As I pointed out in my response to Rubi Issue 11 and 14, it is quite easy using differentiation to generate integration problems that any symbolic integrator, including Rubi, cannot get.",
+  "id": "5d23f13cb0027d2b199a7b38",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "halirutan",
+    "userId": "5904ae3bd73408ce4f5bd822",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-09T01:43:24.669Z",
+  "text": "@halirutan You're welcome.  As I pointed out in my response to Rubi Issue 11 and 14, it is quite easy using differentiation to generate integration problems that any symbolic integrator, including Rubi, cannot get.",
+  "unread": false,
+  "urls": [],
+  "v": 7
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "Note that for both forms of the above integrals, Mathematica 11.3 returns a multipage &quot;wall paper&quot; result.  Maple 2018 returns the integral unevaluated.",
+  "id": "5d23f14cf5dd1457424fc1db",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-07-09T01:43:40.194Z",
+  "text": "Note that for both forms of the above integrals, Mathematica 11.3 returns a multipage \"wall paper\" result.  Maple 2018 returns the integral unevaluated.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-10-12T08:29:33.952Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nasser1",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=60",
+   "displayName": "Nasser M. Abbasi",
+   "gv": "4",
+   "id": "5b15513dd73408ce4f9bd9c0",
+   "url": "/nasser1",
+   "username": "nasser1",
+   "v": 75
+  },
+  "html": "<p>Rubi experts. Is there an easy way to extract the rubi Rule from the output of <code>DownValues[Int][[ruleNumber]]</code> in  a way that I can easily use it in the report I am making? For example</p><pre><code>     &lt;&lt;Rubi`\n    DownValues[Int]<span class=\"string\">[[30]]</span>;\n    InputForm[%]</code></pre><p>gives</p><pre><code>      <span class=\"type\">HoldPattern</span>[<span class=\"type\">Int</span>[(<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`x_)^(<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`m_.), \n      <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`x_Symbol]] :&gt; \n      <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span><span class=\"tag\">`ShowStep</span>[<span class=\"number\">30</span>, <span class=\"string\">\"If \\!\\(\\*RowBox[{\\\"NeQ\\\", \\\"[\\\", RowBox[{\\\"m\\\", \\\",\\\", \n      RowBox[{\\\"-\\\", \\\"1\\\"}]}], \\\"]\\\"}]\\)\"</span>, <span class=\"string\">\"Integrate[(x)^(m), x]\"</span>, \n       <span class=\"string\">\"x^(m + 1)/(m + 1)\"</span>, <span class=\"type\">Hold</span>[<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span><span class=\"tag\">`Simp</span>[<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`x^(<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`m \n       + <span class=\"number\">1</span>)/(<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`m + <span class=\"number\">1</span>), <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`x]]] /; \n         <span class=\"type\">FreeQ</span>[<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`m, <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`x] &amp;&amp; \n         <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span><span class=\"tag\">`NeQ</span>[<span class=\"type\">Rubi</span><span class=\"tag\">`Private</span>`m, -<span class=\"number\">1</span>] /; <span class=\"type\">Rubi</span><span class=\"tag\">`Private</span><span class=\"tag\">`SimplifyFlag</span></code></pre><p>All what I want really is just the parts </p><pre><code>      <span class=\"string\">\"Integrate[(x)^(m), x]\"</span>  <span class=\"keyword\">and</span> <span class=\"string\">\"x^(m + 1)/(m + 1)\"</span>  </code></pre><p>since that is what would be the useful part for the readers.  Then in Latex, I would put the above as  something like </p><pre><code>       Integrate[(x)^(m), x]  ----- <span class=\"number\">30</span> -----&gt;  x^(m + <span class=\"number\">1</span>)/(m + <span class=\"number\">1</span>)</code></pre><p>The idea is that I want to show the rules below the result, but in a easy way to read them.<br>thanks</p>",
+  "id": "5da18e28c87a1d28ac9678b6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-10-12T08:26:16.471Z",
+  "text": "Rubi experts. Is there an easy way to extract the rubi Rule from the output of `DownValues[Int][[ruleNumber]]` in  a way that I can easily use it in the report I am making? For example\n\n         <<Rubi`\n        DownValues[Int][[30]];\n        InputForm[%]\n\ngives\n\n          HoldPattern[Int[(Rubi`Private`x_)^(Rubi`Private`m_.), \n          Rubi`Private`x_Symbol]] :> \n          Rubi`Private`ShowStep[30, \"If \\!\\(\\*RowBox[{\\\"NeQ\\\", \\\"[\\\", RowBox[{\\\"m\\\", \\\",\\\", \n          RowBox[{\\\"-\\\", \\\"1\\\"}]}], \\\"]\\\"}]\\)\", \"Integrate[(x)^(m), x]\", \n           \"x^(m + 1)/(m + 1)\", Hold[Rubi`Private`Simp[Rubi`Private`x^(Rubi`Private`m \n           + 1)/(Rubi`Private`m + 1), Rubi`Private`x]]] /; \n             FreeQ[Rubi`Private`m, Rubi`Private`x] && \n             Rubi`Private`NeQ[Rubi`Private`m, -1] /; Rubi`Private`SimplifyFlag\n\nAll what I want really is just the parts \n\n          \"Integrate[(x)^(m), x]\"  and \"x^(m + 1)/(m + 1)\"  \n\nsince that is what would be the useful part for the readers.  Then in Latex, I would put the above as  something like \n\n           Integrate[(x)^(m), x]  ----- 30 ----->  x^(m + 1)/(m + 1)\n\nThe idea is that I want to show the rules below the result, but in a easy way to read them. \nthanks\n\n",
+  "unread": false,
+  "urls": [],
+  "v": 5
+ },
+ {
+  "editedAt": "2019-10-12T18:52:06.993Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nasser1",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=60",
+   "displayName": "Nasser M. Abbasi",
+   "gv": "4",
+   "id": "5b15513dd73408ce4f9bd9c0",
+   "url": "/nasser1",
+   "username": "nasser1",
+   "v": 75
+  },
+  "html": "<p>I needed to add small note on last message I wrote. The software I am using in current build is </p><pre><code>    Mathematica <span class=\"number\">12</span> (<span class=\"number\">64</span> bit).\n    Rubi <span class=\"number\">4.16</span><span class=\"number\">.1</span> in Mathematica <span class=\"number\">12.</span>\n    Maple <span class=\"number\">2019.1</span> (<span class=\"number\">64</span> bit)\n    Maxima <span class=\"number\">5.43</span>\n    Fricas <span class=\"number\">1.3</span><span class=\"number\">.5</span>.\n    Sympy <span class=\"number\">1.4</span> under Python <span class=\"number\">3.7</span><span class=\"number\">.3</span> <span class=\"keyword\">using</span> Anaconda distribution.\n    Giac/Xcas <span class=\"number\">1.5</span>.\n    SageMath version <span class=\"number\">8.8</span></code></pre><p>I am not using Rubi_in_sympy in this build, since that would require waiting for sympy 1.5 and I am not sure when that will be released. That is why it is not listed above. Rubi_in_sympy does not work in Sympy 1.4 due to a small bug. Hopefully this will be fixed in sympy 1.5 and if so, will add it then.</p>",
+  "id": "5da220bb80e62056e4f1f55d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-10-12T18:51:39.652Z",
+  "text": "I needed to add small note on last message I wrote. The software I am using in current build is \n\n        Mathematica 12 (64 bit).\n        Rubi 4.16.1 in Mathematica 12.\n        Maple 2019.1 (64 bit)\n        Maxima 5.43\n        Fricas 1.3.5.\n        Sympy 1.4 under Python 3.7.3 using Anaconda distribution.\n        Giac/Xcas 1.5.\n        SageMath version 8.8\n\nI am not using Rubi_in_sympy in this build, since that would require waiting for sympy 1.5 and I am not sure when that will be released. That is why it is not listed above. Rubi_in_sympy does not work in Sympy 1.4 due to a small bug. Hopefully this will be fixed in sympy 1.5 and if so, will add it then.\n",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "editedAt": "2019-10-12T22:07:02.645Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nasser1",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=60",
+   "displayName": "Nasser M. Abbasi",
+   "gv": "4",
+   "id": "5b15513dd73408ce4f9bd9c0",
+   "url": "/nasser1",
+   "username": "nasser1",
+   "v": 75
+  },
+  "html": "<p>To answer myself on my question above. I think I have to run Rubi again to get the steps. This is what I actually did in version 4.5. </p><p>So in V 4.16.1, I would do this</p><pre><code>   <span class=\"comment\">{stats, result}</span> = Stats[Int[( ......] <span class=\"comment\">(*to get result and stats*)</span>\n   steps=Steps[Int[....]  <span class=\"comment\">(*to get the steps,  with rules numbers*)</span></code></pre><p>It would be nice, if there was a way to just obtain back a specific rule given its rule number. Since stats already return the rule numbers used</p><pre><code>     <span class=\"atom\">stats</span>[<span class=\"string\">\"Rules\"</span>]</code></pre><p>Gives list of rule numbers used, but without having to actually integrate again the same integrand. But this is no problem, I&#39;ll run Rubi twice, the second time just to obtain the actual rules/steps used. </p><p>Rubi runs fast, so it is OK for now to do this.</p>",
+  "id": "5da24dd1870fa33a4de00576",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-10-12T22:04:01.117Z",
+  "text": "To answer myself on my question above. I think I have to run Rubi again to get the steps. This is what I actually did in version 4.5. \n\nSo in V 4.16.1, I would do this\n\n       {stats, result} = Stats[Int[( ......] (*to get result and stats*)\n       steps=Steps[Int[....]  (*to get the steps,  with rules numbers*)\n\nIt would be nice, if there was a way to just obtain back a specific rule given its rule number. Since stats already return the rule numbers used\n\n         stats[\"Rules\"]\n\nGives list of rule numbers used, but without having to actually integrate again the same integrand. But this is no problem, I'll run Rubi twice, the second time just to obtain the actual rules/steps used. \n\nRubi runs fast, so it is OK for now to do this.",
+  "unread": false,
+  "urls": [],
+  "v": 4
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"nasser1\" class=\"mention\">@nasser1</span> To get the raw rules using <code>DownValues</code> without the ShowStep wrapper, build Rubi with the control variable <code>$LoadShowSteps</code> set to False during the load as follows:</p><pre><code class=\"mma\">$LoadShowSteps = <span class=\"keyword\">False</span>;\n<span class=\"keyword\">Get</span>[<span class=\"string\">\"Rubi`\"</span>]\n<span class=\"keyword\">BeginPackage</span>[<span class=\"string\">\"Rubi`\"</span>];\n<span class=\"keyword\">Begin</span>[<span class=\"string\">\"`Private`\"</span>];\n<span class=\"keyword\">DownValues</span>[Int][[<span class=\"number\">30</span>]]//<span class=\"keyword\">InputForm</span></code></pre><p>which should then display</p><pre><code class=\"mma\"><span class=\"keyword\">HoldPattern</span>[Int[(x_)^(m_.), x_Symbol]] :&gt; Simp[x^(m + <span class=\"number\">1</span>)/(m + <span class=\"number\">1</span>), x] /; <span class=\"keyword\">FreeQ</span>[m, x] &amp;&amp; NeQ[m, -<span class=\"number\">1</span>]</code></pre>",
+  "id": "5da4347c4afd703a4ed8e95a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nasser1",
+    "userId": "5b15513dd73408ce4f9bd9c0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-10-14T08:40:28.154Z",
+  "text": "@nasser1 To get the raw rules using `DownValues` without the ShowStep wrapper, build Rubi with the control variable `$LoadShowSteps` set to False during the load as follows:\n```mma\n$LoadShowSteps = False;\nGet[\"Rubi`\"]\nBeginPackage[\"Rubi`\"];\nBegin[\"`Private`\"];\nDownValues[Int][[30]]//InputForm\n```\nwhich should then display\n```mma\nHoldPattern[Int[(x_)^(m_.), x_Symbol]] :> Simp[x^(m + 1)/(m + 1), x] /; FreeQ[m, x] && NeQ[m, -1]\n```\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<code>$LoadShowSteps</code> is described at the end of the &quot;Using Rubi&quot; instructions on Rubi&#39;s GitHub website.",
+  "id": "5da434f3809de9699f356969",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2019-10-14T08:42:27.486Z",
+  "text": "`$LoadShowSteps` is described at the end of the \"Using Rubi\" instructions on Rubi's GitHub website.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/nasser1",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/15114517?v=4&s=60",
+   "displayName": "Nasser M. Abbasi",
+   "gv": "4",
+   "id": "5b15513dd73408ce4f9bd9c0",
+   "url": "/nasser1",
+   "username": "nasser1",
+   "v": 75
+  },
+  "html": "Hi; FYI. The data input files for Maple in version 4.16.1 is missing one file compared to Mathematica. Under the folder  &quot;7 Inverse hyperbolic functions\\7.2 Inverse hyperbolic cosine&quot;  Maple has only 3 files, while Mathematica has 4 files.  The extra file is &quot;d+e_x-^p-d+e_x-^q-a+b_arccosh-c_x-^n.m&quot; which do not exist in Maple input zip file.  If this file is available for Maple I can add it. If not, I will remove the extra file from Mathematica, since the same number of files is needed for both.<br>Thanks,",
+  "id": "5dd22215eeb63e1a83d29f88",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-11-18T04:46:13.565Z",
+  "text": "Hi; FYI. The data input files for Maple in version 4.16.1 is missing one file compared to Mathematica. Under the folder  \"7 Inverse hyperbolic functions\\7.2 Inverse hyperbolic cosine\"  Maple has only 3 files, while Mathematica has 4 files.  The extra file is \"d+e_x-^p-d+e_x-^q-a+b_arccosh-c_x-^n.m\" which do not exist in Maple input zip file.  If this file is available for Maple I can add it. If not, I will remove the extra file from Mathematica, since the same number of files is needed for both. \nThanks,",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"nasser1\" class=\"mention\">@nasser1</span> Thanks for reporting.  Just delete the extra file from the Mathematica directory.  It was a temporary work file I forgot to delete before I built the Mathematica zip file.",
+  "id": "5dd24f55fd6fe41fc0a58082",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nasser1",
+    "userId": "5b15513dd73408ce4f9bd9c0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2019-11-18T07:59:17.804Z",
+  "text": "@nasser1 Thanks for reporting.  Just delete the extra file from the Mathematica directory.  It was a temporary work file I forgot to delete before I built the Mathematica zip file.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/szhorvat",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=60",
+   "displayName": "Szabolcs Horv\u00e1t",
+   "gv": "4",
+   "id": "547e2ff5db8155e6700daa4d",
+   "url": "/szhorvat",
+   "username": "szhorvat",
+   "v": 9
+  },
+  "html": "This is being discussed a lot now. Disappointing that it doesn\u2019t refer to RUBI",
+  "id": "5dfbb0309775c403592076ce",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-19T17:15:28.973Z",
+  "text": "This is being discussed a lot now. Disappointing that it doesn\u2019t refer to RUBI",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/szhorvat",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=60",
+   "displayName": "Szabolcs Horv\u00e1t",
+   "gv": "4",
+   "id": "547e2ff5db8155e6700daa4d",
+   "url": "/szhorvat",
+   "username": "szhorvat",
+   "v": 9
+  },
+  "html": "<a href=\"https://arxiv.org/abs/1912.01412\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://arxiv.org/abs/1912.01412</a>",
+  "id": "5dfbb03c9775c403592076d2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-19T17:15:40.381Z",
+  "text": "https://arxiv.org/abs/1912.01412",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://arxiv.org/abs/1912.01412"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<p><span data-link-type=\"mention\" data-screen-name=\"szhorvat\" class=\"mention\">@szhorvat</span>  Yikes!!!  Many people are in danger of losing their jobs due to computer automation, but I never figured implementers of computer algebra systems had anything to worry about...</p><p>Seriously, if &quot;deep learning&quot; neural networks are to compete with human programmers, they will need to derive the recurrence relations necessary to reduce integrands to forms for which there are terminal rules.  It should be relatively easy for neural networks to learn terminal integration rules from Rubi\u2019s test suite since it explicitly includes examples of them in their most general form.</p><p>However, deriving the necessary recurrence relations from the test suite will be much harder since they can only be inferred implicitly by reverse engineering problems that have used them.  Also, which recurrence to use when multiple recurrences could be applied to a given integrand is an even more difficult problem.</p><p>Instead of trying to derive the recurrences from Rubi\u2019s test suite, seems like it would be a lot easier for neural networks to just lift them directly from Rubi\u2019s freely available source code where they are explicitly provided in both human- and machine-readable form...</p><p>Albert</p>",
+  "id": "5dfddec1260751301ce5c0f7",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "szhorvat",
+    "userId": "547e2ff5db8155e6700daa4d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-21T08:58:41.974Z",
+  "text": "@szhorvat  Yikes!!!  Many people are in danger of losing their jobs due to computer automation, but I never figured implementers of computer algebra systems had anything to worry about...\n\nSeriously, if \"deep learning\" neural networks are to compete with human programmers, they will need to derive the recurrence relations necessary to reduce integrands to forms for which there are terminal rules.  It should be relatively easy for neural networks to learn terminal integration rules from Rubi\u2019s test suite since it explicitly includes examples of them in their most general form.\n\nHowever, deriving the necessary recurrence relations from the test suite will be much harder since they can only be inferred implicitly by reverse engineering problems that have used them.  Also, which recurrence to use when multiple recurrences could be applied to a given integrand is an even more difficult problem.\n\nInstead of trying to derive the recurrences from Rubi\u2019s test suite, seems like it would be a lot easier for neural networks to just lift them directly from Rubi\u2019s freely available source code where they are explicitly provided in both human- and machine-readable form...\n\nAlbert",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/szhorvat",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=60",
+   "displayName": "Szabolcs Horv\u00e1t",
+   "gv": "4",
+   "id": "547e2ff5db8155e6700daa4d",
+   "url": "/szhorvat",
+   "username": "szhorvat",
+   "v": 9
+  },
+  "html": "I only skimmed it briefly, but it seems like real progress. No doubt there are many integrals it can solve that either <code>Integrate</code> or RUBI cannot. Someone mentioned one here: <a href=\"https://mathematica.stackexchange.com/q/211701/12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://mathematica.stackexchange.com/q/211701/12</a>",
+  "id": "5dfdf1feb1701e50ca5fd206",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-21T10:20:46.723Z",
+  "text": "I only skimmed it briefly, but it seems like real progress. No doubt there are many integrals it can solve that either `Integrate` or RUBI cannot. Someone mentioned one here: https://mathematica.stackexchange.com/q/211701/12",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://mathematica.stackexchange.com/q/211701/12"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-12-21T10:26:19.248Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/szhorvat",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=60",
+   "displayName": "Szabolcs Horv\u00e1t",
+   "gv": "4",
+   "id": "547e2ff5db8155e6700daa4d",
+   "url": "/szhorvat",
+   "username": "szhorvat",
+   "v": 9
+  },
+  "html": "But I wonder how well it would do on an independent test suite like <span data-link-type=\"mention\" data-screen-name=\"nasser1\" class=\"mention\">@nasser1</span>&#39;s (which is likely to contain many examples different from anything it was trained on)",
+  "id": "5dfdf20e8897197969d30a8a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "nasser1",
+    "userId": "5b15513dd73408ce4f9bd9c0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-21T10:21:02.358Z",
+  "text": "But I wonder how well it would do on an independent test suite like @nasser1's (which is likely to contain many examples different from anything it was trained on)",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/halirutan",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/511683?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/511683?v=4&s=60",
+   "displayName": "Patrick Scheibe",
+   "gv": "4",
+   "id": "5904ae3bd73408ce4f5bd822",
+   "url": "/halirutan",
+   "username": "halirutan",
+   "v": 78
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"szhorvat\" class=\"mention\">@szhorvat</span> Nasser uses the Rubi test-suite afaik. The hard work he is doing is to run it through all available systems to get a comparison between CAS",
+  "id": "5dfe681a49314a1d45b91241",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "szhorvat",
+    "userId": "547e2ff5db8155e6700daa4d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-21T18:44:42.288Z",
+  "text": "@szhorvat Nasser uses the Rubi test-suite afaik. The hard work he is doing is to run it through all available systems to get a comparison between CAS",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/szhorvat",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1212871?v=4&s=60",
+   "displayName": "Szabolcs Horv\u00e1t",
+   "gv": "4",
+   "id": "547e2ff5db8155e6700daa4d",
+   "url": "/szhorvat",
+   "username": "szhorvat",
+   "v": 9
+  },
+  "html": "I&#39;m sorry, I stand corrected.",
+  "id": "5dfe8b248897197969d6d2da",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-21T21:14:12.350Z",
+  "text": "I'm sorry, I stand corrected.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Anixx",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=60",
+   "displayName": "Anixx",
+   "gv": "4",
+   "id": "5e03bc13d73408ce4fd5055f",
+   "url": "/Anixx",
+   "username": "Anixx",
+   "v": 1
+  },
+  "html": "Hello! I think Rubi is a great undertaking and want to suggest an idea. In my applications it is important to select the integration constant for anti-derivatives in a natural way rather than based on simplicity of expression. We call it &quot;natural integral&quot;. Natural integral can be defined as Newton series interpolation over consecutive derivatives evaluated at -1. In other words, it is unique anti-derivative which continues the sequence of consecutive derivatives. Often it is difficult to find the desired natural integration constant. For simple functions such as exp x and cos x the natural integrals are exp x and sin x respectively, but for other functions this can be not so evident. Please look at this post which includes 3 proposed definitions of natural integral: <a href=\"https://mathoverflow.net/questions/346741/prove-the-following-property-about-natural-integral\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://mathoverflow.net/questions/346741/prove-the-following-property-about-natural-integral</a>",
+  "id": "5e03be1c8dfce538b50a8647",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-25T19:53:00.858Z",
+  "text": "Hello! I think Rubi is a great undertaking and want to suggest an idea. In my applications it is important to select the integration constant for anti-derivatives in a natural way rather than based on simplicity of expression. We call it \"natural integral\". Natural integral can be defined as Newton series interpolation over consecutive derivatives evaluated at -1. In other words, it is unique anti-derivative which continues the sequence of consecutive derivatives. Often it is difficult to find the desired natural integration constant. For simple functions such as exp x and cos x the natural integrals are exp x and sin x respectively, but for other functions this can be not so evident. Please look at this post which includes 3 proposed definitions of natural integral: https://mathoverflow.net/questions/346741/prove-the-following-property-about-natural-integral",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://mathoverflow.net/questions/346741/prove-the-following-property-about-natural-integral"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Anixx",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=60",
+   "displayName": "Anixx",
+   "gv": "4",
+   "id": "5e03bc13d73408ce4fd5055f",
+   "url": "/Anixx",
+   "username": "Anixx",
+   "v": 1
+  },
+  "html": "To clarify, I suggest there could be an option to produce the natural anti-derivative instead of what can be seen as simpler expression.",
+  "id": "5e03be62c5a23938b47f1da0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-25T19:54:10.667Z",
+  "text": "To clarify, I suggest there could be an option to produce the natural anti-derivative instead of what can be seen as simpler expression.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Anixx",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1271736?v=4&s=60",
+   "displayName": "Anixx",
+   "gv": "4",
+   "id": "5e03bc13d73408ce4fd5055f",
+   "url": "/Anixx",
+   "username": "Anixx",
+   "v": 1
+  },
+  "html": "Also, a question, are you planning to add the ability of discrete integration (finding indefinite sums)?",
+  "id": "5e03c2f849314a1d45dc0cc5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2019-12-25T20:13:44.107Z",
+  "text": "Also, a question, are you planning to add the ability of discrete integration (finding indefinite sums)?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Anixx\" class=\"mention\">@Anixx</span> Thanks for your positive comment about Rubi.  My time is maxed-out just trying to get Rubi to produce optimal antiderivatives for the classes of integrands advertised that it can handle.",
+  "id": "5e0fb9daf6ee9c3e8effd15b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Anixx",
+    "userId": "5e03bc13d73408ce4fd5055f",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-01-03T22:02:02.707Z",
+  "text": "@Anixx Thanks for your positive comment about Rubi.  My time is maxed-out just trying to get Rubi to produce optimal antiderivatives for the classes of integrands advertised that it can handle.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "Rubi is an open source, freely available system.  I invite you to modify its terminal rules to generate &quot;natural&quot; antiderivatives and to make public the resulting <em>Natural Rubi</em>.  Also a rule-based discrete integrator that produced antidifferences would be a great project for someone knowledgable in the field...",
+  "id": "5e0fb9dfc23234403cc3ee27",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-01-03T22:02:07.732Z",
+  "text": "Rubi is an open source, freely available system.  I invite you to modify its terminal rules to generate \"natural\" antiderivatives and to make public the resulting *Natural Rubi*.  Also a rule-based discrete integrator that produced antidifferences would be a great project for someone knowledgable in the field...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/g/u/V_Bondarenko_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/1133757593/HNF-01.jpg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/1133757593/HNF-01_bigger.jpg",
+   "displayName": "Vladimir Bondarenko",
+   "id": "5e16e235d73408ce4fd6273d",
+   "url": "/V_Bondarenko_twitter",
+   "username": "V_Bondarenko_twitter"
+  },
+  "html": "<p>Hello Albert,</p><p>On Dec 31, I sent you a message about Rubi at your usual msn.com address . I wonder if you received it? Best wishes, Vladimir</p>",
+  "id": "5e28b81a69a7b51d4d6464b5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2020-01-22T21:01:14.309Z",
+  "text": "Hello Albert,\n\nOn Dec 31, I sent you a message about Rubi at your usual msn.com address . I wonder if you received it? Best wishes, Vladimir",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/sedram",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/54665381?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/54665381?v=4&s=60",
+   "displayName": "sedram",
+   "gv": "4",
+   "id": "5e36d07bd73408ce4fd876ee",
+   "url": "/sedram",
+   "username": "sedram",
+   "v": 1
+  },
+  "html": "Is there a limit to how long I should wait for Rubi to try on a complicated integral? It&#39;s been ~14 hours so far, but maybe people have had success on things after 2 days or something.",
+  "id": "5e36d0d2bfe65274ead6321d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2020-02-02T13:38:26.122Z",
+  "text": "Is there a limit to how long I should wait for Rubi to try on a complicated integral? It's been ~14 hours so far, but maybe people have had success on things after 2 days or something.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"sedram\" class=\"mention\">@sedram</span> Probably best to shut her down.  If Rubi is unable to integrate an expression in less than 10 minutes, she probably never will.",
+  "id": "5e38898bfe0e6f74e9fd946e",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "sedram",
+    "userId": "5e36d07bd73408ce4fd876ee",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-02-03T20:58:51.446Z",
+  "text": "@sedram Probably best to shut her down.  If Rubi is unable to integrate an expression in less than 10 minutes, she probably never will.\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/AlbertRich",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/30192718?v=4&s=60",
+   "displayName": "Albert D. Rich",
+   "gv": "4",
+   "id": "5b107c24d73408ce4f9b7489",
+   "url": "/AlbertRich",
+   "username": "AlbertRich",
+   "v": 13
+  },
+  "html": "If you think the problem is integrable <em>and</em> in the class of expressions Rubi is designed to integrate, you can post it here or open an issue at <a href=\"https://github.com/RuleBasedIntegration/Rubi/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link \">https://github.com/RuleBasedIntegration/Rubi/issues</a>.",
+  "id": "5e3889ae40da694c5e06adb5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2020-02-03T20:59:26.871Z",
+  "text": "If you think the problem is integrable *and* in the class of expressions Rubi is designed to integrate, you can post it here or open an issue at https://github.com/RuleBasedIntegration/Rubi/issues.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/RuleBasedIntegration/Rubi/issues"
+   }
+  ],
+  "v": 1
  }
 ]

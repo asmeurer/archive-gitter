@@ -1,0 +1,1067 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Blog post week 1 link",
+  "id": "5cf44cd6e41fe15e750050d6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-02T22:25:26.716Z",
+  "text": "Blog post week 1 link",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://jmig5776.github.io//gsoc-week-1</a>",
+  "id": "5cf44cd9702b7e5e761b8945",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-02T22:25:29.470Z",
+  "text": "https://jmig5776.github.io//gsoc-week-1",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-1"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-06-03T20:53:52.210Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/aktech",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=60",
+   "displayName": "Amit Kumar",
+   "gv": "4",
+   "id": "544e25dcdb8155e6700cebf6",
+   "url": "/aktech",
+   "username": "aktech",
+   "v": 56
+  },
+  "html": "<p>Let&#39;s use this for all of our conversations:</p><blockquote>\n<p>Here is my last mail:</p></blockquote>\n<p>Hi Jogi,</p><p>I just went through your blog and I don&#39;t follow the text on the scanned notebook after first page it&#39;s a bit hard to read. Also please don&#39;t make the assumption that you have answered the problems, please write each question and answer them like this:</p><ul>\n<li><p>What solutions are missed?<br>Your answer ....</p></li>\n<li><p>What type of lambert type equation it is for?</p></li>\n<li>Your answer ...</li>\n</ul>\n<p>and so on ...</p><p>Secondly, that explanation is not just for me or Yathartha or Shekhar, imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic. The documentation must be easily readable and understandable for everyone. At some point that needs to go to SymPy wiki and to the function documentation. Solvers is already a mess due to specific heuristics, which a lot of people don&#39;t understand and or just the people who wrote some bits understand some bits and we would not like to go anything in it until we are 100% sure that its correct to the best of our knowledge and extremely easy to contribute and extend.</p><p>Another feedback:<br>Don&#39;t just follow what we say blindly, think about the reasoning and motivation behind each and every sentence and then try to ask yourself and see if that makes sense, if it does, then go ahead otherwise cross question. You are quite early in your career and if you aspire to become a better engineer tomorrow, then get try to answer the &quot;what&quot;, &quot;why&quot; and &quot;how&quot; of everything you do.</p><p>-<br>Amit</p>",
+  "id": "5cf588c5f3a60a79a44b05e4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-03T20:53:25.252Z",
+  "text": "Let's use this for all of our conversations:\n\n> Here is my last mail:\n\nHi Jogi,\n\nI just went through your blog and I don't follow the text on the scanned notebook after first page it's a bit hard to read. Also please don't make the assumption that you have answered the problems, please write each question and answer them like this:\n\n- What solutions are missed?\n Your answer ....\n\n- What type of lambert type equation it is for?\n- Your answer ...\n\nand so on ...\n\nSecondly, that explanation is not just for me or Yathartha or Shekhar, imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic. The documentation must be easily readable and understandable for everyone. At some point that needs to go to SymPy wiki and to the function documentation. Solvers is already a mess due to specific heuristics, which a lot of people don't understand and or just the people who wrote some bits understand some bits and we would not like to go anything in it until we are 100% sure that its correct to the best of our knowledge and extremely easy to contribute and extend.\n\nAnother feedback:\nDon't just follow what we say blindly, think about the reasoning and motivation behind each and every sentence and then try to ask yourself and see if that makes sense, if it does, then go ahead otherwise cross question. You are quite early in your career and if you aspire to become a better engineer tomorrow, then get try to answer the \"what\", \"why\" and \"how\" of everything you do.\n\n-\nAmit",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Blog has been updated and  I will be rearranging the commits for your better readability.",
+  "id": "5cf5a1226f530d3b61305944",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-03T22:37:22.281Z",
+  "text": "Blog has been updated and  I will be rearranging the commits for your better readability.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-06-04T08:00:30.109Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/aktech",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=60",
+   "displayName": "Amit Kumar",
+   "gv": "4",
+   "id": "544e25dcdb8155e6700cebf6",
+   "url": "/aktech",
+   "username": "aktech",
+   "v": 56
+  },
+  "html": "<blockquote>\n<p>Blog has been updated and I will be rearranging the commits for your better readability.</p></blockquote>\n<p>Probably you didn&#39;t understood the motivation of my comment, it&#39;s not just for &quot;my&quot; better readability. Have a look at the email snippet above. I will have a look at your answers tonight, possibly.</p>",
+  "id": "5cf62464481ef4167bc93c9b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-04T07:57:24.594Z",
+  "text": "> Blog has been updated and I will be rearranging the commits for your better readability.\n\nProbably you didn't understood the motivation of my comment, it's not just for \"my\" better readability. Have a look at the email snippet above. I will have a look at your answers tonight, possibly.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Ohh apologies I meant for every person who might go through my PR.",
+  "id": "5cf652b6faac6439343a3c1c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-04T11:15:02.386Z",
+  "text": "Ohh apologies I meant for every person who might go through my PR.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-06-04T14:48:59.664Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/aktech",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/5647941?v=4&s=60",
+   "displayName": "Amit Kumar",
+   "gv": "4",
+   "id": "544e25dcdb8155e6700cebf6",
+   "url": "/aktech",
+   "username": "aktech",
+   "v": 56
+  },
+  "html": "<blockquote>\n<p>for every person who might go through my PR.</p></blockquote>\n<hr>\n<blockquote>\n<p>imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic.</p></blockquote>\n",
+  "id": "5cf684d36fc5846bab5f1446",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-04T14:48:51.647Z",
+  "text": "> for every person who might go through my PR.\n\n---\n> imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic.\n",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "editedAt": "2019-06-06T23:10:52.267Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<blockquote>\n<p>imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic.</p></blockquote>\n<p>I understand your point <span data-link-type=\"mention\" data-screen-name=\"aktech\" class=\"mention\">@aktech</span> I will surely keep that in my mind in future.</p><p>I had made a PR <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16976\" href=\"https://github.com/sympy/sympy/pull/16976\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16976</a> for handling modular equations. Please review it whenever you guys gets free.</p>",
+  "id": "5cf99d13e41fe15e7524b29b",
+  "issues": [
+   {
+    "number": "16976"
+   },
+   {
+    "number": "16976",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "aktech",
+    "userId": "544e25dcdb8155e6700cebf6",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-06T23:09:07.210Z",
+  "text": "> imagine someone looking at your code and reaching your blog post and trying to understand the text in the scanned documents for an attempt to contribute to SymPy or just trying to understand the logic.\n\nI understand your point @aktech I will surely keep that in my mind in future.\n\nI had made a PR [#16976](https://github.com/sympy/sympy/pull/16976) for handling modular equations. Please review it whenever you guys gets free.",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Gsoc week 2 blog - <a href=\"https://jmig5776.github.io//gsoc-week-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://jmig5776.github.io//gsoc-week-2</a>",
+  "id": "5cfd600765392c3b60e9bef3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T19:37:43.240Z",
+  "text": "Gsoc week 2 blog - https://jmig5776.github.io//gsoc-week-2",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-2"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-06-09T20:03:12.789Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<p>Actually I was facing two problems :</p><ol>\n<li><p>I tried to get list out the even degrees easily from the original equation. But  when I try to replace all the symbol<strong>even_number  from list to (-symbol)</strong>even_number. It then after by default converts to symbol**even_number by assumptions. Then I am thinking that I should replace the required symbol to another dummy variable. Is it ok?</p></li>\n<li><p>In this example  <code>solve((a/x + exp(x/2)).diff(x), x)</code> what I found that solve first tries to solve it directly without any assumption on x but it raises NotImplementedError and then solve tries again to solve it with assumption on x to be positive. And I also verified it explicitly that _solve_lambert failed to solve this equation without assuming x to be positive. Is it its natural nature or it is a problem? PS -  Not only this example but also these example gives solution only when x is assumed to be positive <code>x**2 - y**2/exp(x)</code>, <code>5*x - 1 + 3*exp(2 - 7*x)</code>, <code>(1/x + exp(x/2)).diff(x, 2)</code>. </p></li>\n</ol>\n",
+  "id": "5cfd64066fc5846bab8dc61a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T19:54:46.767Z",
+  "text": "Actually I was facing two problems :\n1. I tried to get list out the even degrees easily from the original equation. But  when I try to replace all the symbol**even_number  from list to (-symbol)**even_number. It then after by default converts to symbol**even_number by assumptions. Then I am thinking that I should replace the required symbol to another dummy variable. Is it ok?\n\n2. In this example  `solve((a/x + exp(x/2)).diff(x), x)` what I found that solve first tries to solve it directly without any assumption on x but it raises NotImplementedError and then solve tries again to solve it with assumption on x to be positive. And I also verified it explicitly that _solve_lambert failed to solve this equation without assuming x to be positive. Is it its natural nature or it is a problem? PS -  Not only this example but also these example gives solution only when x is assumed to be positive `x**2 - y**2/exp(x)`, `5*x - 1 + 3*exp(2 - 7*x)`, `(1/x + exp(x/2)).diff(x, 2)`. ",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "I had tried to solve the problem in _tsolve itself because i think the problem was in it. Please review the PR  <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16890\" href=\"https://github.com/sympy/sympy/pull/16890\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16890</a>",
+  "id": "5cfd863f702b7e5e765a1271",
+  "issues": [
+   {
+    "number": "16890"
+   },
+   {
+    "number": "16890",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-09T22:20:47.268Z",
+  "text": "I had tried to solve the problem in _tsolve itself because i think the problem was in it. Please review the PR  [#16890](https://github.com/sympy/sympy/pull/16890)\n",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "I will have a look.",
+  "id": "5cffbbfa60d8500457083ff1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-11T14:34:34.311Z",
+  "text": "I will have a look.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"Yathartha22\" class=\"mention\">@Yathartha22</span> Now the logic is been placed in bivariate. I was also in doubt earlier because <code>llhs = expand_log(log(lhs))</code> was blindsiding me by changing all the even degrees to log form there itself. ",
+  "id": "5d0022ee842cbb354cca2d87",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Yathartha22",
+    "userId": "57fb32f9d73408ce4f2d1266",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-11T21:53:50.161Z",
+  "text": "@Yathartha22 Now the logic is been placed in bivariate. I was also in doubt earlier because `llhs = expand_log(log(lhs))` was blindsiding me by changing all the even degrees to log form there itself. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "okay! I see.<br>I have left a few comments.",
+  "id": "5d00665713a19a0ae03ab404",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T02:41:27.674Z",
+  "text": "okay! I see.\nI have left a few comments.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Okay <span data-link-type=\"mention\" data-screen-name=\"Yathartha22\" class=\"mention\">@Yathartha22</span> I will be answering those soon",
+  "id": "5d00c9365656e6268b8670f8",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Yathartha22",
+    "userId": "57fb32f9d73408ce4f2d1266",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T09:43:18.455Z",
+  "text": "Okay @Yathartha22 I will be answering those soon",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Can anyone please tell me a way of how to avoid assumptions if we wanted (just out of curiosity)?",
+  "id": "5d00c977c7a8fc263a0cd9d3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T09:44:23.339Z",
+  "text": "Can anyone please tell me a way of how to avoid assumptions if we wanted (just out of curiosity)?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "What do you mean by &quot;avoiding assumptions&quot;?",
+  "id": "5d01161dc5386926f6d8c5c3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T15:11:25.884Z",
+  "text": "What do you mean by \"avoiding assumptions\"?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "I mean by this example in this <a href=\"https://github.com/sympy/sympy/pull/16890#discussion_r292879393\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">comment</a>",
+  "id": "5d014f1ac12fd52664f735d7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T19:14:34.404Z",
+  "text": "I mean by this example in this [comment](https://github.com/sympy/sympy/pull/16890#discussion_r292879393)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/pull/16890#discussion_r292879393"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Assumption of symbol to be positive in second pass from solve leads to <code>l.is_real</code> to be False.  Please help with the example in comment linked above.",
+  "id": "5d014f9e17fefb263b0c09eb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T19:16:46.442Z",
+  "text": "Assumption of symbol to be positive in second pass from solve leads to `l.is_real` to be False.  Please help with the example in comment linked above.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "I left some comments. Please review.",
+  "id": "5d017eb12f44e426f5936c60",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-12T22:37:37.893Z",
+  "text": "I left some comments. Please review.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "I don&#39;t think you can do something of this sort.",
+  "id": "5d025d3d8655842639f2d54a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-13T14:27:09.345Z",
+  "text": "I don't think you can do something of this sort.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Ohh okay.",
+  "id": "5d02bda1ee9dda0462a96841",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-13T21:18:25.714Z",
+  "text": "Ohh okay.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<code>degree_list(lhs, symbol)</code> raises this error <code>sympy.polys.polyerrors.PolynomialError: exp(2*_X0*I/x) contains an element of the set of generators.</code> I dont know how to fix this.",
+  "id": "5d06b2be26477710bbc137ff",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-16T21:21:02.493Z",
+  "text": "`degree_list(lhs, symbol)` raises this error `sympy.polys.polyerrors.PolynomialError: exp(2*_X0*I/x) contains an element of the set of generators.` I dont know how to fix this.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "Despite from above error the PR <a target=\"_blank\" data-link-type=\"pr\" data-issue=\"16890\" href=\"https://github.com/sympy/sympy/pull/16890\" data-provider=\"github\" data-issue-repo=\"sympy/sympy\" class=\"pr\">sympy/sympy#16890</a> is ready for review.",
+  "id": "5d06bdb34e8f972d37305280",
+  "issues": [
+   {
+    "number": "16890"
+   },
+   {
+    "number": "16890",
+    "repo": "sympy/sympy"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-16T22:07:47.918Z",
+  "text": "Despite from above error the PR [#16890](https://github.com/sympy/sympy/pull/16890) is ready for review.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 3 blog</a> ",
+  "id": "5d0a8694faf70031f9517295",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-19T19:01:40.073Z",
+  "text": "[Week 3 blog](https://jmig5776.github.io//gsoc-week-3) ",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-3"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "I read the blog. I recommend you to write a more descriptive blog, it should not be limited to what we discussed in the meeting (we have a seperate wiki page for this). Try to cover atleast the following points:<ul>\n<li>What all work you did in the week (maybe anything else from the ongoing work)</li>\n<li>What sort of challenges you faced and how you tackled it.</li>\n<li>What is the next week&#39;s plan. </li>\n</ul>\n",
+  "id": "5d0af24fe527d95add146615",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-20T02:41:19.326Z",
+  "text": "I read the blog. I recommend you to write a more descriptive blog, it should not be limited to what we discussed in the meeting (we have a seperate wiki page for this). Try to cover atleast the following points:\n- What all work you did in the week (maybe anything else from the ongoing work)\n- What sort of challenges you faced and how you tackled it.\n- What is the next week's plan. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "This will help everyone track the progress easily.",
+  "id": "5d0af2816f0ec85ade4ae3d5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-20T02:42:09.718Z",
+  "text": "This will help everyone track the progress easily.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "we mainly discussed the code of the PR . Okay In future I will be more descriptive about that <span data-link-type=\"mention\" data-screen-name=\"Yathartha22\" class=\"mention\">@Yathartha22</span> . Thanks for the feedback !!",
+  "id": "5d0bde195bc3210bb7679dd0",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "Yathartha22",
+    "userId": "57fb32f9d73408ce4f2d1266",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-20T19:27:21.657Z",
+  "text": "we mainly discussed the code of the PR . Okay In future I will be more descriptive about that @Yathartha22 . Thanks for the feedback !!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 4 blog</a>",
+  "id": "5d100433fd4aa914b532fd2c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-06-23T22:58:59.331Z",
+  "text": "[Week 4 blog](https://jmig5776.github.io//gsoc-week-4)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-4"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 5 blog</a>",
+  "id": "5d1be0c00ee3c30b1d73ca77",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-02T22:54:56.791Z",
+  "text": "[Week 5 blog](https://jmig5776.github.io//gsoc-week-5)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-5"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 6 blog</a>",
+  "id": "5d25193fbea9f357412709cd",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-09T22:46:23.303Z",
+  "text": "[Week 6 blog](https://jmig5776.github.io//gsoc-week-6)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-6"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-weel-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 7 blog</a>",
+  "id": "5d3250525ea6e644ece5768d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-19T23:20:50.388Z",
+  "text": "[Week 7 blog](https://jmig5776.github.io//gsoc-weel-7)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-weel-7"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 8 blog</a>",
+  "id": "5d375e9fec5abe7bbc36e8bb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-07-23T19:23:11.170Z",
+  "text": "[Week 8 blog](https://jmig5776.github.io//gsoc-week-8)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-8"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 9 blog</a>",
+  "id": "5d4d99795178a724765a7595",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-09T16:04:09.299Z",
+  "text": "[Week 9 blog](https://jmig5776.github.io//gsoc-week-9)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-9"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 10 blog</a>",
+  "id": "5d4d99959507182477abdfc2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-09T16:04:37.120Z",
+  "text": "[Week 10 blog](https://jmig5776.github.io//gsoc-week-10)",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-10"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "I had a look at the blog, it is not up to the mark. This is not how blogs are meant to be written for GSoC. I and Amit have already suggested to you about how blogs should be written, seems it is missing a lot of points.",
+  "id": "5d4db0d5bfd2887f53bcd603",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-09T17:43:49.454Z",
+  "text": "I had a look at the blog, it is not up to the mark. This is not how blogs are meant to be written for GSoC. I and Amit have already suggested to you about how blogs should be written, seems it is missing a lot of points.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/Yathartha22",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14955840?v=4&s=60",
+   "displayName": "Yathartha Joshi",
+   "gv": "4",
+   "id": "57fb32f9d73408ce4f2d1266",
+   "url": "/Yathartha22",
+   "username": "Yathartha22",
+   "v": 34
+  },
+  "html": "As far as PR&#39;s progress is concerned, firstly address the things that we discuss in our meetings and try to keep the things as simple as possible, do not complicate the things. Seems like you are trying to do a lot in the PR, which deteriorate your code quality. Be simple but apt in your approach.",
+  "id": "5d4db20bbeba830fff637991",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-09T17:48:59.208Z",
+  "text": "As far as PR's progress is concerned, firstly address the things that we discuss in our meetings and try to keep the things as simple as possible, do not complicate the things. Seems like you are trying to do a lot in the PR, which deteriorate your code quality. Be simple but apt in your approach.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<blockquote>\n<p>I had a look at the blog, it is not up to the mark. This is not how blogs are meant to be written for GSoC. I and Amit have already suggested to you about how blogs should be written, seems it is missing a lot of points.</p></blockquote>\n<p>As you know the algorithm was not defined for surely which we can rely on until the previous meeting. For sure a descriptive blog will be written like this <a href=\"https://github.com/sympy/sympy/pull/16976#issuecomment-520123228\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">comment</a> in this week if you mentors gets convinced. Because I did not had anything to write specifically in blog rather than the meeting.</p>",
+  "id": "5d4e6ba4a4efe3718dd83690",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-10T07:00:52.865Z",
+  "text": "> I had a look at the blog, it is not up to the mark. This is not how blogs are meant to be written for GSoC. I and Amit have already suggested to you about how blogs should be written, seems it is missing a lot of points.\n\nAs you know the algorithm was not defined for surely which we can rely on until the previous meeting. For sure a descriptive blog will be written like this [comment](https://github.com/sympy/sympy/pull/16976#issuecomment-520123228) in this week if you mentors gets convinced. Because I did not had anything to write specifically in blog rather than the meeting.\n",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/sympy/sympy/pull/16976#issuecomment-520123228"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<blockquote>\n<p>As far as PR&#39;s progress is concerned, firstly address the things that we discuss in our meetings and try to keep the things as simple as possible, do not complicate the things. Seems like you are trying to do a lot in the PR, which deteriorate your code quality. Be simple but apt in your approach.</p></blockquote>\n<p>I am not complicate thing I am trying to get the algorithm as efficient as possible. It needs lot of changes sometimes. I will make sure that approach should be made as simple as possible</p>",
+  "id": "5d4e6de24e17537f5206d5c3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-10T07:10:26.502Z",
+  "text": "> As far as PR's progress is concerned, firstly address the things that we discuss in our meetings and try to keep the things as simple as possible, do not complicate the things. Seems like you are trying to do a lot in the PR, which deteriorate your code quality. Be simple but apt in your approach.\n\nI am not complicate thing I am trying to get the algorithm as efficient as possible. It needs lot of changes sometimes. I will make sure that approach should be made as simple as possible",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jmig5776",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/39242494?v=4&s=60",
+   "displayName": "Jogi Miglani",
+   "gv": "4",
+   "id": "5be3e1d0d73408ce4fae3bab",
+   "url": "/jmig5776",
+   "username": "jmig5776",
+   "v": 13
+  },
+  "html": "<a href=\"https://jmig5776.github.io//gsoc-week-11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">Week 11 blog</a> Description of <code>_solve_modular</code> is included in this blog.",
+  "id": "5d57a03d53490e334d09c949",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2019-08-17T06:35:41.777Z",
+  "text": "[Week 11 blog](https://jmig5776.github.io//gsoc-week-11) Description of `_solve_modular` is included in this blog.",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://jmig5776.github.io//gsoc-week-11"
+   }
+  ],
+  "v": 1
+ }
+]
